@@ -88,18 +88,7 @@ class Renderer:
         groups: dict[str, list[dict]],
         synthesis: Synthesis,
     ) -> str:
-        """Render the daily page content with modern styling."""
-        # Group badge mapping
-        group_badges = {
-            "microsoft": "badge--microsoft",
-            "data_platform": "badge--data-platform",
-            "analytics_engineering": "badge--analytics",
-            "ai_agents": "badge--ai",
-            "ai_llm": "badge--ai",
-            "automation": "badge--automation",
-            "github": "badge--github",
-        }
-        
+        """Render the daily page content - clean and minimal."""
         # Group icons
         group_icons = {
             "microsoft": "🔷",
@@ -112,124 +101,74 @@ class Renderer:
         }
 
         total_items = sum(len(entries) for entries in groups.values())
+        date_formatted = datetime.strptime(date, "%Y-%m-%d").strftime("%B %d, %Y")
         
         lines = [
-            "---",
-            f"title: Daily Intelligence - {date}",
-            f"description: {total_items} curated articles for {date}",
+            f"# {date_formatted}",
+            "",
+            f"> **{total_items}** articles curated from **{len(groups)}** categories",
+            "",
             "---",
             "",
-            f'<div class="hero-section" style="padding: 2rem;">',
-            f'  <div class="status-badge">',
-            f'    <span class="status-badge__dot"></span>',
-            f'    {total_items} articles curated',
-            f'  </div>',
-            f'  <h1 class="hero-title" style="font-size: 2.5rem;">Daily Engineering Intelligence</h1>',
-            f'  <p class="hero-subtitle" style="font-size: 1.1rem;">{date}</p>',
-            f'  <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem;">',
+            "## Overview",
+            "",
         ]
         
-        # Add group badges
+        # Quick summary - just list categories with counts
         for group_name in sorted(groups.keys()):
-            badge_class = group_badges.get(group_name, "badge--ai")
             icon = group_icons.get(group_name, "📰")
-            lines.append(f'    <span class="badge {badge_class}">{icon} {self._format_group_name(group_name)}</span>')
+            count = len(groups[group_name])
+            formatted_name = self._format_group_name(group_name)
+            lines.append(f"- {icon} **{formatted_name}** — {count} article{'s' if count > 1 else ''}")
         
         lines.extend([
-            f'  </div>',
-            f'</div>',
             "",
-            '<div class="section-header">',
-            '  <span class="section-header__icon">📋</span>',
-            '  <span class="section-header__title">Quick Digest</span>',
-            '  <span class="section-header__line"></span>',
-            '</div>',
-            "",
-            '<div class="card" style="margin-bottom: 2rem;">',
-            "",
-            synthesis.digest_md,
-            "",
-            '</div>',
-            "",
-            '<div class="section-header">',
-            '  <span class="section-header__icon">📰</span>',
-            '  <span class="section-header__title">Today\'s Highlights</span>',
-            '  <span class="section-header__line"></span>',
-            '</div>',
+            "---",
             "",
         ])
 
-        # Add items by group with cards
+        # Articles by category
         for group_name, entries in sorted(groups.items()):
             icon = group_icons.get(group_name, "📰")
-            badge_class = group_badges.get(group_name, "badge--ai")
+            formatted_name = self._format_group_name(group_name)
             
-            lines.append(f"### {icon} {self._format_group_name(group_name)}")
+            lines.append(f"## {icon} {formatted_name}")
             lines.append("")
-            lines.append('<div class="bento-grid">')
 
             for entry in entries:
                 item = entry["item"]
                 article = entry["article"]
+                
+                # Article title as h3
+                lines.append(f"### [{item.title}]({item.url})")
+                lines.append(f"*{item.source}*")
+                lines.append("")
 
-                lines.append('<div class="card">')
-                lines.append(f'<span class="badge {badge_class}" style="margin-bottom: 0.75rem;">{item.source}</span>')
-                lines.append(f'<div class="card__title"><a href="{item.url}" target="_blank">{item.title}</a></div>')
-
+                # Content - prioritize extracted, fallback to snippet
                 if entry["has_content"] and article:
-                    summary = self._extract_summary(article.extracted_text)
-                    lines.append(f'<div class="card__description">{summary}</div>')
+                    summary = self._extract_summary(article.extracted_text, max_length=400)
+                    lines.append(f"> {summary}")
                 else:
-                    lines.append(f'<div class="card__description">{item.snippet}</div>')
-                    if not entry["has_content"]:
-                        lines.append('<p style="font-size: 0.75rem; color: var(--dei-warning); margin-top: 0.5rem;">⚠️ Full content not available</p>')
+                    lines.append(f"> {item.snippet}")
+                
+                lines.append("")
 
-                lines.append('</div>')
-
-            lines.append('</div>')
-            lines.append("")
-
-        # Add deep analysis section
+        # Sources section at the end
         lines.extend([
-            '<div class="section-header">',
-            '  <span class="section-header__icon">🔍</span>',
-            '  <span class="section-header__title">Deep Analysis</span>',
-            '  <span class="section-header__line"></span>',
-            '</div>',
+            "---",
             "",
-            '<div class="card card--featured" style="margin-bottom: 2rem;">',
-            "",
-            synthesis.blog_md,
-            "",
-            '</div>',
-            "",
-            '<div class="section-header">',
-            '  <span class="section-header__icon">📚</span>',
-            '  <span class="section-header__title">Sources</span>',
-            '  <span class="section-header__line"></span>',
-            '</div>',
+            "## 📚 All Sources",
             "",
         ])
-
-        # Add sources by group
+        
         for group_name, entries in sorted(groups.items()):
             icon = group_icons.get(group_name, "📰")
             lines.append(f"**{icon} {self._format_group_name(group_name)}**")
             lines.append("")
             for entry in entries:
                 item = entry["item"]
-                lines.append(f"- [{item.title}]({item.url}) - *{item.source}*")
+                lines.append(f"- [{item.title}]({item.url})")
             lines.append("")
-
-        # Footer
-        lines.extend([
-            "---",
-            "",
-            '<div style="text-align: center; padding: 1rem;">',
-            '  <a href="../" class="action-btn action-btn--secondary">← Back to Home</a>',
-            '  <a href="./" class="action-btn action-btn--secondary">📚 Browse Archive</a>',
-            '</div>',
-        ])
 
         return "\n".join(lines)
 
@@ -248,11 +187,12 @@ class Renderer:
         for para in paragraphs:
             if len(para) < 50:
                 continue
-            if para.startswith(("*", "-", "|", "[")):
+            if para.startswith(("*", "-", "|", "[", "!")):
                 continue
-
+            # Clean up the paragraph
+            para = para.replace("\n", " ").strip()
             if len(para) > max_length:
-                return para[:max_length] + "..."
+                return para[:max_length].rsplit(" ", 1)[0] + "..."
             return para
 
         return text[:max_length] + "..." if len(text) > max_length else text
@@ -270,17 +210,29 @@ class Renderer:
         index_path = self.daily_dir / "index.md"
 
         lines = [
-            "# Daily Intelligence Archive",
+            "# Archive",
             "",
-            "Browse past daily intelligence reports.",
+            "> Browse past daily intelligence reports",
             "",
-            "## Recent Reports",
+            "---",
             "",
         ]
 
-        # Sort dates descending (newest first)
+        # Group by month
+        current_month = None
         for date in sorted(dates, reverse=True):
-            lines.append(f"- [{date}]({date}.md)")
+            dt = datetime.strptime(date, "%Y-%m-%d")
+            month_key = dt.strftime("%B %Y")
+            
+            if month_key != current_month:
+                if current_month is not None:
+                    lines.append("")
+                lines.append(f"## {month_key}")
+                lines.append("")
+                current_month = month_key
+            
+            day_formatted = dt.strftime("%d %a")
+            lines.append(f"- [{day_formatted}]({date}.md)")
 
         lines.append("")
 
@@ -293,9 +245,6 @@ class Renderer:
         """
         Update the home page with link to latest.
 
-        Note: This is now handled by the static index.md file.
-        This method is kept for compatibility but does minimal updates.
-
         Args:
             latest_date: Date of latest report
 
@@ -307,15 +256,17 @@ class Renderer:
         # Read existing content and update the latest date link
         if home_path.exists():
             content = home_path.read_text(encoding="utf-8")
-            # Update the href link to latest report
+            # Update date references
             content = re.sub(
-                r'href="daily/\d{4}-\d{2}-\d{2}/"',
-                f'href="daily/{latest_date}/"',
+                r'daily/\d{4}-\d{2}-\d{2}/',
+                f'daily/{latest_date}/',
                 content
             )
+            # Update formatted date
+            new_date_formatted = datetime.strptime(latest_date, "%Y-%m-%d").strftime("%B %d, %Y")
             content = re.sub(
-                r'January \d+, \d{4}',
-                datetime.strptime(latest_date, "%Y-%m-%d").strftime("%B %d, %Y"),
+                r'[A-Z][a-z]+ \d{1,2}, \d{4}',
+                new_date_formatted,
                 content
             )
             home_path.write_text(content, encoding="utf-8")
