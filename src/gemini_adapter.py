@@ -129,6 +129,8 @@ Content:
     
     def _build_context(self, items: list[Item], articles: list[Article]) -> dict:
         """Build context for prompt templates."""
+        from datetime import datetime
+        
         article_map = {a.url: a for a in articles if a.success}
         
         summaries = []
@@ -144,10 +146,17 @@ URL: {item.url}
 {content}
 """)
         
+        # Get date from first item's published_at or use today's date
+        date_str = ""
+        if items and items[0].published_at:
+            date_str = items[0].published_at.strftime("%Y-%m-%d")
+        else:
+            date_str = datetime.now().strftime("%Y-%m-%d")
+        
         return {
             "article_summaries": "\n---\n".join(summaries),
             "article_count": len(items),
-            "date": items[0].collected_at.strftime("%Y-%m-%d") if items else "",
+            "date": date_str,
         }
 
 
