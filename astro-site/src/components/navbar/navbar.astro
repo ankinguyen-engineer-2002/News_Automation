@@ -4,6 +4,8 @@ import Link from "@/components/ui/link.astro";
 import Dropdown from "./dropdown.astro";
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
 
+const base = import.meta.env.BASE_URL;
+
 const topics = [
   { title: "🔷 Microsoft", slug: "microsoft", desc: "Power BI, Fabric, Azure" },
   { title: "🔶 Data Platform", slug: "data-platform", desc: "Databricks, Snowflake, BigQuery" },
@@ -19,16 +21,16 @@ const menuitems = [
     path: "#",
     children: topics.map(t => ({
       title: t.title,
-      path: `/topics/${t.slug}`,
+      path: `${base}/topics/${t.slug}`,
     })),
   },
   {
     title: "Archive",
-    path: "/archive",
+    path: `${base}/archive`,
   },
   {
     title: "About",
-    path: "/about",
+    path: `${base}/about`,
   },
 ];
 ---
@@ -37,7 +39,7 @@ const menuitems = [
   <header class="flex flex-col lg:flex-row justify-between items-center my-5">
     <Astronav>
       <div class="flex w-full lg:w-auto items-center justify-between">
-        <a href="/" class="text-lg flex items-center gap-2">
+        <a href={base || "/"} class="text-lg flex items-center gap-2">
           <span class="text-xl">📰</span>
           <span class="font-bold text-slate-800">Daily</span>
           <span class="text-slate-500">Intel</span>

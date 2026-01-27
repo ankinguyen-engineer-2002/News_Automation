@@ -7,11 +7,12 @@ export interface Props {
   count: number;
 }
 
+const base = import.meta.env.BASE_URL;
 const { icon, title, slug, description, count } = Astro.props;
 ---
 
 <a 
-  href={`/topics/${slug}`}
+  href={`${base}/topics/${slug}`}
   class="group block p-6 bg-white border border-slate-200 rounded-xl hover:border-slate-300 hover:shadow-md transition-all"
 >
   <div class="flex items-center gap-3 mb-3">

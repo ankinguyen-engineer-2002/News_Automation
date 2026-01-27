@@ -5,6 +5,8 @@ import TopicCard from "@/components/TopicCard.astro";
 import ArticleCard from "@/components/ArticleCard.astro";
 import { getCollection } from "astro:content";
 
+const base = import.meta.env.BASE_URL;
+
 // Get all articles
 const allArticles = await getCollection("articles");
 
@@ -56,10 +58,10 @@ const latestArticles = allArticles
       </p>
       
       <div class="flex flex-wrap gap-4 justify-center mt-8">
-        <a href={`/daily/${latestDate}`} class="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition">
+        <a href={`${base}/daily/${latestDate}`} class="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition">
           📰 Latest Report
         </a>
-        <a href="/archive" class="px-6 py-3 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition">
+        <a href={`${base}/archive`} class="px-6 py-3 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition">
           📚 Browse Archive
         </a>
       </div>
@@ -106,7 +108,7 @@ const latestArticles = allArticles
       <section class="py-12">
         <div class="flex items-center justify-between mb-6">
           <h2 class="text-2xl font-bold text-slate-900">Latest Articles</h2>
-          <a href={`/daily/${latestDate}`} class="text-sm text-indigo-600 hover:underline">
+          <a href={`${base}/daily/${latestDate}`} class="text-sm text-indigo-600 hover:underline">
             View all →
           </a>
         </div>

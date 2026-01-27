@@ -12,6 +12,7 @@ export interface Props {
   topic: string;
 }
 
+const base = import.meta.env.BASE_URL;
 const { number, date, title, title_vi, source, excerpt, excerpt_vi, url, slug, topic } = Astro.props;
 
 const topicColors: Record<string, string> = {
@@ -42,11 +43,11 @@ const colorClass = topicColors[topic] || 'bg-slate-100 text-slate-700';
       </div>
       
       <h3 class="font-semibold text-slate-900 group-hover:text-indigo-600 transition-colors line-clamp-2 mb-2">
-        <a href={`/article/${slug}`} class="hover:underline" data-lang-en>
+        <a href={`${base}/article/${slug}`} class="hover:underline" data-lang-en>
           {title}
         </a>
         {title_vi && (
-          <a href={`/article/${slug}`} class="hover:underline hidden" data-lang-vi>
+          <a href={`${base}/article/${slug}`} class="hover:underline hidden" data-lang-vi>
             {title_vi}
           </a>
         )}
