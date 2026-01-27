@@ -13,6 +13,7 @@ from .models import DailyRun, ItemStatus
 from .notifier import send_notification
 from .reader import Reader
 from .renderer import Renderer
+from .astro_renderer import AstroRenderer
 from .synthesizer import Synthesizer, get_adapter
 
 # Configure logging
@@ -205,6 +206,22 @@ def main():
 
         run.pages_rendered = True
         logger.info("Pages rendered")
+
+        # ==========================================
+        # Stage 5b: Rendering Astro content
+        # ==========================================
+        logger.info("=" * 50)
+        logger.info("Stage 5b: Rendering Astro content")
+        logger.info("=" * 50)
+
+        astro_dir = root_dir / "astro-site"
+        if astro_dir.exists():
+            astro_renderer = AstroRenderer(astro_dir=astro_dir)
+            astro_renderer.render_articles(args.date, selected_items, articles, synthesis)
+            astro_renderer.render_daily_summary(args.date, selected_items)
+            logger.info("Astro content rendered")
+        else:
+            logger.warning("astro-site directory not found, skipping Astro rendering")
 
         # ==========================================
         # Stage 6: Notification

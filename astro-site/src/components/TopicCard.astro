@@ -1,0 +1,36 @@
+---
+export interface Props {
+  icon: string;
+  title: string;
+  slug: string;
+  description: string;
+  count: number;
+}
+
+const { icon, title, slug, description, count } = Astro.props;
+---
+
+<a 
+  href={`/topics/${slug}`}
+  class="group block p-6 bg-white border border-slate-200 rounded-xl hover:border-slate-300 hover:shadow-md transition-all"
+>
+  <div class="flex items-center gap-3 mb-3">
+    <span class="text-2xl">{icon}</span>
+    <h3 class="font-semibold text-lg text-slate-900 group-hover:text-indigo-600 transition-colors">
+      {title}
+    </h3>
+  </div>
+  
+  <p class="text-sm text-slate-600 mb-4">
+    {description}
+  </p>
+  
+  <div class="flex items-center justify-between">
+    <span class="text-xs font-medium text-slate-500">
+      {count} articles
+    </span>
+    <span class="text-xs text-indigo-600 group-hover:translate-x-1 transition-transform">
+      View all →
+    </span>
+  </div>
+</a>
