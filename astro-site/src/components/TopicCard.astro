@@ -1,6 +1,6 @@
 ---
 export interface Props {
-  icon: string;
+  icon?: string;
   title: string;
   slug: string;
   description: string;
@@ -8,29 +8,40 @@ export interface Props {
 }
 
 const base = import.meta.env.BASE_URL;
-const { icon, title, slug, description, count } = Astro.props;
+const { title, slug, description, count } = Astro.props;
+
+const topicColors: Record<string, string> = {
+  'microsoft': 'topic-microsoft',
+  'data-platform': 'topic-data-platform',
+  'analytics-engineering': 'topic-analytics-engineering',
+  'ai-agents': 'topic-ai-agents',
+  'automation': 'topic-automation',
+  'github': 'topic-github',
+};
+
+const colorClass = topicColors[slug] || 'topic-github';
 ---
 
 <a 
   href={`${base}/topics/${slug}`}
-  class="group block p-6 bg-white border border-slate-200 rounded-xl hover:border-slate-300 hover:shadow-md transition-all"
+  class="group block p-6 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl hover:border-indigo-300 dark:hover:border-indigo-500 hover:shadow-md transition-all"
 >
   <div class="flex items-center gap-3 mb-3">
-    <span class="text-2xl">{icon}</span>
-    <h3 class="font-semibold text-lg text-slate-900 group-hover:text-indigo-600 transition-colors">
+    <span class={`topic-indicator ${colorClass}`}></span>
+    <h3 class="font-semibold text-lg text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
       {title}
     </h3>
   </div>
   
-  <p class="text-sm text-slate-600 mb-4">
+  <p class="text-sm text-slate-600 dark:text-slate-400 mb-4">
     {description}
   </p>
   
   <div class="flex items-center justify-between">
-    <span class="text-xs font-medium text-slate-500">
+    <span class="text-xs font-medium text-slate-500 dark:text-slate-400">
       {count} articles
     </span>
-    <span class="text-xs text-indigo-600 group-hover:translate-x-1 transition-transform">
+    <span class="text-xs text-indigo-600 dark:text-indigo-400 group-hover:translate-x-1 transition-transform">
       View all →
     </span>
   </div>

@@ -25,17 +25,27 @@ const articles = allArticles
 
 // Group by topic
 const topics = [
-  { slug: "microsoft", icon: "🔷", title: "Microsoft" },
-  { slug: "data-platform", icon: "🔶", title: "Data Platform" },
-  { slug: "analytics-engineering", icon: "🟢", title: "Analytics" },
-  { slug: "ai-agents", icon: "🟣", title: "AI / LLM" },
-  { slug: "automation", icon: "🔴", title: "Automation" },
-  { slug: "github", icon: "⚪", title: "GitHub" },
+  { slug: "microsoft", title: "Microsoft" },
+  { slug: "data-platform", title: "Data Platform" },
+  { slug: "analytics-engineering", title: "Analytics" },
+  { slug: "ai-agents", title: "AI / LLM" },
+  { slug: "automation", title: "Automation" },
+  { slug: "github", title: "GitHub" },
 ];
+
+const topicColors: Record<string, string> = {
+  'microsoft': 'topic-microsoft',
+  'data-platform': 'topic-data-platform',
+  'analytics-engineering': 'topic-analytics-engineering',
+  'ai-agents': 'topic-ai-agents',
+  'automation': 'topic-automation',
+  'github': 'topic-github',
+};
 
 const articlesByTopic = topics.map(topic => ({
   ...topic,
   articles: articles.filter(a => a.data.topic === topic.slug),
+  color: topicColors[topic.slug],
 })).filter(t => t.articles.length > 0);
 
 // Format date
@@ -53,11 +63,14 @@ const formatted = dateObj.toLocaleDateString('en-US', {
     <div class="py-12">
       <!-- Header -->
       <div class="mb-8">
-        <a href={`${base}/archive`} class="text-sm text-slate-500 hover:text-slate-700 mb-2 inline-block">
-          ← Archive
+        <a href={`${base}/archive`} class="inline-flex items-center gap-1 text-sm text-slate-500 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 mb-4 transition">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Archive
         </a>
-        <h1 class="text-3xl font-bold text-slate-900 mb-2">{formatted}</h1>
-        <p class="text-slate-600">
+        <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">{formatted}</h1>
+        <p class="text-slate-600 dark:text-slate-400">
           {articles.length} articles across {articlesByTopic.length} topics
         </p>
       </div>
@@ -67,9 +80,10 @@ const formatted = dateObj.toLocaleDateString('en-US', {
         {articlesByTopic.map(topic => (
           <a 
             href={`#${topic.slug}`}
-            class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 rounded-lg text-sm font-medium transition"
+            class="px-3 py-1.5 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 rounded-lg text-sm font-medium transition flex items-center gap-2"
           >
-            {topic.icon} {topic.title} ({topic.articles.length})
+            <span class={`topic-indicator ${topic.color}`}></span>
+            {topic.title} ({topic.articles.length})
           </a>
         ))}
       </div>
@@ -77,10 +91,10 @@ const formatted = dateObj.toLocaleDateString('en-US', {
       <!-- Articles by topic -->
       {articlesByTopic.map(topic => (
         <section id={topic.slug} class="mb-12">
-          <h2 class="text-xl font-semibold text-slate-800 mb-4 flex items-center gap-2">
-            <span>{topic.icon}</span>
+          <h2 class="text-xl font-semibold text-slate-800 dark:text-white mb-4 flex items-center gap-2">
+            <span class={`topic-indicator ${topic.color}`}></span>
             <span>{topic.title}</span>
-            <span class="h-px flex-1 bg-slate-200"></span>
+            <span class="h-px flex-1 bg-slate-200 dark:bg-slate-700"></span>
           </h2>
           
           <div class="grid md:grid-cols-2 gap-4">

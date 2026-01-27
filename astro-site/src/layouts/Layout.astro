@@ -26,12 +26,13 @@ const makeTitle = title
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <meta name="generator" content={Astro.generator} />
+    <meta name="color-scheme" content="light dark" />
 
     <SEO
       title={makeTitle}
@@ -54,8 +55,17 @@ const makeTitle = title
         },
       }}
     />
+    
+    <!-- Theme initialization script to prevent flash -->
+    <script is:inline>
+      const savedTheme = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      }
+    </script>
   </head>
-  <body>
+  <body class="bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-slate-100 transition-colors duration-200">
     <Navbar />
     <slot />
     <Footer />

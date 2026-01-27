@@ -9,15 +9,25 @@
     'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
-/*
-  The default border color has changed to `currentColor` in Tailwind CSS v4,
-  so we've added these compatibility styles to make sure everything still
-  looks the same as it did with Tailwind CSS v3.
+/* Custom theme colors */
+:root {
+  --bg-primary: #f8fafc;
+  --bg-secondary: #f1f5f9;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --border-color: #e2e8f0;
+}
 
-  If we ever want to remove these styles, we need to add an explicit border
-  color utility to any element that depends on these defaults.
-*/
+.dark {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --border-color: #334155;
+}
+
 @layer base {
+
   *,
   ::after,
   ::before,
@@ -25,4 +35,64 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
   }
+
+  /* Smooth transitions for theme switching */
+  html {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+  }
+}
+
+/* Dark mode body styling */
+.dark body {
+  background-color: #0f172a;
+}
+
+/* Topic indicator colors - geometric style */
+.topic-indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.topic-microsoft {
+  background: linear-gradient(135deg, #0078d4, #00bcf2);
+}
+
+.topic-data-platform {
+  background: linear-gradient(135deg, #f97316, #fbbf24);
+}
+
+.topic-analytics-engineering {
+  background: linear-gradient(135deg, #22c55e, #86efac);
+}
+
+.topic-ai-agents {
+  background: linear-gradient(135deg, #8b5cf6, #c4b5fd);
+}
+
+.topic-automation {
+  background: linear-gradient(135deg, #ef4444, #fca5a5);
+}
+
+.topic-github {
+  background: linear-gradient(135deg, #64748b, #cbd5e1);
+}
+
+/* Hide elements based on language */
+[data-lang-vi] {
+  display: none;
+}
+
+html[data-lang="vi"] [data-lang-en] {
+  display: none;
+}
+
+html[data-lang="vi"] [data-lang-vi] {
+  display: block !important;
 }

@@ -11,16 +11,17 @@ export async function getStaticPaths() {
   }));
 }
 
+const base = import.meta.env.BASE_URL;
 const { article } = Astro.props;
 const { Content } = await render(article);
 
-const topicIcons: Record<string, string> = {
-  'microsoft': '🔷',
-  'data-platform': '🔶',
-  'analytics-engineering': '🟢',
-  'ai-agents': '🟣',
-  'automation': '🔴',
-  'github': '⚪',
+const topicNames: Record<string, string> = {
+  'microsoft': 'Microsoft',
+  'data-platform': 'Data Platform',
+  'analytics-engineering': 'Analytics',
+  'ai-agents': 'AI / LLM',
+  'automation': 'Automation',
+  'github': 'GitHub',
 };
 ---
 
@@ -29,12 +30,15 @@ const topicIcons: Record<string, string> = {
     <article class="py-12 max-w-3xl mx-auto">
       <!-- Header -->
       <div class="mb-8">
-        <a href={`/topics/${article.data.topic}`} class="text-sm text-slate-500 hover:text-slate-700 mb-2 inline-block">
-          ← {topicIcons[article.data.topic]} Back to topic
+        <a href={`${base}/topics/${article.data.topic}`} class="inline-flex items-center gap-1 text-sm text-slate-500 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 mb-4 transition">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Back to {topicNames[article.data.topic]}
         </a>
         
-        <div class="flex items-center gap-2 mb-4 text-sm text-slate-500">
-          <span class="font-mono bg-slate-900 text-white px-2 py-0.5 rounded text-xs">
+        <div class="flex items-center gap-2 mb-4 text-sm text-slate-500 dark:text-slate-400">
+          <span class="font-mono bg-slate-900 dark:bg-slate-700 text-white px-2 py-0.5 rounded text-xs">
             #{String(article.data.number).padStart(2, '0')}
           </span>
           <span>{article.data.date}</span>
@@ -42,11 +46,11 @@ const topicIcons: Record<string, string> = {
           <span>{article.data.source}</span>
         </div>
         
-        <h1 class="text-3xl font-bold text-slate-900 mb-2" data-lang-en>
+        <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2" data-lang-en>
           {article.data.title}
         </h1>
         {article.data.title_vi && (
-          <h1 class="text-3xl font-bold text-slate-900 mb-2 hidden" data-lang-vi>
+          <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2 hidden" data-lang-vi>
             {article.data.title_vi}
           </h1>
         )}
@@ -55,14 +59,20 @@ const topicIcons: Record<string, string> = {
           href={article.data.url}
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-flex items-center gap-1 text-indigo-600 hover:underline"
+          class="inline-flex items-center gap-1 text-indigo-600 dark:text-indigo-400 hover:underline"
         >
           Read original article →
         </a>
       </div>
       
       <!-- Content -->
-      <div class="prose prose-slate max-w-none">
+      <div class="prose prose-slate dark:prose-invert max-w-none
+        prose-headings:text-slate-900 dark:prose-headings:text-white
+        prose-p:text-slate-600 dark:prose-p:text-slate-300
+        prose-a:text-indigo-600 dark:prose-a:text-indigo-400
+        prose-strong:text-slate-900 dark:prose-strong:text-white
+        prose-code:bg-slate-100 dark:prose-code:bg-slate-800
+        prose-pre:bg-slate-900 dark:prose-pre:bg-slate-800">
         <Content />
       </div>
     </article>

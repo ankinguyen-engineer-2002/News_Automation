@@ -16,12 +16,12 @@ const latestDate = dates[0] || new Date().toISOString().split('T')[0];
 
 // Topic definitions
 const topics = [
-  { icon: "🔷", title: "Microsoft", slug: "microsoft", desc: "Power BI, Fabric, Azure Data" },
-  { icon: "🔶", title: "Data Platform", slug: "data-platform", desc: "Databricks, Snowflake, BigQuery" },
-  { icon: "🟢", title: "Analytics", slug: "analytics-engineering", desc: "dbt, Airflow, Dagster" },
-  { icon: "🟣", title: "AI / LLM", slug: "ai-agents", desc: "OpenAI, Claude, Gemini" },
-  { icon: "🔴", title: "Automation", slug: "automation", desc: "n8n, Temporal, CI/CD" },
-  { icon: "⚪", title: "GitHub", slug: "github", desc: "Blog, Changelog, Trending" },
+  { title: "Microsoft", slug: "microsoft", desc: "Power BI, Fabric, Azure Data" },
+  { title: "Data Platform", slug: "data-platform", desc: "Databricks, Snowflake, BigQuery" },
+  { title: "Analytics", slug: "analytics-engineering", desc: "dbt, Airflow, Dagster" },
+  { title: "AI / LLM", slug: "ai-agents", desc: "OpenAI, Claude, Gemini" },
+  { title: "Automation", slug: "automation", desc: "n8n, Temporal, CI/CD" },
+  { title: "GitHub", slug: "github", desc: "Blog, Changelog, Trending" },
 ];
 
 // Count articles per topic
@@ -41,59 +41,58 @@ const latestArticles = allArticles
   <Container>
     <!-- Hero Section -->
     <div class="py-16 text-center">
-      <span class="inline-block px-3 py-1 text-sm font-medium bg-indigo-100 text-indigo-700 rounded-full mb-4">
+      <span class="inline-block px-3 py-1 text-sm font-medium bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-300 rounded-full mb-4">
         Updated Daily via GitHub Actions
       </span>
-      <h1 class="text-4xl lg:text-5xl font-bold text-slate-900 mb-4" data-lang-en>
+      <h1 class="text-4xl lg:text-5xl font-bold text-slate-900 dark:text-white mb-4" data-lang-en>
         Daily Engineering Intelligence
       </h1>
-      <h1 class="text-4xl lg:text-5xl font-bold text-slate-900 mb-4 hidden" data-lang-vi>
+      <h1 class="text-4xl lg:text-5xl font-bold text-slate-900 dark:text-white mb-4 hidden" data-lang-vi>
         Tin Tức Kỹ Thuật Hàng Ngày
       </h1>
-      <p class="text-xl text-slate-600 max-w-2xl mx-auto" data-lang-en>
+      <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto" data-lang-en>
         AI-curated news for Data Engineering, Analytics & AI — delivered fresh every day.
       </p>
-      <p class="text-xl text-slate-600 max-w-2xl mx-auto hidden" data-lang-vi>
+      <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto hidden" data-lang-vi>
         Tin tức về Data Engineering, Analytics & AI được AI tổng hợp mỗi ngày.
       </p>
       
       <div class="flex flex-wrap gap-4 justify-center mt-8">
-        <a href={`${base}/daily/${latestDate}`} class="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition">
+        <a href={`${base}/daily/${latestDate}`} class="px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg font-medium transition">
           📰 Latest Report
         </a>
-        <a href={`${base}/archive`} class="px-6 py-3 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition">
+        <a href={`${base}/archive`} class="px-6 py-3 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200 rounded-lg font-medium hover:bg-slate-300 dark:hover:bg-slate-600 transition">
           📚 Browse Archive
         </a>
       </div>
     </div>
     
     <!-- Stats -->
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 py-8 border-y border-slate-200">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 py-8 border-y border-slate-200 dark:border-slate-700">
       <div class="text-center">
-        <div class="text-3xl font-bold text-indigo-600">17+</div>
-        <div class="text-sm text-slate-500">Sources</div>
+        <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400">17+</div>
+        <div class="text-sm text-slate-500 dark:text-slate-400">Sources</div>
       </div>
       <div class="text-center">
-        <div class="text-3xl font-bold text-indigo-600">6</div>
-        <div class="text-sm text-slate-500">Topics</div>
+        <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400">6</div>
+        <div class="text-sm text-slate-500 dark:text-slate-400">Topics</div>
       </div>
       <div class="text-center">
-        <div class="text-3xl font-bold text-indigo-600">{allArticles.length}</div>
-        <div class="text-sm text-slate-500">Articles</div>
+        <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400">{allArticles.length}</div>
+        <div class="text-sm text-slate-500 dark:text-slate-400">Articles</div>
       </div>
       <div class="text-center">
-        <div class="text-3xl font-bold text-indigo-600">Daily</div>
-        <div class="text-sm text-slate-500">Updates</div>
+        <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400">Daily</div>
+        <div class="text-sm text-slate-500 dark:text-slate-400">Updates</div>
       </div>
     </div>
     
     <!-- Topics Grid -->
     <section class="py-12">
-      <h2 class="text-2xl font-bold text-slate-900 mb-6">Browse by Topic</h2>
+      <h2 class="text-2xl font-bold text-slate-900 dark:text-white mb-6">Browse by Topic</h2>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
         {topicCounts.map(topic => (
           <TopicCard 
-            icon={topic.icon}
             title={topic.title}
             slug={topic.slug}
             description={topic.desc}
@@ -107,8 +106,8 @@ const latestArticles = allArticles
     {latestArticles.length > 0 && (
       <section class="py-12">
         <div class="flex items-center justify-between mb-6">
-          <h2 class="text-2xl font-bold text-slate-900">Latest Articles</h2>
-          <a href={`${base}/daily/${latestDate}`} class="text-sm text-indigo-600 hover:underline">
+          <h2 class="text-2xl font-bold text-slate-900 dark:text-white">Latest Articles</h2>
+          <a href={`${base}/daily/${latestDate}`} class="text-sm text-indigo-600 dark:text-indigo-400 hover:underline">
             View all →
           </a>
         </div>

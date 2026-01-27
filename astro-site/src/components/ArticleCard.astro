@@ -16,33 +16,44 @@ const base = import.meta.env.BASE_URL;
 const { number, date, title, title_vi, source, excerpt, excerpt_vi, url, slug, topic } = Astro.props;
 
 const topicColors: Record<string, string> = {
-  'microsoft': 'bg-blue-100 text-blue-700',
-  'data-platform': 'bg-orange-100 text-orange-700',
-  'analytics-engineering': 'bg-green-100 text-green-700',
-  'ai-agents': 'bg-purple-100 text-purple-700',
-  'automation': 'bg-pink-100 text-pink-700',
-  'github': 'bg-gray-100 text-gray-700',
+  'microsoft': 'topic-microsoft',
+  'data-platform': 'topic-data-platform',
+  'analytics-engineering': 'topic-analytics-engineering',
+  'ai-agents': 'topic-ai-agents',
+  'automation': 'topic-automation',
+  'github': 'topic-github',
 };
 
-const colorClass = topicColors[topic] || 'bg-slate-100 text-slate-700';
+const sourceColors: Record<string, string> = {
+  'microsoft': 'bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300',
+  'data-platform': 'bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300',
+  'analytics-engineering': 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300',
+  'ai-agents': 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300',
+  'automation': 'bg-pink-100 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300',
+  'github': 'bg-gray-100 dark:bg-gray-700/30 text-gray-700 dark:text-gray-300',
+};
+
+const colorClass = sourceColors[topic] || 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300';
+const indicatorClass = topicColors[topic] || 'topic-github';
 ---
 
-<article class="group p-4 border border-slate-200 rounded-xl hover:border-slate-300 hover:shadow-sm transition-all">
+<article class="group p-4 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl hover:border-indigo-300 dark:hover:border-indigo-500 hover:shadow-sm transition-all">
   <div class="flex items-start gap-4">
     <!-- Number Badge -->
-    <div class="flex-shrink-0 w-12 h-12 flex items-center justify-center bg-slate-900 text-white rounded-lg font-mono text-lg font-bold">
+    <div class="flex-shrink-0 w-12 h-12 flex items-center justify-center bg-slate-900 dark:bg-slate-700 text-white rounded-lg font-mono text-lg font-bold">
       #{String(number).padStart(2, '0')}
     </div>
     
     <!-- Content -->
     <div class="flex-1 min-w-0">
-      <div class="flex items-center gap-2 mb-1 text-sm text-slate-500">
+      <div class="flex items-center gap-2 mb-1 text-sm text-slate-500 dark:text-slate-400">
+        <span class={`topic-indicator ${indicatorClass}`}></span>
         <time class="font-mono">{date}</time>
         <span>·</span>
         <span class={`px-2 py-0.5 rounded text-xs font-medium ${colorClass}`}>{source}</span>
       </div>
       
-      <h3 class="font-semibold text-slate-900 group-hover:text-indigo-600 transition-colors line-clamp-2 mb-2">
+      <h3 class="font-semibold text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-2 mb-2">
         <a href={`${base}/article/${slug}`} class="hover:underline" data-lang-en>
           {title}
         </a>
@@ -53,11 +64,11 @@ const colorClass = topicColors[topic] || 'bg-slate-100 text-slate-700';
         )}
       </h3>
       
-      <p class="text-sm text-slate-600 line-clamp-2" data-lang-en>
+      <p class="text-sm text-slate-600 dark:text-slate-400 line-clamp-2" data-lang-en>
         {excerpt}
       </p>
       {excerpt_vi && (
-        <p class="text-sm text-slate-600 line-clamp-2 hidden" data-lang-vi>
+        <p class="text-sm text-slate-600 dark:text-slate-400 line-clamp-2 hidden" data-lang-vi>
           {excerpt_vi}
         </p>
       )}
@@ -66,7 +77,7 @@ const colorClass = topicColors[topic] || 'bg-slate-100 text-slate-700';
         href={url} 
         target="_blank" 
         rel="noopener noreferrer"
-        class="inline-flex items-center gap-1 mt-2 text-xs text-slate-400 hover:text-slate-600"
+        class="inline-flex items-center gap-1 mt-2 text-xs text-slate-400 dark:text-slate-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition"
       >
         Read original →
       </a>
