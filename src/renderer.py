@@ -88,72 +88,148 @@ class Renderer:
         groups: dict[str, list[dict]],
         synthesis: Synthesis,
     ) -> str:
-        """Render the daily page content."""
+        """Render the daily page content with modern styling."""
+        # Group badge mapping
+        group_badges = {
+            "microsoft": "badge--microsoft",
+            "data_platform": "badge--data-platform",
+            "analytics_engineering": "badge--analytics",
+            "ai_agents": "badge--ai",
+            "ai_llm": "badge--ai",
+            "automation": "badge--automation",
+            "github": "badge--github",
+        }
+        
+        # Group icons
+        group_icons = {
+            "microsoft": "🔷",
+            "data_platform": "🔶",
+            "analytics_engineering": "🟢",
+            "ai_agents": "🟣",
+            "ai_llm": "🟣",
+            "automation": "🔴",
+            "github": "⚪",
+        }
+
+        total_items = sum(len(entries) for entries in groups.values())
+        
         lines = [
-            f"# Daily Engineering Intelligence - {date}",
-            "",
-            f"*Generated on {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}*",
-            "",
+            "---",
+            f"title: Daily Intelligence - {date}",
+            f"description: {total_items} curated articles for {date}",
             "---",
             "",
-            "## 📋 Quick Digest",
+            f'<div class="hero-section" style="padding: 2rem;">',
+            f'  <div class="status-badge">',
+            f'    <span class="status-badge__dot"></span>',
+            f'    {total_items} articles curated',
+            f'  </div>',
+            f'  <h1 class="hero-title" style="font-size: 2.5rem;">Daily Engineering Intelligence</h1>',
+            f'  <p class="hero-subtitle" style="font-size: 1.1rem;">{date}</p>',
+            f'  <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem;">',
+        ]
+        
+        # Add group badges
+        for group_name in sorted(groups.keys()):
+            badge_class = group_badges.get(group_name, "badge--ai")
+            icon = group_icons.get(group_name, "📰")
+            lines.append(f'    <span class="badge {badge_class}">{icon} {self._format_group_name(group_name)}</span>')
+        
+        lines.extend([
+            f'  </div>',
+            f'</div>',
+            "",
+            '<div class="section-header">',
+            '  <span class="section-header__icon">📋</span>',
+            '  <span class="section-header__title">Quick Digest</span>',
+            '  <span class="section-header__line"></span>',
+            '</div>',
+            "",
+            '<div class="card" style="margin-bottom: 2rem;">',
             "",
             synthesis.digest_md,
             "",
-            "---",
+            '</div>',
             "",
-            "## 📰 Today's Highlights",
+            '<div class="section-header">',
+            '  <span class="section-header__icon">📰</span>',
+            '  <span class="section-header__title">Today\'s Highlights</span>',
+            '  <span class="section-header__line"></span>',
+            '</div>',
             "",
-        ]
+        ])
 
-        # Add items by group
+        # Add items by group with cards
         for group_name, entries in sorted(groups.items()):
-            lines.append(f"### {self._format_group_name(group_name)}")
+            icon = group_icons.get(group_name, "📰")
+            badge_class = group_badges.get(group_name, "badge--ai")
+            
+            lines.append(f"### {icon} {self._format_group_name(group_name)}")
             lines.append("")
+            lines.append('<div class="bento-grid">')
 
             for entry in entries:
                 item = entry["item"]
                 article = entry["article"]
 
-                lines.append(f"#### [{item.title}]({item.url})")
-                lines.append(f"*{item.source}*")
-                lines.append("")
+                lines.append('<div class="card">')
+                lines.append(f'<span class="badge {badge_class}" style="margin-bottom: 0.75rem;">{item.source}</span>')
+                lines.append(f'<div class="card__title"><a href="{item.url}" target="_blank">{item.title}</a></div>')
 
                 if entry["has_content"] and article:
-                    # Show summary from extracted content
                     summary = self._extract_summary(article.extracted_text)
-                    lines.append(summary)
+                    lines.append(f'<div class="card__description">{summary}</div>')
                 else:
-                    # Show snippet only
-                    lines.append(f"> {item.snippet}")
+                    lines.append(f'<div class="card__description">{item.snippet}</div>')
                     if not entry["has_content"]:
-                        lines.append("")
-                        lines.append("*⚠️ Full content not available*")
+                        lines.append('<p style="font-size: 0.75rem; color: var(--dei-warning); margin-top: 0.5rem;">⚠️ Full content not available</p>')
 
-                lines.append("")
+                lines.append('</div>')
+
+            lines.append('</div>')
+            lines.append("")
 
         # Add deep analysis section
         lines.extend([
-            "---",
+            '<div class="section-header">',
+            '  <span class="section-header__icon">🔍</span>',
+            '  <span class="section-header__title">Deep Analysis</span>',
+            '  <span class="section-header__line"></span>',
+            '</div>',
             "",
-            "## 🔍 Deep Analysis",
+            '<div class="card card--featured" style="margin-bottom: 2rem;">',
             "",
             synthesis.blog_md,
             "",
-            "---",
+            '</div>',
             "",
-            "## 📚 Sources",
+            '<div class="section-header">',
+            '  <span class="section-header__icon">📚</span>',
+            '  <span class="section-header__title">Sources</span>',
+            '  <span class="section-header__line"></span>',
+            '</div>',
             "",
         ])
 
         # Add sources by group
         for group_name, entries in sorted(groups.items()):
-            lines.append(f"### {self._format_group_name(group_name)}")
+            icon = group_icons.get(group_name, "📰")
+            lines.append(f"**{icon} {self._format_group_name(group_name)}**")
             lines.append("")
             for entry in entries:
                 item = entry["item"]
                 lines.append(f"- [{item.title}]({item.url}) - *{item.source}*")
             lines.append("")
+
+        # Footer
+        lines.extend([
+            "---",
+            "",
+            '<div style="text-align: center; padding: 1rem;">',
+            '  <a href="../" class="action-btn action-btn--secondary">← Back to Home</a>',
+            '  <a href="./" class="action-btn action-btn--secondary">📚 Browse Archive</a>',
+            '</div>',
+        ])
 
         return "\n".join(lines)
 
@@ -217,6 +293,9 @@ class Renderer:
         """
         Update the home page with link to latest.
 
+        Note: This is now handled by the static index.md file.
+        This method is kept for compatibility but does minimal updates.
+
         Args:
             latest_date: Date of latest report
 
@@ -224,35 +303,24 @@ class Renderer:
             Path to home page
         """
         home_path = self.docs_dir / "index.md"
-
-        content = f"""# Daily Engineering Intelligence
-
-Welcome to your daily curated engineering intelligence feed.
-
-## Latest Report
-
-📅 **[{latest_date}](daily/{latest_date}.md)** - View today's report
-
-## Topics Covered
-
-- **Microsoft Data/Analytics**: Power BI, Fabric, Azure Data, Power Platform
-- **Data Platform**: Databricks, Snowflake, BigQuery, Lakehouse
-- **Analytics Engineering**: dbt, Airflow, Dagster, Prefect
-- **AI/LLM/Agents**: Model releases, agent frameworks, MCP ecosystem
-- **Automation**: n8n, Temporal, CI/CD
-
-## Browse Archive
-
-📚 [View all daily reports](daily/index.md)
-
----
-
-*Updated automatically via GitHub Actions*
-"""
-
-        home_path.write_text(content, encoding="utf-8")
+        
+        # Read existing content and update the latest date link
+        if home_path.exists():
+            content = home_path.read_text(encoding="utf-8")
+            # Update the href link to latest report
+            content = re.sub(
+                r'href="daily/\d{4}-\d{2}-\d{2}/"',
+                f'href="daily/{latest_date}/"',
+                content
+            )
+            content = re.sub(
+                r'January \d+, \d{4}',
+                datetime.strptime(latest_date, "%Y-%m-%d").strftime("%B %d, %Y"),
+                content
+            )
+            home_path.write_text(content, encoding="utf-8")
+            
         logger.info(f"Updated home page: {home_path}")
-
         return home_path
 
     def get_existing_dates(self) -> list[str]:
