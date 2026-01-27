@@ -12,4 +12,5 @@ markdownify>=0.11.6
 Jinja2>=3.1.2
 mkdocs>=1.5.3
 mkdocs-material>=9.5.0
+google-generativeai>=0.5.0
 pytest>=7.4.0

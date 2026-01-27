@@ -320,7 +320,7 @@ def get_adapter(adapter_name: str) -> LLMAdapter:
     Get an LLM adapter by name.
 
     Args:
-        adapter_name: Name of adapter ("nollm", "cli")
+        adapter_name: Name of adapter ("nollm", "cli", "gemini")
 
     Returns:
         LLM adapter instance
@@ -329,6 +329,13 @@ def get_adapter(adapter_name: str) -> LLMAdapter:
         return NoLLMAdapter()
     elif adapter_name.lower() == "cli":
         return CLIAdapter()
+    elif adapter_name.lower() == "gemini":
+        try:
+            from .gemini_adapter import GeminiAdapter
+            return GeminiAdapter()
+        except Exception as e:
+            logger.warning(f"Failed to initialize Gemini adapter: {e}, using NoLLM")
+            return NoLLMAdapter()
     else:
         logger.warning(f"Unknown adapter: {adapter_name}, using NoLLM")
         return NoLLMAdapter()

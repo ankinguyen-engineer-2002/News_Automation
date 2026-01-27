@@ -15,11 +15,11 @@ on:
       adapter:
         description: 'LLM adapter to use'
         required: false
-        default: 'nollm'
+        default: 'gemini'
         type: choice
         options:
           - nollm
-          - cli
+          - gemini
 
 permissions:
   contents: write
@@ -78,12 +78,12 @@ jobs:
           if [ -n "${{ github.event.inputs.adapter }}" ]; then
             echo "ADAPTER=${{ github.event.inputs.adapter }}" >> $GITHUB_OUTPUT
           else
-            echo "ADAPTER=nollm" >> $GITHUB_OUTPUT
+            echo "ADAPTER=gemini" >> $GITHUB_OUTPUT
           fi
       
       - name: Run pipeline
         env:
-          LLM_CLI_COMMAND: ${{ secrets.LLM_CLI_COMMAND }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

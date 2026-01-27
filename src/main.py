@@ -42,8 +42,8 @@ def main():
         "--adapter",
         type=str,
         default="nollm",
-        choices=["nollm", "cli"],
-        help="LLM adapter to use (default: nollm)",
+        choices=["nollm", "cli", "gemini"],
+        help="LLM adapter to use (default: nollm, use gemini for AI features)",
     )
     parser.add_argument(
         "--site-url",
@@ -216,7 +216,9 @@ def main():
 
         astro_dir = root_dir / "astro-site"
         if astro_dir.exists():
-            astro_renderer = AstroRenderer(astro_dir=astro_dir)
+            # Use AI for translations if gemini adapter is selected
+            use_ai = args.adapter == "gemini"
+            astro_renderer = AstroRenderer(astro_dir=astro_dir, use_ai=use_ai)
             astro_renderer.render_articles(args.date, selected_items, articles, synthesis)
             astro_renderer.render_daily_summary(args.date, selected_items)
             logger.info("Astro content rendered")
