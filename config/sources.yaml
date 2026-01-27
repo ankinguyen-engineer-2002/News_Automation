@@ -1,0 +1,117 @@
+# News Sources Configuration
+# Add sources by group. Each source should have:
+# - name: Display name
+# - type: rss | api | scrape
+# - url: Feed URL or endpoint
+# - tags: List of topic tags
+# - priority: 1-10 (higher = more important)
+# - enabled: true/false (optional, defaults to true)
+
+groups:
+  microsoft:
+    - name: "Power BI Blog"
+      type: rss
+      url: "https://powerbi.microsoft.com/en-us/blog/feed/"
+      tags: [powerbi, microsoft, analytics, fabric]
+      priority: 1
+
+    - name: "Microsoft Azure Blog"
+      type: rss
+      url: "https://azure.microsoft.com/en-us/blog/feed/"
+      tags: [azure, microsoft, cloud]
+      priority: 2
+
+    - name: "Microsoft Data Platform Blog"
+      type: rss
+      url: "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=AzureDataBlog&size=25"
+      tags: [azure, data, microsoft]
+      priority: 1
+
+  data_platform:
+    - name: "Databricks Blog"
+      type: rss
+      url: "https://www.databricks.com/blog/feed"
+      tags: [databricks, spark, lakehouse, delta]
+      priority: 1
+
+    - name: "Snowflake Blog"
+      type: rss
+      url: "https://www.snowflake.com/blog/feed/"
+      tags: [snowflake, data-warehouse, cloud]
+      priority: 1
+
+    - name: "dbt Labs Blog"
+      type: rss
+      url: "https://www.getdbt.com/blog/feed.xml"
+      tags: [dbt, analytics-engineering, data-transformation]
+      priority: 1
+
+  analytics_engineering:
+    - name: "Apache Airflow Blog"
+      type: rss
+      url: "https://airflow.apache.org/blog/feed.xml"
+      tags: [airflow, orchestration, workflow]
+      priority: 2
+
+    - name: "Dagster Blog"
+      type: rss
+      url: "https://dagster.io/blog/rss.xml"
+      tags: [dagster, orchestration, data-assets]
+      priority: 2
+
+    - name: "Prefect Blog"
+      type: rss
+      url: "https://www.prefect.io/blog/feed"
+      tags: [prefect, orchestration, workflow]
+      priority: 2
+
+  ai_agents:
+    - name: "OpenAI Blog"
+      type: rss
+      url: "https://openai.com/blog/rss/"
+      tags: [openai, gpt, llm, ai]
+      priority: 1
+
+    - name: "Anthropic Blog"
+      type: rss
+      url: "https://www.anthropic.com/blog/rss"
+      tags: [anthropic, claude, llm, ai]
+      priority: 1
+
+    - name: "Google AI Blog"
+      type: rss
+      url: "https://blog.google/technology/ai/rss/"
+      tags: [google, gemini, llm, ai]
+      priority: 1
+
+    - name: "Hugging Face Blog"
+      type: rss
+      url: "https://huggingface.co/blog/feed.xml"
+      tags: [huggingface, transformers, ml, open-source]
+      priority: 2
+
+  automation:
+    - name: "n8n Blog"
+      type: rss
+      url: "https://n8n.io/blog/rss.xml"
+      tags: [n8n, automation, workflow, low-code]
+      priority: 2
+
+    - name: "Temporal Blog"
+      type: rss
+      url: "https://temporal.io/blog/feed.xml"
+      tags: [temporal, workflow, orchestration]
+      priority: 2
+
+  github:
+    - name: "GitHub Blog"
+      type: rss
+      url: "https://github.blog/feed/"
+      tags: [github, devops, development]
+      priority: 2
+
+    - name: "GitHub Changelog"
+      type: rss
+      url: "https://github.blog/changelog/feed/"
+      tags: [github, releases, features]
+      priority: 3

@@ -1,0 +1,79 @@
+# Curation Configuration
+# Controls how items are filtered and selected
+
+# Maximum items to select per group
+top_per_group: 5
+
+# Maximum age of items to consider (days)
+max_age_days: 7
+
+# Minimum title length to include
+min_title_length: 10
+
+# Allowlist: Items matching any of these keywords get priority
+# If empty, all items are considered
+# Keywords are case-insensitive and match anywhere in title/snippet
+allowlist:
+  # Microsoft / Power BI
+  - "power bi"
+  - "fabric"
+  - "azure synapse"
+  - "power platform"
+  - "dax"
+  - "semantic model"
+  - "dataflow"
+  - "paginated report"
+
+  # Data Platform
+  - "databricks"
+  - "snowflake"
+  - "bigquery"
+  - "lakehouse"
+  - "delta lake"
+  - "iceberg"
+  - "hudi"
+  - "data lake"
+  - "data warehouse"
+
+  # Analytics Engineering
+  - "dbt"
+  - "airflow"
+  - "dagster"
+  - "prefect"
+  - "data quality"
+  - "data observability"
+  - "data lineage"
+  - "data catalog"
+  - "data governance"
+
+  # AI / LLM
+  - "llm"
+  - "gpt"
+  - "claude"
+  - "gemini"
+  - "copilot"
+  - "agent"
+  - "mcp"
+  - "rag"
+  - "embedding"
+  - "fine-tuning"
+  - "prompt engineering"
+
+  # Automation
+  - "n8n"
+  - "temporal"
+  - "workflow automation"
+  - "ci/cd"
+  - "github actions"
+
+# Denylist: Items matching any of these are excluded
+# Keywords are case-insensitive
+denylist:
+  - "sponsored"
+  - "advertisement"
+  - "partner content"
+  - "press release"
+  - "webinar registration"
+  - "sign up now"
+  - "limited time offer"
+  - "discount code"

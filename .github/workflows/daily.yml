@@ -1,0 +1,124 @@
+name: Daily Engineering Intelligence
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (adjust as needed)
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Run date (YYYY-MM-DD)'
+        required: false
+        default: ''
+      adapter:
+        description: 'LLM adapter to use'
+        required: false
+        default: 'nollm'
+        type: choice
+        options:
+          - nollm
+          - cli
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for proper commit attribution
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Determine run date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            echo "RUN_DATE=${{ github.event.inputs.date }}" >> $GITHUB_OUTPUT
+          else
+            echo "RUN_DATE=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Determine adapter
+        id: adapter
+        run: |
+          if [ -n "${{ github.event.inputs.adapter }}" ]; then
+            echo "ADAPTER=${{ github.event.inputs.adapter }}" >> $GITHUB_OUTPUT
+          else
+            echo "ADAPTER=nollm" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Run pipeline
+        env:
+          LLM_CLI_COMMAND: ${{ secrets.LLM_CLI_COMMAND }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -m src.main \
+            --date ${{ steps.date.outputs.RUN_DATE }} \
+            --adapter ${{ steps.adapter.outputs.ADAPTER }} \
+            --site-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+      
+      - name: Commit data artifacts
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add data state file and docs
+          git add data/state.json || true
+          git add docs/ || true
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update daily intelligence for ${{ steps.date.outputs.RUN_DATE }}"
+            git push
+          fi
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Build MkDocs site
+        run: mkdocs build --strict
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
+      - name: Send Telegram notification
+        if: ${{ env.TELEGRAM_BOT_TOKEN != '' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          # Notification is handled by the pipeline, but we can add a fallback here
+          echo "Telegram notification handled by pipeline"

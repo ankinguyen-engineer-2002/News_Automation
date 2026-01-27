@@ -1,0 +1,104 @@
+site_name: Daily Engineering Intelligence
+site_description: Daily curated engineering news and analysis for Data Engineers, Data Scientists, and Analytics professionals
+site_author: Your Name
+site_url: https://your-username.github.io/News_Automation
+
+# Repository
+repo_name: News_Automation
+repo_url: https://github.com/your-username/News_Automation
+
+# Theme configuration
+theme:
+  name: material
+  language: en
+  
+  palette:
+    # Dark mode (default)
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Light mode
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  
+  font:
+    text: Inter
+    code: JetBrains Mono
+  
+  icon:
+    repo: fontawesome/brands/github
+
+# Extra CSS
+extra_css:
+  - assets/extra.css
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-\.]'
+  - tags
+
+# Markdown extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Daily Reports:
+    - Archive: daily/index.md
+  - About:
+    - Topics: about/topics.md
+    - Sources: about/sources.md
+
+# Extra settings
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username
+  generator: false
+
+# Copyright
+copyright: Copyright &copy; 2026 Daily Engineering Intelligence
