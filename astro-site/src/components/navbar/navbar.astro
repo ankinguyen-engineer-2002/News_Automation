@@ -126,64 +126,69 @@ const menuitems = [
 </Container>
 
 <script>
-  // Theme toggle - runs on every page load
-  function initTheme() {
-    const themeToggle = document.getElementById('theme-toggle');
-    const sunIcon = document.getElementById('sun-icon');
-    const moonIcon = document.getElementById('moon-icon');
+  // Prevent duplicate initialization
+  if (!window.__themeInitialized) {
+    window.__themeInitialized = true;
     
-    function updateIcons() {
-      const isDark = document.documentElement.classList.contains('dark');
-      if (sunIcon && moonIcon) {
-        sunIcon.style.display = isDark ? 'block' : 'none';
-        moonIcon.style.display = isDark ? 'none' : 'block';
-      }
-    }
-    
-    // Initial icon state
-    updateIcons();
-    
-    themeToggle?.addEventListener('click', () => {
-      const isDark = document.documentElement.classList.contains('dark');
+    // Run when DOM is ready
+    const init = () => {
+      const themeToggle = document.getElementById('theme-toggle');
+      const sunIcon = document.getElementById('sun-icon');
+      const moonIcon = document.getElementById('moon-icon');
+      const langToggle = document.getElementById('lang-toggle');
+      const langLabel = document.getElementById('lang-label');
       
-      if (isDark) {
-        document.documentElement.classList.remove('dark');
-        localStorage.setItem('theme', 'light');
-      } else {
-        document.documentElement.classList.add('dark');
-        localStorage.setItem('theme', 'dark');
+      // Ensure elements exist before binding
+      if (!themeToggle) return;
+      
+      function updateIcons() {
+        const isDark = document.documentElement.classList.contains('dark');
+        if (sunIcon && moonIcon) {
+          sunIcon.style.display = isDark ? 'block' : 'none';
+          moonIcon.style.display = isDark ? 'none' : 'block';
+        }
       }
       
+      // Initial icon state
       updateIcons();
-    });
-  }
+      
+      // Single click handler for theme
+      themeToggle.onclick = () => {
+        const isDark = document.documentElement.classList.contains('dark');
+        
+        if (isDark) {
+          document.documentElement.classList.remove('dark');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.documentElement.classList.add('dark');
+          localStorage.setItem('theme', 'dark');
+        }
+        
+        updateIcons();
+      };
+      
+      // Language setup
+      if (langToggle && langLabel) {
+        const savedLang = localStorage.getItem('lang') || 'en';
+        document.documentElement.setAttribute('data-lang', savedLang);
+        langLabel.textContent = savedLang.toUpperCase();
+        
+        langToggle.onclick = () => {
+          const currentLang = document.documentElement.getAttribute('data-lang') || 'en';
+          const newLang = currentLang === 'en' ? 'vi' : 'en';
+          document.documentElement.setAttribute('data-lang', newLang);
+          localStorage.setItem('lang', newLang);
+          langLabel.textContent = newLang.toUpperCase();
+        };
+      }
+    };
 
-  // Language toggle
-  function initLang() {
-    const langToggle = document.getElementById('lang-toggle');
-    const langLabel = document.getElementById('lang-label');
-    
-    const savedLang = localStorage.getItem('lang') || 'en';
-    document.documentElement.setAttribute('data-lang', savedLang);
-    if (langLabel) langLabel.textContent = savedLang.toUpperCase();
-    
-    langToggle?.addEventListener('click', () => {
-      const currentLang = document.documentElement.getAttribute('data-lang') || 'en';
-      const newLang = currentLang === 'en' ? 'vi' : 'en';
-      document.documentElement.setAttribute('data-lang', newLang);
-      localStorage.setItem('lang', newLang);
-      if (langLabel) langLabel.textContent = newLang.toUpperCase();
-    });
+    // Run on DOM ready or immediately if already ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
   }
-
-  // Initialize on DOM ready
-  document.addEventListener('DOMContentLoaded', () => {
-    initTheme();
-    initLang();
-  });
-  
-  // Also run immediately for Astro's view transitions
-  initTheme();
-  initLang();
 </script>
 
