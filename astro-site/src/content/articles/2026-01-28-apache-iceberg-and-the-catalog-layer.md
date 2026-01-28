@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-28"
 excerpt: "In this episode of The Analytics Engineering Podcast, Tristan talks with Russell Spitzer, a PMC member of Apache Iceberg and Apache Polaris and principal engineer at Snowflake. They discuss the..."
 excerpt_vi: ""
-number: 8
+number: 13
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

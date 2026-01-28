@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-28"
 excerpt: "Since GitHub Copilot CLI launched in public preview in September 2025, we’ve been shipping frequent regular updates and advancements.. Below, we’ll show you what makes Copilot CLI so special, why..."
 excerpt_vi: ""
-number: 6
+number: 11
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

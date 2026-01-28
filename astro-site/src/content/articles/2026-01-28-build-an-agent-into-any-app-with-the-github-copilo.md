@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-28"
 excerpt: "Building agentic workflows from scratch is hard."
 excerpt_vi: ""
-number: 7
+number: 12
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

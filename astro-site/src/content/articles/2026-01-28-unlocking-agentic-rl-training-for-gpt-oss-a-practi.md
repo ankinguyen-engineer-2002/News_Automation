@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-01-28"
 excerpt: "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective"
 excerpt_vi: ""
-number: 5
+number: 9
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

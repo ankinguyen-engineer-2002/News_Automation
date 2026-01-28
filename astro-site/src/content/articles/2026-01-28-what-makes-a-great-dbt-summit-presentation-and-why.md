@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-28"
 excerpt: "The call for papers (CFP) for dbt Summit is now open, and we hope to hear from you."
 excerpt_vi: ""
-number: 7
+number: 12
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

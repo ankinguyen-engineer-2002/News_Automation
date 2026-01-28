@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-28"
 excerpt: "Data leaders are under real pressure to show progress with AI. One of the top priorities we hear is to deliver trusted conversational analytics safely and cost-effectively."
 excerpt_vi: ""
-number: 10
+number: 15
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

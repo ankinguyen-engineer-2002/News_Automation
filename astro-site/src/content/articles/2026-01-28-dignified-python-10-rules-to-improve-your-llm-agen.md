@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-01-28"
 excerpt: "Modern LLMs are trained on an enormous and unruly mix of code: questionable StackOverflow snippets, half-finished projects, and hobbyist repositories. When agents generate code from that background,..."
 excerpt_vi: ""
-number: 4
+number: 7
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

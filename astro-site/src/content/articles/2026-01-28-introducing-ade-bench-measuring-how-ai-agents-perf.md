@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-28"
 excerpt: "As AI coding agents reshape software engineering, a critical question remains unanswered: how well do these tools actually perform analytics and data engineering work?"
 excerpt_vi: ""
-number: 6
+number: 11
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

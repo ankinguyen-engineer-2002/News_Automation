@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-28"
 excerpt: "GPT-5.2-Codex is generally available to Copilot Enterprise, Copilot Business, Copilot Pro, and Copilot Pro+."
 excerpt_vi: ""
-number: 9
+number: 14
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

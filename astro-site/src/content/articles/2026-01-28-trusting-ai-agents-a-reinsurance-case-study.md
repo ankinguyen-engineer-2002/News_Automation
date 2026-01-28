@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-01-28"
 excerpt: "AI agents have the potential to automate tedious tasks such as manual data processing, but they’re inherently non-deterministic and fallible. In the reinsurance industry, where data drives risk..."
 excerpt_vi: ""
-number: 2
+number: 3
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

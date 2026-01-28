@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-28"
 excerpt: "Data is supposed to settle debates. But at Sweetgreen, a popular restaurant chain, it would sometimes start them. Stakeholders either didn’t have access to the right insights, or they ran into..."
 excerpt_vi: ""
-number: 9
+number: 14
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

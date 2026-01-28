@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-01-28"
 excerpt: "Snowflake has evolved into an AI compute platform. Cortex AI lets you run sentiment analysis on millions of rows, extract entities from unstructured text, and generate intelligent summaries directly..."
 excerpt_vi: ""
-number: 5
+number: 8
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

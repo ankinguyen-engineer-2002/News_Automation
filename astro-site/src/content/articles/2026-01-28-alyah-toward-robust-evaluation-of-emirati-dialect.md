@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-01-28"
 excerpt: "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs"
 excerpt_vi: ""
-number: 6
+number: 10
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

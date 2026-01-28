@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-28"
 excerpt: "GitHub Copilot CLI continues to push the boundaries of agentic AI assistance in your terminal. This week brings powerful new reasoning models, intelligent workflow features that let you steer..."
 excerpt_vi: ""
-number: 10
+number: 15
 publishDate: "2026-01-28T00:00:00Z"
 ---
 

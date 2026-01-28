@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-01-28"
 excerpt: "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality"
 excerpt_vi: ""
-number: 7
+number: 11
 publishDate: "2026-01-28T00:00:00Z"
 ---
 
