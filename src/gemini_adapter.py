@@ -28,13 +28,13 @@ class GeminiAdapter(LLMAdapter):
     - Blog content generation
     """
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gemini-1.5-flash"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gemini-2.0-flash"):
         """
         Initialize Gemini adapter.
         
         Args:
             api_key: Google API key. If None, reads from GOOGLE_API_KEY env var.
-            model: Model to use (default: gemini-1.5-flash for speed/cost)
+            model: Model to use (default: gemini-2.0-flash for speed/cost)
         """
         if not GEMINI_AVAILABLE:
             raise ImportError("google-generativeai package not installed. Run: pip install google-generativeai")
