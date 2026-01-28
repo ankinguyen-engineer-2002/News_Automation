@@ -132,6 +132,51 @@ class AstroRenderer:
         except Exception as e:
             logger.warning(f"Translation failed: {e}")
             return ""
+    
+    def _is_content_poor(self, content: str) -> bool:
+        """Check if content is too short or poor quality."""
+        if not content:
+            return True
+        
+        # Count actual content (excluding markdown formatting)
+        text_only = re.sub(r'[#*\[\]!`]', '', content)
+        word_count = len(text_only.split())
+        
+        # Consider poor if less than 150 words
+        return word_count < 150
+    
+    def _enrich_content(self, title: str, url: str, current_content: str) -> str:
+        """Use AI to generate richer content for articles with poor content."""
+        if not self.gemini:
+            return current_content
+        
+        try:
+            prompt = f"""Based on the following article title and available content, 
+write a comprehensive technical summary (300-500 words) for an engineering audience.
+
+Title: {title}
+URL: {url}
+Available content: {current_content[:1000]}
+
+Write in English, focusing on:
+1. Key technical concepts and innovations
+2. Practical implications for engineers
+3. Notable insights or takeaways
+
+Format with markdown headers and bullet points where appropriate."""
+            
+            response = self.gemini.model.generate_content(prompt)
+            enriched = response.text.strip()
+            
+            # Append attribution
+            enriched += f"\n\n---\n*AI-generated summary based on [original article]({url})*"
+            
+            logger.info(f"Enriched content for: {title[:40]}...")
+            return enriched
+            
+        except Exception as e:
+            logger.warning(f"Content enrichment failed: {e}")
+            return current_content
 
     def render_articles(
         self,
@@ -167,6 +212,12 @@ class AstroRenderer:
             else:
                 content = item.snippet or ""
                 excerpt = item.snippet or ""
+            
+            # Enrich poor content with AI if available
+            if self.gemini and self._is_content_poor(content):
+                logger.info(f"Content too short, enriching: {item.title[:40]}...")
+                content = self._enrich_content(item.title, item.url, content)
+                excerpt = self._extract_excerpt(content)
 
             slug = self._make_slug(date, item.title)
             

@@ -201,19 +201,62 @@ class Reader:
         return None
 
     def _to_markdown(self, html: str) -> str:
-        """Convert HTML to clean markdown."""
+        """Convert HTML to clean markdown, preserving images and code."""
         try:
-            # Use markdownify with sensible options
+            from bs4 import BeautifulSoup
+            
+            # Pre-process: convert relative image URLs to absolute
+            soup = BeautifulSoup(html, 'lxml')
+            
+            # Ensure images have absolute URLs
+            for img in soup.find_all('img'):
+                src = img.get('src', '')
+                if src and not src.startswith(('http://', 'https://', 'data:')):
+                    # Keep relative URL, Astro will handle it
+                    pass
+                # Preserve alt text for accessibility
+                if not img.get('alt'):
+                    img['alt'] = 'image'
+            
+            # Preserve code blocks with language hints
+            for pre in soup.find_all('pre'):
+                code = pre.find('code')
+                if code:
+                    # Try to find language class
+                    classes = code.get('class', [])
+                    lang = ''
+                    for cls in classes:
+                        if cls.startswith(('language-', 'lang-')):
+                            lang = cls.replace('language-', '').replace('lang-', '')
+                            break
+                    # Mark for proper conversion
+                    code['data-lang'] = lang
+            
+            # Use markdownify with options to preserve images
             markdown = md(
-                html,
+                str(soup),
                 heading_style="ATX",
                 bullets="-",
-                strip=["script", "style"],
+                strip=["script", "style", "nav", "aside"],
+                convert=["img", "a", "code", "pre", "table", "th", "td", "tr"],
             )
 
-            # Clean up extra whitespace
-            markdown = re.sub(r"\n{3,}", "\n\n", markdown)
-            markdown = re.sub(r" +", " ", markdown)
+            # Clean up extra whitespace but preserve code formatting
+            lines = []
+            in_code_block = False
+            for line in markdown.split('\n'):
+                if line.strip().startswith('```'):
+                    in_code_block = not in_code_block
+                    lines.append(line)
+                elif in_code_block:
+                    lines.append(line)  # Preserve code as-is
+                else:
+                    # Clean non-code lines
+                    cleaned = re.sub(r' +', ' ', line)
+                    lines.append(cleaned)
+            
+            markdown = '\n'.join(lines)
+            markdown = re.sub(r'\n{3,}', '\n\n', markdown)
             markdown = markdown.strip()
 
             return markdown

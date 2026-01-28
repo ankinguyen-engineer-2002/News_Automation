@@ -26,13 +26,18 @@ const makeTitle = title
 ---
 
 <!doctype html>
-<html lang="en" class="">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <meta name="generator" content={Astro.generator} />
     <meta name="color-scheme" content="light dark" />
+
+    <!-- KaTeX for math rendering -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
 
     <SEO
       title={makeTitle}
@@ -58,21 +63,54 @@ const makeTitle = title
     
     <!-- Theme initialization script to prevent flash -->
     <script is:inline>
-      const savedTheme = localStorage.getItem('theme');
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-        document.documentElement.classList.add('dark');
-      }
+      (function() {
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        // Default to light if no preference saved
+        if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
     </script>
   </head>
-  <body class="bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-slate-100 transition-colors duration-200">
+  <body class="min-h-screen transition-colors duration-200">
     <Navbar />
     <slot />
     <Footer />
+    
+    <!-- Initialize KaTeX for math rendering -->
+    <script is:inline>
+      document.addEventListener("DOMContentLoaded", function() {
+        if (typeof renderMathInElement !== 'undefined') {
+          renderMathInElement(document.body, {
+            delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\[', right: '\\]', display: true},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\begin{equation}', right: '\\end{equation}', display: true},
+              {left: '\\begin{align}', right: '\\end{align}', display: true},
+            ],
+            throwOnError: false,
+            strict: false,
+          });
+        }
+      });
+    </script>
+    
     <style is:global>
       /* Improve Page speed */
       img {
         content-visibility: auto;
+      }
+      
+      /* KaTeX styling */
+      .katex-display {
+        overflow-x: auto;
+        padding: 0.5em 0;
       }
     </style>
   </body>
