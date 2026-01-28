@@ -58,11 +58,18 @@ class GeminiAdapter(LLMAdapter):
         prompt_template: str,
     ) -> str:
         """Generate synthesized content using Gemini."""
+        from jinja2 import Template
+        
         # Build context from articles
         context = self._build_context(items, articles)
         
-        # Render prompt
-        prompt = prompt_template.format(**context) if "{" in prompt_template else prompt_template
+        # Render prompt using Jinja2 (handles {% %} and {{ }} syntax)
+        try:
+            tmpl = Template(prompt_template)
+            prompt = tmpl.render(**context)
+        except Exception as e:
+            logger.warning(f"Template rendering failed: {e}, using raw prompt")
+            prompt = prompt_template
         
         # Add article context to prompt
         full_prompt = f"{prompt}\n\n## Articles to analyze:\n\n{context['article_summaries']}"
