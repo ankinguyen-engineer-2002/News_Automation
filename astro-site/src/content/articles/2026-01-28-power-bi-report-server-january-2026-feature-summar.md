@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-01-28"
 excerpt: "Welcome to January 2026 Power BI Report Server feature summary! These updates bring new capabilities and enhancements across Reporting and Visualizations, maintaining our commitment to delivering..."
 excerpt_vi: ""
-number: 6
+number: 7
 publishDate: "2026-01-28T00:00:00Z"
 ---
 
