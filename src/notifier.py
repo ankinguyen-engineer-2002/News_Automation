@@ -1,8 +1,8 @@
 """Notifier module - Sends notifications via Telegram."""
 
-import json
 import logging
 import os
+from datetime import datetime
 from typing import Optional
 
 import requests
@@ -17,6 +17,17 @@ TELEGRAM_API_BASE = "https://api.telegram.org/bot"
 
 class TelegramNotifier:
     """Sends notifications via Telegram Bot API."""
+
+    # Topic emoji mapping
+    TOPIC_EMOJI = {
+        "microsoft": "🔷",
+        "data_platform": "📊",
+        "analytics_engineering": "📈",
+        "ai_agents": "🤖",
+        "ai_llm": "🤖",
+        "automation": "⚡",
+        "github": "🐙",
+    }
 
     def __init__(
         self,
@@ -76,39 +87,64 @@ class TelegramNotifier:
         items: list[Item],
         page_url: str,
     ) -> str:
-        """Format the notification message."""
+        """Format the notification message with clean, mobile-friendly layout."""
+        # Parse and format date
+        try:
+            date_obj = datetime.strptime(date, "%Y-%m-%d")
+            formatted_date = date_obj.strftime("%d/%m/%Y")
+        except:
+            formatted_date = date
+
+        # Header
         lines = [
-            f"📰 *Daily Engineering Intelligence - {date}*",
+            "━━━━━━━━━━━━━━━━━━━━",
+            f"📰 *DAILY INTEL*  •  {self._escape_md(formatted_date)}",
+            "━━━━━━━━━━━━━━━━━━━━",
             "",
         ]
 
-        # Group items and show top 3 per group
+        # Group items by topic
         groups: dict[str, list[Item]] = {}
         for item in items:
             groups.setdefault(item.group, []).append(item)
 
+        # Show headlines by topic
         for group_name, group_items in sorted(groups.items()):
-            display_name = group_name.replace("_", " ").title()
-            lines.append(f"*{display_name}:*")
-
-            for item in group_items[:3]:  # Top 3 per group
-                # Escape markdown special chars
-                title = self._escape_markdown(item.title[:60])
-                lines.append(f"• [{title}]({item.url})")
-
+            emoji = self.TOPIC_EMOJI.get(group_name, "📌")
+            display_name = group_name.replace("_", " ").upper()
+            
+            lines.append(f"{emoji} *{display_name}*")
+            
+            # Show top 3 per topic
+            for i, item in enumerate(group_items[:3], 1):
+                title = self._escape_md(item.title[:55])
+                if len(item.title) > 55:
+                    title += "\\.\\.\\."
+                lines.append(f"  {i}\\. [{title}]({item.url})")
+            
+            if len(group_items) > 3:
+                lines.append(f"  _\\+{len(group_items) - 3} more_")
+            
             lines.append("")
 
+        # Footer
         lines.extend([
-            f"📖 [Read full report]({page_url})",
+            "━━━━━━━━━━━━━━━━━━━━",
+            f"📖 [Xem đầy đủ tại website]({page_url})",
             "",
-            f"_{len(items)} items curated today_",
+            f"📊 *{len(items)}* bài viết  •  *{len(groups)}* chủ đề",
+            "━━━━━━━━━━━━━━━━━━━━",
         ])
 
         return "\n".join(lines)
 
-    def _escape_markdown(self, text: str) -> str:
-        """Escape special characters for Telegram markdown."""
-        chars = ["_", "*", "[", "]", "(", ")", "~", "`", ">", "#", "+", "-", "=", "|", "{", "}", ".", "!"]
+    def _escape_md(self, text: str) -> str:
+        """Escape special characters for Telegram MarkdownV2."""
+        if not text:
+            return ""
+        # MarkdownV2 requires escaping these characters
+        chars = ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', 
+                 '+', '-', '=', '|', '{', '}', '.', '!']
         for char in chars:
             text = text.replace(char, f"\\{char}")
         return text
