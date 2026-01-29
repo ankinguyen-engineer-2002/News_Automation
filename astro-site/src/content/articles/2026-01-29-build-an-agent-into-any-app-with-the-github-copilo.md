@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-29"
 excerpt: "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. The post Build an agent into any app with..."
 excerpt_vi: ""
-number: 14
+number: 18
 publishDate: "2026-01-29T00:00:00Z"
 ---
 

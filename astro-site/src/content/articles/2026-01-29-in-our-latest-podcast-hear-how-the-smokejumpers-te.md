@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-01-29"
 excerpt: "The latest episode of the Google AI: Release Notes podcast focuses on how the Gemini team built one of the world’s leading AI coding models.Host Logan Kilpatrick chats w…"
 excerpt_vi: ""
-number: 9
+number: 13
 publishDate: "2026-01-29T00:00:00Z"
 ---
 

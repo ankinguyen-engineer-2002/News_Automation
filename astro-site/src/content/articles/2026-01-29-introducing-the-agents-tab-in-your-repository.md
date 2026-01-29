@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-29"
 excerpt: "We’ve redesigned where you manage Copilot coding agent tasks. We’re bringing a new look and feel to your mission control style view directly into your repository with a new Agents… The post..."
 excerpt_vi: ""
-number: 15
+number: 19
 publishDate: "2026-01-29T00:00:00Z"
 ---
 

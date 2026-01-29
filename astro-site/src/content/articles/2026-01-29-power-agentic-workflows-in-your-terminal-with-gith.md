@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-01-29"
 excerpt: "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with GitHub Copilot CLI appeared first on The GitHub..."
 excerpt_vi: ""
-number: 13
+number: 17
 publishDate: "2026-01-29T00:00:00Z"
 ---
 
