@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-01-30"
 excerpt: "Share your data story at dbt Summit. CFP now open. Real problems, real solutions. Submit by March 31."
 excerpt_vi: ""
-number: 14
+number: 17
 publishDate: "2026-01-30T00:00:00Z"
 ---
 
