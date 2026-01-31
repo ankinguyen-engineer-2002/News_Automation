@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-01-31"
 excerpt: "Bringing Gemini to billions of users requires a massive, coordinated infrastructure effort. In the latest episode of the Google AI: Release Notes podcast, host Logan Kil…"
 excerpt_vi: ""
-number: 17
+number: 21
 publishDate: "2026-01-31T00:00:00Z"
 ---
 

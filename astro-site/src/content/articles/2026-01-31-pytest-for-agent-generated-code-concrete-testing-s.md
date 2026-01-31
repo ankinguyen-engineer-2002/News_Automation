@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-01-31"
 excerpt: "Learn how to design a Pytest strategy for agent-generated code, with explicit test levels, fake infrastructure, and guardrails that keep tests fast, reliable, and maintainable."
 excerpt_vi: ""
-number: 13
+number: 15
 publishDate: "2026-01-31T00:00:00Z"
 ---
 
