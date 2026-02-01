@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-01"
 excerpt: "GitHub Copilot CLI now implements the Agent Client Protocol (ACP), an industry-standard protocol for communication between AI agents and clients. This enables third-party tools, IDEs, and automation..."
 excerpt_vi: ""
-number: 28
+number: 33
 publishDate: "2026-02-01T00:00:00Z"
 ---
 

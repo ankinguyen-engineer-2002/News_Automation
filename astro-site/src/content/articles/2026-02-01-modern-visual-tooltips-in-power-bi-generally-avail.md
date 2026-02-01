@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-01"
 excerpt: "Power BI’s latest update introduces an enhancement to how users interact with reports with the general availability of modern visual tooltips."
 excerpt_vi: ""
-number: 10
+number: 11
 publishDate: "2026-02-01T00:00:00Z"
 ---
 

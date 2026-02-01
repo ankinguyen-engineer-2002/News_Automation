@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-01"
 excerpt: "We’ve shipped several improvements to GitHub Actions that make it easier to write, validate, and troubleshoot workflow logic, especially when you rely on if: conditionals to control what runs. Here…..."
 excerpt_vi: ""
-number: 31
+number: 36
 publishDate: "2026-02-01T00:00:00Z"
 ---
 

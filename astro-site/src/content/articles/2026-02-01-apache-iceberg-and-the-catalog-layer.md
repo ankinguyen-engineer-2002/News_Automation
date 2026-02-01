@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-01"
 excerpt: "Everything you ever wanted to know about open table formats with a member of Apache Iceberg and Apache Polaris."
 excerpt_vi: ""
-number: 21
+number: 24
 publishDate: "2026-02-01T00:00:00Z"
 ---
 
