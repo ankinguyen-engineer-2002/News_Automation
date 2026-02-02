@@ -1,0 +1,14 @@
+---
+title: "What makes a great dbt Summit presentation? (And why yours belongs on stage)"
+title_vi: ""
+source: "dbt Labs Blog"
+url: "https://www.getdbt.com/blog/what-makes-a-great-dbt-summit-presentation"
+topic: "data-platform"
+date: "2026-02-02"
+excerpt: "Share your data story at dbt Summit. CFP now open. Real problems, real solutions. Submit by March 31."
+excerpt_vi: ""
+number: 23
+publishDate: "2026-02-02T00:00:00Z"
+---
+
+Share your data story at dbt Summit. CFP now open. Real problems, real solutions. Submit by March 31.
