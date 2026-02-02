@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-02-02"
 excerpt: "Monitor Temporal Cloud in ClickStack via the OpenMetrics endpoint. See Workflow success rates, latency, Actions consumption, and Task Queue backlogs in ClickHouse dashboards, with alerts and..."
 excerpt_vi: ""
-number: 7
+number: 8
 publishDate: "2026-02-02T00:00:00Z"
 ---
 

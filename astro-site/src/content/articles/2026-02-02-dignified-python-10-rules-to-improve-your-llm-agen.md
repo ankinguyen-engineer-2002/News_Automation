@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-02-02"
 excerpt: "Learn how Dagster's \"Dignified Python\" principles help developers align AI agents with intentional, readable, and performant Python. Ten rules from our Claude prompt that you can adopt."
 excerpt_vi: ""
-number: 16
+number: 18
 publishDate: "2026-02-02T00:00:00Z"
 ---
 
