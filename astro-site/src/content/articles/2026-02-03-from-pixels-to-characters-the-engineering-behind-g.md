@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-03"
 excerpt: "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering. The post From pixels to..."
 excerpt_vi: ""
-number: 39
+number: 44
 publishDate: "2026-02-03T00:00:00Z"
 ---
 
