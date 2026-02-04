@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-04"
 excerpt: "We are closing down three legacy Copilot metrics APIs as part of our transition to newer, more comprehensive usage metrics endpoints. Support for these APIs will be limited, and no… The post Closing..."
 excerpt_vi: ""
-number: 46
+number: 51
 publishDate: "2026-02-04T00:00:00Z"
 ---
 

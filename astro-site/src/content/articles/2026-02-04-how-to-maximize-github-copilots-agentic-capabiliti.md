@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-04"
 excerpt: "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilities appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 42
+number: 47
 publishDate: "2026-02-04T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-04"
 excerpt: "We know how important data residency is for compliance and regional requirements. To that point, the Copilot usage, code generation dashboards, and corresponding API are now available to customers..."
 excerpt_vi: ""
-number: 44
+number: 49
 publishDate: "2026-02-04T00:00:00Z"
 ---
 

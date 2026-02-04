@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-04"
 excerpt: "An open OSI spec for semantic portability is now available, plus dbt's commitment to operationalize semantics."
 excerpt_vi: ""
-number: 26
+number: 27
 publishDate: "2026-02-04T00:00:00Z"
 ---
 
