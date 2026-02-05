@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-05"
 excerpt: "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get..."
 excerpt_vi: ""
-number: 49
+number: 54
 publishDate: "2026-02-05T00:00:00Z"
 ---
 

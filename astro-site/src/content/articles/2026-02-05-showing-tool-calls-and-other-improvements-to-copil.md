@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-05"
 excerpt: "We’ve added enhancements to make your GitHub Copilot Chat experience on github.com feel smoother and faster. Tool calls in your chat response You’ll now see clear tool call details so… The post..."
 excerpt_vi: ""
-number: 50
+number: 56
 publishDate: "2026-02-05T00:00:00Z"
 ---
 

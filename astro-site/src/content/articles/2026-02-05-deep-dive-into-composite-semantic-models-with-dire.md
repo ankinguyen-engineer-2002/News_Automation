@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-05"
 excerpt: "Getting your data job done just got easier with composite semantic models, mixing Direct Lake tables with import tables, now available in public preview."
 excerpt_vi: ""
-number: 15
+number: 17
 publishDate: "2026-02-05T00:00:00Z"
 ---
 
