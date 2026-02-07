@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-07"
 excerpt: "From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL. The post PostgreSQL on Azure supercharged for AI..."
 excerpt_vi: ""
-number: 24
+number: 27
 publishDate: "2026-02-07T00:00:00Z"
 ---
 

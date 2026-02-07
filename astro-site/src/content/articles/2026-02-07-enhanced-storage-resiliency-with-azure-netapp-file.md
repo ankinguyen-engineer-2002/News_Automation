@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-07"
 excerpt: "Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data..."
 excerpt_vi: ""
-number: 23
+number: 26
 publishDate: "2026-02-07T00:00:00Z"
 ---
 
