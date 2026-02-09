@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-09"
 excerpt: "This January 2026 release brings significant improvements to GitHub Copilot in Visual Studio Code with agent-driven workflows, improvements to agent session management, and the introduction of agent..."
 excerpt_vi: ""
-number: 71
+number: 76
 publishDate: "2026-02-09T00:00:00Z"
 ---
 
