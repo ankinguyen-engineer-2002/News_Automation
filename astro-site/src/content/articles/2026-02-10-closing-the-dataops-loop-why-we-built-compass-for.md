@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-02-10"
 excerpt: "Dagster+ Compass brings AI-powered investigation to your data platform. Ask questions in Slack, get answers grounded in your runs, assets, and metadata, and surface patterns before they become..."
 excerpt_vi: ""
-number: 36
+number: 38
 publishDate: "2026-02-10T00:00:00Z"
 ---
 

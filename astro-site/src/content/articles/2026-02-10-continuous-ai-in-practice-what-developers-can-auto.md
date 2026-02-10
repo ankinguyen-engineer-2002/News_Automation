@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-10"
 excerpt: "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What developers can automate today with agentic CI..."
 excerpt_vi: ""
-number: 78
+number: 83
 publishDate: "2026-02-10T00:00:00Z"
 ---
 

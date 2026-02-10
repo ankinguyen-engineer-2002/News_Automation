@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-10"
 excerpt: "With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production. The post Claude Opus 4.6:..."
 excerpt_vi: ""
-number: 32
+number: 34
 publishDate: "2026-02-10T00:00:00Z"
 ---
 

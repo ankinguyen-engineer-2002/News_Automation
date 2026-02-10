@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-10"
 excerpt: "Learn how to provide structured context to AI systems with a dbt-powered MCP server."
 excerpt_vi: ""
-number: 32
+number: 33
 publishDate: "2026-02-10T00:00:00Z"
 ---
 
