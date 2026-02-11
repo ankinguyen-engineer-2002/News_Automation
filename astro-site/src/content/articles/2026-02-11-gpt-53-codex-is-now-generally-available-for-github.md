@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-11"
 excerpt: "Note: We’re pausing the rollout of GPT-5.3-Codex as we focus on our platform reliability. Once we resume rollout, we will remove this notification. GPT-5.3-Codex, OpenAI’s latest agentic coding..."
 excerpt_vi: ""
-number: 80
+number: 85
 publishDate: "2026-02-11T00:00:00Z"
 ---
 

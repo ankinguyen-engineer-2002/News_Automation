@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-02-11"
 excerpt: "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial’"
 excerpt_vi: ""
-number: 36
+number: 37
 publishDate: "2026-02-11T00:00:00Z"
 ---
 
