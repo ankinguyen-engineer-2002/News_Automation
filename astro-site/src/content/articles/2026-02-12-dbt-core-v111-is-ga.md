@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-12"
 excerpt: "dbt Core v1.11 is GA with first-class UDFs, clearer project validation, and performance improvements across adapters."
 excerpt_vi: ""
-number: 38
+number: 42
 publishDate: "2026-02-12T00:00:00Z"
 ---
 

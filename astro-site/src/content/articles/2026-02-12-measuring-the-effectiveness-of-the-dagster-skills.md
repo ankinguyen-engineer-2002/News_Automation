@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-02-12"
 excerpt: "Learned how we built a light weight evaluation framework for quantiatively measuring the effectiveness of the Dagster Skills"
 excerpt_vi: ""
-number: 39
+number: 41
 publishDate: "2026-02-12T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-12"
 excerpt: "Power reliable Cortex and Snowflake Intelligence experiences with dbt and Snowflake Semantic Views."
 excerpt_vi: ""
-number: 35
+number: 39
 publishDate: "2026-02-12T00:00:00Z"
 ---
 

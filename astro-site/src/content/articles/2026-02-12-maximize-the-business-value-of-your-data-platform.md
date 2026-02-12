@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-12"
 excerpt: "Learn how tools like Fusion’s state-aware orchestration deliver real business value."
 excerpt_vi: ""
-number: 36
+number: 41
 publishDate: "2026-02-12T00:00:00Z"
 ---
 

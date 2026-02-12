@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-02-12"
 excerpt: "Go behind the scenes of Dagster’s children’s book, how assets became characters, design choices shaped the story, and motion helped make platform concepts intuitive."
 excerpt_vi: ""
-number: 40
+number: 42
 publishDate: "2026-02-12T00:00:00Z"
 ---
 
