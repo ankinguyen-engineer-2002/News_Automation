@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-13"
 excerpt: "Copilot Pro and Pro+ subscribers can now choose a model when starting a Copilot coding agent session in the GitHub Mobile app. You can quickly match the model to the… The post GitHub Mobile: Model..."
 excerpt_vi: ""
-number: 90
+number: 93
 publishDate: "2026-02-13T00:00:00Z"
 ---
 

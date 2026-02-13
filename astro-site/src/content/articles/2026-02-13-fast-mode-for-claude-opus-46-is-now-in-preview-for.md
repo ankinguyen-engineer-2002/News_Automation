@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-13"
 excerpt: "Fast mode for Claude Opus 4.6 is now rolling out in a research preview on GitHub Copilot. This high-speed option delivers output token speeds up to 2.5x faster, while maintaining… The post Fast mode..."
 excerpt_vi: ""
-number: 91
+number: 94
 publishDate: "2026-02-13T00:00:00Z"
 ---
 
