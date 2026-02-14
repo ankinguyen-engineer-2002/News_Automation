@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-02-14"
 excerpt: "Gemini 3 Deep Think logo"
 excerpt_vi: ""
-number: 40
+number: 43
 publishDate: "2026-02-14T00:00:00Z"
 ---
 
