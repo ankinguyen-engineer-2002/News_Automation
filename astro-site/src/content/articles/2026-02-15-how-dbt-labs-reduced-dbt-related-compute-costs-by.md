@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-02-15"
 excerpt: "With intelligent orchestration and optimization, we achieved a 64% reduction in compute costs and simplified our job architecture."
 excerpt_vi: ""
-number: 48
+number: 52
 publishDate: "2026-02-15T00:00:00Z"
 ---
 

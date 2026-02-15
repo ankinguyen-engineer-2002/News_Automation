@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-15"
 excerpt: "GitHub Agentic Workflows let you automate repository tasks using AI agents that run within GitHub Actions. Write workflows in plain Markdown instead of complex YAML, and let AI handle intelligent…..."
 excerpt_vi: ""
-number: 101
+number: 106
 publishDate: "2026-02-15T00:00:00Z"
 ---
 

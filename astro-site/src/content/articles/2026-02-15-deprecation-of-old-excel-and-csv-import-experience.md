@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-15"
 excerpt: "Excel and CSV files remain a valid data source for Power BI semantic models and reports. You can use them to create reports in the Power BI service from the Create page or in Power BI Desktop. This..."
 excerpt_vi: ""
-number: 46
+number: 48
 publishDate: "2026-02-15T00:00:00Z"
 ---
 
