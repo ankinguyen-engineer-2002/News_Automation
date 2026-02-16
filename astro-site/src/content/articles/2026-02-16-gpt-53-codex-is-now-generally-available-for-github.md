@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-16"
 excerpt: "GPT-5.3-Codex, OpenAI’s latest agentic coding model, is now rolling out in GitHub Copilot. In early testing, GPT-5.3-Codex reaches new high scores on benchmarks we use to evaluate coding, agentic,..."
 excerpt_vi: ""
-number: 103
+number: 108
 publishDate: "2026-02-16T00:00:00Z"
 ---
 

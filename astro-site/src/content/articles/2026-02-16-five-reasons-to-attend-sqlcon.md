@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-16"
 excerpt: "The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20. The post Five Reasons to attend SQLCon..."
 excerpt_vi: ""
-number: 50
+number: 52
 publishDate: "2026-02-16T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-16"
 excerpt: "This update brings several improvements to GitHub Copilot in JetBrains IDEs. These include support for Agent Skills in preview, several user experience improvements across inline chat and settings,..."
 excerpt_vi: ""
-number: 105
+number: 110
 publishDate: "2026-02-16T00:00:00Z"
 ---
 
