@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-02-17"
 excerpt: "Solving multimodal Pipelines with Dagster and Metaxy"
 excerpt_vi: ""
-number: 50
+number: 52
 publishDate: "2026-02-17T00:00:00Z"
 ---
 
