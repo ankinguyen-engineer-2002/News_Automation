@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-18"
 excerpt: "Claude Sonnet 4.6, Anthropic’s latest agentic coding model, is now rolling out in GitHub Copilot. In early testing, this model excels on agentic coding, and is particularly successful in search… The..."
 excerpt_vi: ""
-number: 112
+number: 117
 publishDate: "2026-02-18T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-18"
 excerpt: "We’ve just shipped a new set of improvements to make GitHub Copilot in Eclipse smarter and easier to use. These updates bring more context options, smoother workflows, and better customization… The..."
 excerpt_vi: ""
-number: 113
+number: 118
 publishDate: "2026-02-18T00:00:00Z"
 ---
 

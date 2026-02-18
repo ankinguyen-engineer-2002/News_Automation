@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-18"
 excerpt: "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more. The post Automate..."
 excerpt_vi: ""
-number: 116
+number: 121
 publishDate: "2026-02-18T00:00:00Z"
 ---
 
