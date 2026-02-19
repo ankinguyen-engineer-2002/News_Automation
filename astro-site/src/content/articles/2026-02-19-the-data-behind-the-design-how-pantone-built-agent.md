@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-19"
 excerpt: "Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly. The post The data behind the design: How Pantone built agentic AI with an..."
 excerpt_vi: ""
-number: 57
+number: 58
 publishDate: "2026-02-19T00:00:00Z"
 ---
 
