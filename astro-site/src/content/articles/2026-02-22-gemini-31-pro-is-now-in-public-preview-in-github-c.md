@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-22"
 excerpt: "Gemini 3.1 Pro, Google’s latest agentic coding model, is now rolling out in GitHub Copilot. In early testing, this model excels on effective and efficient edit-then-test loops with high tool… The..."
 excerpt_vi: ""
-number: 132
+number: 137
 publishDate: "2026-02-22T00:00:00Z"
 ---
 

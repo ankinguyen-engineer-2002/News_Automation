@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-22"
 excerpt: "Copilot coding agent is our asynchronous, autonomous background agent. Delegate a task to Copilot, and Copilot works in the background in its own development environment in the cloud. Once Copilot…..."
 excerpt_vi: ""
-number: 133
+number: 138
 publishDate: "2026-02-22T00:00:00Z"
 ---
 
