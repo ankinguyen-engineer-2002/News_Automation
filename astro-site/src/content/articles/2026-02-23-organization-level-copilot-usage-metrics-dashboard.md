@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-23"
 excerpt: "Until now, Copilot usage metrics dashboards were only available at the enterprise level. With this release, organization owners can view GitHub Copilot usage metrics for their organization directly..."
 excerpt_vi: ""
-number: 140
+number: 145
 publishDate: "2026-02-23T00:00:00Z"
 ---
 

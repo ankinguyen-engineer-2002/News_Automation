@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-02-23"
 excerpt: "Temporal raises $300M Series D at a $5B valuation as AI drives demand for Durable Execution."
 excerpt_vi: ""
-number: 14
+number: 15
 publishDate: "2026-02-23T00:00:00Z"
 ---
 
