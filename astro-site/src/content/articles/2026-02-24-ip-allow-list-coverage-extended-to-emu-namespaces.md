@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-24"
 excerpt: "GitHub Enterprise Cloud with Enterprise Managed Users (EMUs) can now enable the ability for GitHub’s native IP allow list configuration to cover user namespaces. EMUs allow the enterprise to own… The..."
 excerpt_vi: ""
-number: 142
+number: 149
 publishDate: "2026-02-24T00:00:00Z"
 ---
 

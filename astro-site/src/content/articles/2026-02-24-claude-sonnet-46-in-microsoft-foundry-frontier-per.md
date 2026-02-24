@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-24"
 excerpt: "Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale. The post Claude Sonnet 4.6..."
 excerpt_vi: ""
-number: 62
+number: 63
 publishDate: "2026-02-24T00:00:00Z"
 ---
 
