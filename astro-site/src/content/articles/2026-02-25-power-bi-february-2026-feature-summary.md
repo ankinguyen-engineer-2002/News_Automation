@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-02-25"
 excerpt: "Welcome to the February Power BI update! Power BI’s February 2026 update is here, and it’s a good one. This release brings smarter Copilot and AI experiences, more flexible ways to interact with..."
 excerpt_vi: ""
-number: 63
+number: 64
 publishDate: "2026-02-25T00:00:00Z"
 ---
 

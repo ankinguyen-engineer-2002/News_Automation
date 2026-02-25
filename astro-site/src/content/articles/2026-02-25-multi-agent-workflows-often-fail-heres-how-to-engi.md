@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-25"
 excerpt: "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often..."
 excerpt_vi: ""
-number: 147
+number: 151
 publishDate: "2026-02-25T00:00:00Z"
 ---
 

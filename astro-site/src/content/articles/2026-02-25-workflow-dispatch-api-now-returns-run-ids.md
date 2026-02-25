@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-25"
 excerpt: "When you trigger a workflow using the GitHub Actions workflow dispatch API endpoint, you’ll now have the option to receive metadata in the response that helps you map your request… The post Workflow..."
 excerpt_vi: ""
-number: 150
+number: 154
 publishDate: "2026-02-25T00:00:00Z"
 ---
 
