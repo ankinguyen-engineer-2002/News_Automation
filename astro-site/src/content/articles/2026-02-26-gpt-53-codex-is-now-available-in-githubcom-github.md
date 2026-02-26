@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-26"
 excerpt: "GPT-5.3-Codex is generally available to Copilot Enterprise, Copilot Business, Copilot Pro, and Copilot Pro+. You’ll now be able to access the model in GitHub Copilot Chat on github.com, GitHub..."
 excerpt_vi: ""
-number: 151
+number: 156
 publishDate: "2026-02-26T00:00:00Z"
 ---
 

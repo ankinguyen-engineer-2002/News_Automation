@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-26"
 excerpt: "You can now use GitHub Copilot to generate titles for your pull requests (PRs) on github.com. How it works When you open a new PR or edit an existing PR… The post Generate pull request titles with..."
 excerpt_vi: ""
-number: 153
+number: 158
 publishDate: "2026-02-26T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-26"
 excerpt: "GitHub Copilot CLI—the terminal-native coding agent that brings the power of GitHub Copilot directly to your command line—is now generally available for all paid Copilot subscribers. Since launching..."
 excerpt_vi: ""
-number: 152
+number: 157
 publishDate: "2026-02-26T00:00:00Z"
 ---
 
