@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-27"
 excerpt: "GitHub Actions now supports uploading and downloading non-zipped artifacts within workflows. Previously, when you uploaded an artifact using the actions/upload-artifact action it was automatically..."
 excerpt_vi: ""
-number: 159
+number: 164
 publishDate: "2026-02-27T00:00:00Z"
 ---
 
