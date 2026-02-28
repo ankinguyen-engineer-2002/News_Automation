@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-28"
 excerpt: "Copilot enterprise usage metrics coverage has expanded to now include Copilot CLI telemetry. With this update, your enterprise metrics can include CLI-specific activity and usage totals, such as:..."
 excerpt_vi: ""
-number: 162
+number: 168
 publishDate: "2026-02-28T00:00:00Z"
 ---
 

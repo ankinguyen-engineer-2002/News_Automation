@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-02-28"
 excerpt: "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What’s new with GitHub..."
 excerpt_vi: ""
-number: 166
+number: 169
 publishDate: "2026-02-28T00:00:00Z"
 ---
 

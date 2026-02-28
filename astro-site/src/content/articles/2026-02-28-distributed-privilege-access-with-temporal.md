@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-02-28"
 excerpt: "Discover how to solve distributed privilege access using Temporal, Serverless Workflows, and Thand. Build reliable, declarative, and secure access systems."
 excerpt_vi: ""
-number: 18
+number: 19
 publishDate: "2026-02-28T00:00:00Z"
 ---
 
