@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-01"
 excerpt: "Claude by Anthropic and OpenAI Codex are now available as coding agents for Copilot Business and Copilot Pro customers. Copilot Enterprise and Pro+ customers received access earlier this month, and…..."
 excerpt_vi: ""
-number: 168
+number: 173
 publishDate: "2026-03-01T00:00:00Z"
 ---
 
