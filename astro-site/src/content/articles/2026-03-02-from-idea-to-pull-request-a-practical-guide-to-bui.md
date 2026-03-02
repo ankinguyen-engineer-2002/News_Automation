@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-02"
 excerpt: "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical..."
 excerpt_vi: ""
-number: 177
+number: 182
 publishDate: "2026-03-02T00:00:00Z"
 ---
 
