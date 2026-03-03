@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-03"
 excerpt: "On February 13, 2026 we announced changes to the required network configuration for Copilot coding agent, taking effect on February 27. These changes only affect teams running Copilot coding agent…..."
 excerpt_vi: ""
-number: 179
+number: 185
 publishDate: "2026-03-03T00:00:00Z"
 ---
 
