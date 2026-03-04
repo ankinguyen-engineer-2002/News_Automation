@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-03-04"
 excerpt: "Learn when it makes sense to move from Dagster OSS to Dagster+. As teams scale, operational overhead grows. Here’s how to decide when managed infrastructure, RBAC, environment isolation, and..."
 excerpt_vi: ""
-number: 65
+number: 66
 publishDate: "2026-03-04T00:00:00Z"
 ---
 

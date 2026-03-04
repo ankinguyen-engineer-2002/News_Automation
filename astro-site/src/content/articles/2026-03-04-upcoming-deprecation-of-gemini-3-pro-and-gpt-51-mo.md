@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-04"
 excerpt: "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions): Model Deprecation date Suggested..."
 excerpt_vi: ""
-number: 185
+number: 190
 publishDate: "2026-03-04T00:00:00Z"
 ---
 
