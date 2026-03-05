@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-05"
 excerpt: "Grok Code Fast 1 is generally available to Copilot Free plans via Copilot auto model selection. This model is now added to the list of possible models that Copilot might… The post Grok Code Fast 1 is..."
 excerpt_vi: ""
-number: 191
+number: 198
 publishDate: "2026-03-05T00:00:00Z"
 ---
 

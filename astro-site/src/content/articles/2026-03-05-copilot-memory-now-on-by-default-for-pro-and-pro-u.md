@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-05"
 excerpt: "Copilot Memory is now enabled by default for all GitHub Copilot Pro and Copilot Pro+ users. Previously in public preview as an opt-in feature, Copilot Memory allows Copilot to build… The post Copilot..."
 excerpt_vi: ""
-number: 194
+number: 199
 publishDate: "2026-03-05T00:00:00Z"
 ---
 

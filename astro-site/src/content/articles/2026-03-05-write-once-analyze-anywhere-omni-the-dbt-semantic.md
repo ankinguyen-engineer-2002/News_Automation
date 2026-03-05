@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-05"
 excerpt: "Unify metrics across BI and AI with Omni + the dbt Semantic Layer. Define once, query everywhere, eliminate semantic drift."
 excerpt_vi: ""
-number: 75
+number: 76
 publishDate: "2026-03-05T00:00:00Z"
 ---
 
