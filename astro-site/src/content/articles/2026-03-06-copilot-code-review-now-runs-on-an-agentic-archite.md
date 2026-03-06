@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-06"
 excerpt: "Copilot code review now runs on an agentic tool-calling architecture and is generally available for all users with Copilot Pro, Copilot Pro+, Copilot Business, and Copilot Enterprise. For background,..."
 excerpt_vi: ""
-number: 198
+number: 203
 publishDate: "2026-03-06T00:00:00Z"
 ---
 

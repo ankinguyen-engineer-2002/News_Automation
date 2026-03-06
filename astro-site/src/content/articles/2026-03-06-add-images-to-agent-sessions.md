@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-06"
 excerpt: "Quick start your agent session by starting from an image. Simply paste, drag, or click the image icon to wherever you work with agents on github.com (e.g., from the recently… The post Add images to..."
 excerpt_vi: ""
-number: 199
+number: 204
 publishDate: "2026-03-06T00:00:00Z"
 ---
 
