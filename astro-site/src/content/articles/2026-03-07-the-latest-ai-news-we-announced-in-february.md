@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-03-07"
 excerpt: "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\""
 excerpt_vi: ""
-number: 75
+number: 77
 publishDate: "2026-03-07T00:00:00Z"
 ---
 
