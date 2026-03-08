@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-08"
 excerpt: "You can now assign Jira issues to GitHub Copilot coding agent, our asynchronous, autonomous agent, and get AI-generated draft pull requests created in your GitHub repository. When you assign a… The..."
 excerpt_vi: ""
-number: 210
+number: 215
 publishDate: "2026-03-08T00:00:00Z"
 ---
 

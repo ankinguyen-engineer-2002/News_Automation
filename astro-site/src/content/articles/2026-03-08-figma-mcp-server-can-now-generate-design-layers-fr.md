@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-08"
 excerpt: "GitHub Copilot users can now connect to the Figma MCP server to both pull design context into code and send rendered UI to Figma as editable frames. Together, these capabilities… The post Figma MCP..."
 excerpt_vi: ""
-number: 207
+number: 212
 publishDate: "2026-03-08T00:00:00Z"
 ---
 
