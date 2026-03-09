@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-09"
 excerpt: "Proven strategies to improve data quality with testing, governance, and scalable analytics workflows."
 excerpt_vi: ""
-number: 82
+number: 84
 publishDate: "2026-03-09T00:00:00Z"
 ---
 
