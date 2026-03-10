@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-10"
 excerpt: "The Visual Studio Code February 2026 release makes agents practical for longer-running and more complex tasks. This gives you more control over how they run, new ways to extend what… The post GitHub..."
 excerpt_vi: ""
-number: 219
+number: 224
 publishDate: "2026-03-10T00:00:00Z"
 ---
 

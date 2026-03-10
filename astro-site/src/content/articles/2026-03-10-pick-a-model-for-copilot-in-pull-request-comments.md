@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-10"
 excerpt: "You can ask Copilot coding agent to make changes in any pull request by mentioning @copilot. This works in pull requests created by Copilot and in pull requests created by… The post Pick a model for..."
 excerpt_vi: ""
-number: 220
+number: 225
 publishDate: "2026-03-10T00:00:00Z"
 ---
 

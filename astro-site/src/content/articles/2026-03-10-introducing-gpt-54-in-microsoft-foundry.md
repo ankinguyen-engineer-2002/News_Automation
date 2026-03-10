@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-03-10"
 excerpt: "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production..."
 excerpt_vi: ""
-number: 73
+number: 75
 publishDate: "2026-03-10T00:00:00Z"
 ---
 
