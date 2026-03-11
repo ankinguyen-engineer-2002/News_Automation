@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-11"
 excerpt: "Discover how AI accelerates data lineage with automated docs, testing, and scalable governance."
 excerpt_vi: ""
-number: 87
+number: 89
 publishDate: "2026-03-11T00:00:00Z"
 ---
 
