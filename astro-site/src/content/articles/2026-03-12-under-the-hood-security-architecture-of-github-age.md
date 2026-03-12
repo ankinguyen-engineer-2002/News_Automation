@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-12"
 excerpt: "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions...."
 excerpt_vi: ""
-number: 231
+number: 235
 publishDate: "2026-03-12T00:00:00Z"
 ---
 

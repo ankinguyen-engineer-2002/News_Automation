@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-12"
 excerpt: "GPT-5.4, OpenAI’s latest agentic coding model, is now rolling out in GitHub Copilot. In our early testing of real-world, agentic, and software development capabilities, GPT-5.4 consistently hits new..."
 excerpt_vi: ""
-number: 228
+number: 232
 publishDate: "2026-03-12T00:00:00Z"
 ---
 

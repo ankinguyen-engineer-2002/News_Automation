@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-03-12"
 excerpt: "A principled framework for assessing agent capability — why advanced agents need different infrastructure."
 excerpt_vi: ""
-number: 22
+number: 23
 publishDate: "2026-03-12T00:00:00Z"
 ---
 

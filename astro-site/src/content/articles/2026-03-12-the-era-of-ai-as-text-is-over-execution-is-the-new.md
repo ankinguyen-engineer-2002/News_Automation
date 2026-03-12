@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-12"
 excerpt: "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications. The post The era of “AI as..."
 excerpt_vi: ""
-number: 230
+number: 234
 publishDate: "2026-03-12T00:00:00Z"
 ---
 

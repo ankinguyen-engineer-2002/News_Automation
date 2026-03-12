@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-12"
 excerpt: "This update brings several new features and improvements to GitHub Copilot in JetBrains IDEs. Core agentic capabilities, including custom agents, sub-agents, and plan agent, are now generally..."
 excerpt_vi: ""
-number: 227
+number: 233
 publishDate: "2026-03-12T00:00:00Z"
 ---
 
