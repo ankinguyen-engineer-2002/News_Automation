@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-13"
 excerpt: "GitHub Actions OpenID Connect (OIDC) tokens now support repository custom properties as claims. Additionally, a new settings page is available in public preview, making it easy to configure OIDC..."
 excerpt_vi: ""
-number: 237
+number: 242
 publishDate: "2026-03-13T00:00:00Z"
 ---
 

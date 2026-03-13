@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-03-13"
 excerpt: "Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows. The post The economics of enterprise AI: What the Forrester TEI study..."
 excerpt_vi: ""
-number: 79
+number: 80
 publishDate: "2026-03-13T00:00:00Z"
 ---
 
