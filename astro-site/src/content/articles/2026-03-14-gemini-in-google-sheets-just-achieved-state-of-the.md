@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-03-14"
 excerpt: "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …"
 excerpt_vi: ""
-number: 93
+number: 96
 publishDate: "2026-03-14T00:00:00Z"
 ---
 
