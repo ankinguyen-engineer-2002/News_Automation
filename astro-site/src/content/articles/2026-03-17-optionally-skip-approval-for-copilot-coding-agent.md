@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-17"
 excerpt: "When Copilot coding agent opens a pull request or pushes changes, Copilot is treated like an outside contributor in an open source project. GitHub Actions workflows do not run until… The post..."
 excerpt_vi: ""
-number: 253
+number: 258
 publishDate: "2026-03-17T00:00:00Z"
 ---
 

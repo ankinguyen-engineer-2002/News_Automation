@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-17"
 excerpt: "We’re temporarily pausing GitHub Actions enforcement of the minimum self-hosted runner version requirement (v2.329.0) scheduled to take effect on March 16, 2026. Runners below v2.329.0 can still..."
 excerpt_vi: ""
-number: 257
+number: 262
 publishDate: "2026-03-17T00:00:00Z"
 ---
 
