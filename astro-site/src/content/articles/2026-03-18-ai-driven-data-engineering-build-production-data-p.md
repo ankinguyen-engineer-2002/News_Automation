@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-03-18"
 excerpt: "Learn how to build production-ready ELT pipelines using AI coding agents and Dagster. The AI-Driven Data Engineering course teaches practical workflows for AI-assisted data engineering."
 excerpt_vi: ""
-number: 89
+number: 92
 publishDate: "2026-03-18T00:00:00Z"
 ---
 

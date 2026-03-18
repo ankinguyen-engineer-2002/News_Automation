@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-18"
 excerpt: "GPT-5.4 mini, OpenAI’s latest fast version of their agentic coding model GPT-5.4, is now rolling out in GitHub Copilot. In early tests, GPT‑5.4 mini appears to be OpenAI’s highest-performing mini…..."
 excerpt_vi: ""
-number: 258
+number: 263
 publishDate: "2026-03-18T00:00:00Z"
 ---
 

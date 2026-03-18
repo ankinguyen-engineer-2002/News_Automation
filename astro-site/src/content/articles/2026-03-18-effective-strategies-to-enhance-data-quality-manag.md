@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-18"
 excerpt: "Improve data quality with testing, metrics, automation, and a scalable governance framework."
 excerpt_vi: ""
-number: 103
+number: 105
 publishDate: "2026-03-18T00:00:00Z"
 ---
 

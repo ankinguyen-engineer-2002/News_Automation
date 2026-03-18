@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-18"
 excerpt: "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 262
+number: 267
 publishDate: "2026-03-18T00:00:00Z"
 ---
 
