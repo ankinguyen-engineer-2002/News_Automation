@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-19"
 excerpt: "When Copilot coding agent writes code, it automatically runs your project’s tests and linter. It also runs GitHub’s security and quality validation tools, including CodeQL, the GitHub Advisory..."
 excerpt_vi: ""
-number: 263
+number: 269
 publishDate: "2026-03-19T00:00:00Z"
 ---
 

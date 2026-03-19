@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-19"
 excerpt: "Copilot coding agent now has access to a semantic code search tool, allowing it to find relevant code based on meaning rather than relying on exact text matches with tools… The post Copilot coding..."
 excerpt_vi: ""
-number: 266
+number: 271
 publishDate: "2026-03-19T00:00:00Z"
 ---
 

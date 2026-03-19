@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-03-19"
 excerpt: "Welcome to the Power BI March 2026 Feature Summary—and welcome to FabCon! As FabCon gets underway, this month’s update reflects the momentum we’re seeing across Power BI and the conversations..."
 excerpt_vi: ""
-number: 88
+number: 91
 publishDate: "2026-03-19T00:00:00Z"
 ---
 

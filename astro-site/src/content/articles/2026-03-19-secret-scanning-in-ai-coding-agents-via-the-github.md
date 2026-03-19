@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-19"
 excerpt: "The GitHub MCP Server can now scan your code changes for exposed secrets before you commit or open a pull request. This helps you prevent credential leaks by detecting secrets… The post Secret..."
 excerpt_vi: ""
-number: 267
+number: 272
 publishDate: "2026-03-19T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-19"
 excerpt: "To give enterprises the stability they need for internal security and safety reviews, GitHub has established a new commitment with long-term support (LTS) models available for Copilot Business and..."
 excerpt_vi: ""
-number: 264
+number: 270
 publishDate: "2026-03-19T00:00:00Z"
 ---
 
