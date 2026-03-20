@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-03-20"
 excerpt: "If you haven’t already, check out Arun Ulag’s hero blog “FabCon and SQLCon 2026: Unifying databases and Fabric on a single, complete platform” for a complete look at all of our FabCon and SQLCon..."
 excerpt_vi: ""
-number: 89
+number: 92
 publishDate: "2026-03-20T00:00:00Z"
 ---
 
