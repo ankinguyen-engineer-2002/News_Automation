@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-03-21"
 excerpt: "Databricks consolidation solves platform sprawl, but not cross-team coordination. Learn how Dagster complements Unity Catalog with orchestration, observability, and end-to-end operational visibility..."
 excerpt_vi: ""
-number: 96
+number: 98
 publishDate: "2026-03-21T00:00:00Z"
 ---
 
