@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-03-22"
 excerpt: "Stop firefighting your workflow plumbing. Michael Millerick, Staff Software Engineer at EvenUp, explains why they migrated from a custom orchestrator to Temporal to improve scaling, observability,..."
 excerpt_vi: ""
-number: 31
+number: 32
 publishDate: "2026-03-22T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-22"
 excerpt: "Anders Swanson explains what data teams can realistically expect when attempting to run on top of Iceberg in production."
 excerpt_vi: ""
-number: 106
+number: 107
 publishDate: "2026-03-22T00:00:00Z"
 ---
 
