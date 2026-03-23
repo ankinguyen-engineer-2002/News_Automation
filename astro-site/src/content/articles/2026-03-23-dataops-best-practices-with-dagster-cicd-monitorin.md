@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-03-23"
 excerpt: "A practical guide to DataOps with Dagster — covering branch deployments, automatic retries, asset checks, backfill strategies, and Dagster+ Insights for production data platforms."
 excerpt_vi: ""
-number: 98
+number: 99
 publishDate: "2026-03-23T00:00:00Z"
 ---
 

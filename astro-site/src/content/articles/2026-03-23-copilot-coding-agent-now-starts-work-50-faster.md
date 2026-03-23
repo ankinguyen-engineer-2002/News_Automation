@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-23"
 excerpt: "We’ve optimized Copilot coding agent so it now starts work 50% faster. You can hand work to Copilot coding agent in many ways, including assigning an issue to Copilot, entering… The post Copilot..."
 excerpt_vi: ""
-number: 290
+number: 295
 publishDate: "2026-03-23T00:00:00Z"
 ---
 

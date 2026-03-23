@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-23"
 excerpt: "When you delegate a task to Copilot coding agent, it works in the background, then requests your review. You can view the agent session logs to understand what Copilot did… The post More visibility..."
 excerpt_vi: ""
-number: 289
+number: 294
 publishDate: "2026-03-23T00:00:00Z"
 ---
 
