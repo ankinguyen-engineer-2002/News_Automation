@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-24"
 excerpt: "Every commit from Copilot coding agent, our cloud-based background agent, is authored by Copilot, with the human who gave Copilot the task marked as the co-author. This makes it easier… The post..."
 excerpt_vi: ""
-number: 294
+number: 299
 publishDate: "2026-03-24T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-24"
 excerpt: "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. The post How Squad..."
 excerpt_vi: ""
-number: 293
+number: 298
 publishDate: "2026-03-24T00:00:00Z"
 ---
 
