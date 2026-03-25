@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-25"
 excerpt: "You can now mention @copilot in any pull request to ask Copilot to make changes. You can ask @copilot to: Fix failing GitHub Actions workflows: @copilot Fix the failing tests… The post Ask @copilot..."
 excerpt_vi: ""
-number: 296
+number: 302
 publishDate: "2026-03-25T00:00:00Z"
 ---
 

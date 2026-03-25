@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-25"
 excerpt: "Gemini 3.1 Pro is available in public preview to Copilot Enterprise, Copilot Business, Copilot Pro, and Copilot Pro+. You’ll now be able to access the model in GitHub Copilot Chat… The post Gemini..."
 excerpt_vi: ""
-number: 300
+number: 305
 publishDate: "2026-03-25T00:00:00Z"
 ---
 

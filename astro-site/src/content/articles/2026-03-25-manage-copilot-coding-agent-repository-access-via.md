@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-25"
 excerpt: "Organization owners who want to manage Copilot coding agent access at scale can now do so programmatically with the new Copilot coding agent management REST APIs, available in public preview.… The..."
 excerpt_vi: ""
-number: 297
+number: 303
 publishDate: "2026-03-25T00:00:00Z"
 ---
 

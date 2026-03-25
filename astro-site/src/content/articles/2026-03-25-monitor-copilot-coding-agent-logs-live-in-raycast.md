@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-25"
 excerpt: "Raycast is a powerful free launcher for macOS and Windows. It can launch apps, search files, control your system, and leverage community-built extensions. With the GitHub Copilot extension for..."
 excerpt_vi: ""
-number: 298
+number: 301
 publishDate: "2026-03-25T00:00:00Z"
 ---
 

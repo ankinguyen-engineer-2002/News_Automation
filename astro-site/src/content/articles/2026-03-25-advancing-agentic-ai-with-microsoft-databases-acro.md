@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-03-25"
 excerpt: "Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience. The post Advancing agentic AI with Microsoft..."
 excerpt_vi: ""
-number: 114
+number: 116
 publishDate: "2026-03-25T00:00:00Z"
 ---
 
