@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-03-26"
 excerpt: "Supercharge your AI coding agent with the Temporal Developer Skill. Get expert-level guidance on Workflow determinism, retry policies, and SDK best practices in real-time."
 excerpt_vi: ""
-number: 35
+number: 36
 publishDate: "2026-03-26T00:00:00Z"
 ---
 
