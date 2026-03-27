@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-27"
 excerpt: "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub..."
 excerpt_vi: ""
-number: 311
+number: 316
 publishDate: "2026-03-27T00:00:00Z"
 ---
 
