@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-03-28"
 excerpt: "Building the future of analytics engineering, together."
 excerpt_vi: ""
-number: 108
+number: 109
 publishDate: "2026-03-28T00:00:00Z"
 ---
 
