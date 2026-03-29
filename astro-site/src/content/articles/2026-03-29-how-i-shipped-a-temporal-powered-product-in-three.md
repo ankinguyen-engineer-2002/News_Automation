@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-03-29"
 excerpt: "Thought Temporal was too complex? See how a recent CS grad used AI coding agents to learn Temporal and ship a full startup product in just three weeks."
 excerpt_vi: ""
-number: 38
+number: 39
 publishDate: "2026-03-29T00:00:00Z"
 ---
 
