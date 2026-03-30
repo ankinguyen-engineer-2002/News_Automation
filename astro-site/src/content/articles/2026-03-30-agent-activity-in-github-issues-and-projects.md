@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-30"
 excerpt: "Today, we’re shipping two new features that bring agent activity directly into your planning workflows. Agent sessions under assignees in GitHub Issues When a coding agent (e.g., Copilot, Claude, or…..."
 excerpt_vi: ""
-number: 323
+number: 328
 publishDate: "2026-03-30T00:00:00Z"
 ---
 

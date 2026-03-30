@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-30"
 excerpt: "We have deprecated Gemini 3 Pro across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) today, March 26, 2026. Model Deprecation date…..."
 excerpt_vi: ""
-number: 322
+number: 327
 publishDate: "2026-03-30T00:00:00Z"
 ---
 
