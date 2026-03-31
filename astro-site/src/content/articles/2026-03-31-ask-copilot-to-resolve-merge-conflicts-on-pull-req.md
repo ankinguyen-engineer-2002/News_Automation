@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-03-31"
 excerpt: "Copilot coding agent can now resolve merge conflicts on pull requests. To ask Copilot to resolve merge conflicts, mention @copilot in a comment and tell it what to do: @copilot… The post Ask @copilot..."
 excerpt_vi: ""
-number: 330
+number: 335
 publishDate: "2026-03-31T00:00:00Z"
 ---
 
