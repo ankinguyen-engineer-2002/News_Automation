@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-01"
 excerpt: "Automate Temporal Worker autoscaling on Kubernetes. Learn how the new WorkerResourceTemplate attaches HPAs to versioned deployments for independent scaling."
 excerpt_vi: ""
-number: 44
+number: 47
 publishDate: "2026-04-01T00:00:00Z"
 ---
 
