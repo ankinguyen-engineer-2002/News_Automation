@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-02"
 excerpt: "GitHub Mobile now makes it easier to manage agentic workflows on the go with a refreshed Copilot tab, native session logs, and more in-app controls for agent sessions. On Android,… The post GitHub..."
 excerpt_vi: ""
-number: 340
+number: 346
 publishDate: "2026-04-02T00:00:00Z"
 ---
 

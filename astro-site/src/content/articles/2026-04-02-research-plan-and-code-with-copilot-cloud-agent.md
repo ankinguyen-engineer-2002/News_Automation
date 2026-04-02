@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-02"
 excerpt: "Copilot cloud agent (formerly known as Copilot coding agent) is no longer limited to pull-request workflows, unlocking a broader range of ways to put Copilot to work. More control over… The post..."
 excerpt_vi: ""
-number: 338
+number: 344
 publishDate: "2026-04-02T00:00:00Z"
 ---
 

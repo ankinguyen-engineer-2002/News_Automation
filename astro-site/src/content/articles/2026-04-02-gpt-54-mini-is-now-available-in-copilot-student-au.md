@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-02"
 excerpt: "GPT-5.4 mini is now generally available to Copilot Student plan via Copilot auto model selection. This model is part of Auto in GitHub Copilot Chat on Visual Studio Code, Visual… The post GPT-5.4..."
 excerpt_vi: ""
-number: 339
+number: 345
 publishDate: "2026-04-02T00:00:00Z"
 ---
 

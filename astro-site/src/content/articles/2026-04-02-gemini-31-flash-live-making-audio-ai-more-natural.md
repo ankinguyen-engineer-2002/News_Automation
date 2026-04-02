@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-04-02"
 excerpt: "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon"
 excerpt_vi: ""
-number: 129
+number: 130
 publishDate: "2026-04-02T00:00:00Z"
 ---
 
