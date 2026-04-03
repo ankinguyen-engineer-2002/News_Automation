@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-03"
 excerpt: "March 2026 brought a major step forward for GitHub Copilot extensibility in Visual Studio, with custom agents, agent skills, and new tools that make the agent smarter and more capable.… The post..."
 excerpt_vi: ""
-number: 345
+number: 350
 publishDate: "2026-04-03T00:00:00Z"
 ---
 

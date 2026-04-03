@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-03"
 excerpt: "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at..."
 excerpt_vi: ""
-number: 347
+number: 351
 publishDate: "2026-04-03T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-03"
 excerpt: "Following our enterprise-level, user-level, and organization-level CLI metrics releases, we’re completing coverage with per-user CLI breakdowns in organization reports. Organization admins can now..."
 excerpt_vi: ""
-number: 344
+number: 349
 publishDate: "2026-04-03T00:00:00Z"
 ---
 
