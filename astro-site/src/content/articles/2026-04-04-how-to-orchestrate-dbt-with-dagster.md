@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-04"
 excerpt: "With Dagster’s dbt integration, run and monitor dbt models as part of a larger, asset-driven pipeline for improved lineage and scheduling."
 excerpt_vi: ""
-number: 110
+number: 115
 publishDate: "2026-04-04T00:00:00Z"
 ---
 

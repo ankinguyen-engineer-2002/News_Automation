@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-04"
 excerpt: "A comprehensive guide to deploying Temporal Workers on Amazon ECS with Fargate. Covers container config, IAM roles, scaling, and cost-saving with Fargate Spot."
 excerpt_vi: ""
-number: 52
+number: 56
 publishDate: "2026-04-04T00:00:00Z"
 ---
 

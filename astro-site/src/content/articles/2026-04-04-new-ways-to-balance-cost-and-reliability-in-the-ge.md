@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-04-04"
 excerpt: "Gemini API Dials"
 excerpt_vi: ""
-number: 131
+number: 132
 publishDate: "2026-04-04T00:00:00Z"
 ---
 
