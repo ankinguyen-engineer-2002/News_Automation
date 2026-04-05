@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-05"
 excerpt: "Learn how to operationalize your analytics agents by building context for LLM models with dbt and MCP servers."
 excerpt_vi: ""
-number: 115
+number: 116
 publishDate: "2026-04-05T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-05"
 excerpt: "Copilot cloud agent includes a built-in agent firewall to control Copilot’s internet access and help protect against prompt injection and data exfiltration. Until now, the firewall was configured at..."
 excerpt_vi: ""
-number: 358
+number: 363
 publishDate: "2026-04-05T00:00:00Z"
 ---
 

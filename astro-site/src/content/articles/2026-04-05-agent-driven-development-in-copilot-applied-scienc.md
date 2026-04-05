@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-05"
 excerpt: "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science..."
 excerpt_vi: ""
-number: 357
+number: 362
 publishDate: "2026-04-05T00:00:00Z"
 ---
 

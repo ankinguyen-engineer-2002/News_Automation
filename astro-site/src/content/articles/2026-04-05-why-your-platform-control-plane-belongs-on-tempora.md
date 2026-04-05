@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-05"
 excerpt: "Discover why platform teams use Temporal to build resilient internal control planes. Learn how Durable Execution solves brittle infrastructure automation."
 excerpt_vi: ""
-number: 58
+number: 62
 publishDate: "2026-04-05T00:00:00Z"
 ---
 
