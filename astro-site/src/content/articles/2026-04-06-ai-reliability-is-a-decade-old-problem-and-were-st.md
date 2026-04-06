@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-06"
 excerpt: "Smart AI agents still fail mid-workflow. Learn why solving the AI reliability gap requires durable infrastructure, not just better models."
 excerpt_vi: ""
-number: 61
+number: 64
 publishDate: "2026-04-06T00:00:00Z"
 ---
 

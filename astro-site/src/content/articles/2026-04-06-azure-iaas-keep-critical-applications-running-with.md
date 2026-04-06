@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-06"
 excerpt: "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical applications running with built-in..."
 excerpt_vi: ""
-number: 131
+number: 134
 publishDate: "2026-04-06T00:00:00Z"
 ---
 
