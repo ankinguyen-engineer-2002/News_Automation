@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-07"
 excerpt: "Learn how to orchestrate Snowflake Cortex AI functions with Dagster for production-ready pipelines, including incremental processing, cost tracking, and dbt integration."
 excerpt_vi: ""
-number: 124
+number: 129
 publishDate: "2026-04-07T00:00:00Z"
 ---
 

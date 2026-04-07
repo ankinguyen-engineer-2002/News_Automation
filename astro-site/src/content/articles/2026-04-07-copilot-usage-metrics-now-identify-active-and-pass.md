@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-07"
 excerpt: "Copilot usage metrics now indicate which users have Copilot code review (CCR) activity, and whether that activity was active or passive. Enterprise and organization admins can see how users engage…..."
 excerpt_vi: ""
-number: 366
+number: 371
 publishDate: "2026-04-07T00:00:00Z"
 ---
 

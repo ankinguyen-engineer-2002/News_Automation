@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-07"
 excerpt: "Each time Copilot cloud agent works on a task, it starts a new development environment powered by GitHub Actions. By default, this runs on a standard GitHub-hosted runner, but teams… The post..."
 excerpt_vi: ""
-number: 364
+number: 369
 publishDate: "2026-04-07T00:00:00Z"
 ---
 

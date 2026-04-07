@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-07"
 excerpt: "For more than eight years, customers have relied on Power BI Dataflows (Gen1) as a core part of their analytics solutions. We’re grateful for the trust you placed in the Power Query experience to..."
 excerpt_vi: ""
-number: 132
+number: 134
 publishDate: "2026-04-07T00:00:00Z"
 ---
 
