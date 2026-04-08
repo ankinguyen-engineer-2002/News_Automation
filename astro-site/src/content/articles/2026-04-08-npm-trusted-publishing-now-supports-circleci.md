@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-08"
 excerpt: "npm trusted publishing now supports CircleCI as an OIDC provider, joining GitHub Actions and GitLab CI/CD. Maintainers publishing from CircleCI workflows can now eliminate stored credentials entirely..."
 excerpt_vi: ""
-number: 374
+number: 379
 publishDate: "2026-04-08T00:00:00Z"
 ---
 

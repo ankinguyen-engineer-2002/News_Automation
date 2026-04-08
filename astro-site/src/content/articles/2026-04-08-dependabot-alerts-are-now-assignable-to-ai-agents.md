@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-08"
 excerpt: "Some dependency vulnerabilities require more than a version bump—they need code changes across your project. You can now assign Dependabot alerts to AI coding agents, including Copilot, Claude, and..."
 excerpt_vi: ""
-number: 370
+number: 375
 publishDate: "2026-04-08T00:00:00Z"
 ---
 
