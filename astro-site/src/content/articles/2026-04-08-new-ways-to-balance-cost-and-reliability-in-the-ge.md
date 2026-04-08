@@ -1,0 +1,14 @@
+---
+title: "New ways to balance cost and reliability in the Gemini API"
+title_vi: ""
+source: "Google AI Blog"
+url: "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+topic: "ai-agents"
+date: "2026-04-08"
+excerpt: "Gemini API Dials"
+excerpt_vi: ""
+number: 135
+publishDate: "2026-04-08T00:00:00Z"
+---
+
+Gemini API Dials
