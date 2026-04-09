@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-09"
 excerpt: "Explore how to transform NanoChat into a Dagster-powered LLM system by designing ingestion flows, cleaning datasets, and building a tokenizer tailored to your model’s needs."
 excerpt_vi: ""
-number: 136
+number: 141
 publishDate: "2026-04-09T00:00:00Z"
 ---
 
