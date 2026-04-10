@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-10"
 excerpt: "Copilot cloud agent now supports more than pull request workflows on GitHub Mobile, so you can keep work moving even when you’re away from your desk. Ask Copilot to research… The post GitHub Mobile:..."
 excerpt_vi: ""
-number: 382
+number: 385
 publishDate: "2026-04-10T00:00:00Z"
 ---
 

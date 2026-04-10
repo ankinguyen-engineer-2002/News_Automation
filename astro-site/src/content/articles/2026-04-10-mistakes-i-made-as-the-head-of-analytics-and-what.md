@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-10"
 excerpt: "A former head of analytics on the 6 mistakes he made with dbt—and what he'd do differently now."
 excerpt_vi: ""
-number: 121
+number: 123
 publishDate: "2026-04-10T00:00:00Z"
 ---
 

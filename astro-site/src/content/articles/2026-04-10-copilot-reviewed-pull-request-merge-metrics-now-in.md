@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-10"
 excerpt: "Building on the pull request throughput and cycle-time metrics shipped in February, which track Copilot-created pull requests from the coding agent, the Copilot usage metrics API now includes two..."
 excerpt_vi: ""
-number: 381
+number: 384
 publishDate: "2026-04-10T00:00:00Z"
 ---
 

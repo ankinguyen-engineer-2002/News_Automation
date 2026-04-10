@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-10"
 excerpt: "Are you migrating haunted legacy systems, wrangling AI agents with opinions, or quietly keeping everything from falling apart? Take the quiz to find your Replay '26 path."
 excerpt_vi: ""
-number: 68
+number: 69
 publishDate: "2026-04-10T00:00:00Z"
 ---
 

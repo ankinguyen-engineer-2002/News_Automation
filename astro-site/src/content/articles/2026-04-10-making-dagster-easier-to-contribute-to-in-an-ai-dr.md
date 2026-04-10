@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-10"
 excerpt: "As AI makes it easier to generate pull requests, reviewing them has become the bottleneck. Learn how Dagster is improving contributor experience with better tooling, clearer guidelines, and a focus..."
 excerpt_vi: ""
-number: 138
+number: 140
 publishDate: "2026-04-10T00:00:00Z"
 ---
 

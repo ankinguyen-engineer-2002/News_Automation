@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-10"
 excerpt: "Organization admins and security managers can now jump into a Copilot experience directly from secret risk assessment or Code Security risk assessment results to get contextual explanations and..."
 excerpt_vi: ""
-number: 380
+number: 386
 publishDate: "2026-04-10T00:00:00Z"
 ---
 
