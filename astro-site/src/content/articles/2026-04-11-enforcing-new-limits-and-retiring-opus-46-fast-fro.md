@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-11"
 excerpt: "As GitHub Copilot continues to rapidly grow, we continue to observe an increase in patterns of high concurrency and intense usage. While we understand this can be driven by legitimate… The post..."
 excerpt_vi: ""
-number: 386
+number: 391
 publishDate: "2026-04-11T00:00:00Z"
 ---
 

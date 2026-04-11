@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-11"
 excerpt: "As GitHub Copilot continues to grow, we’ve seen a significant rise in abuse of our free trial system. To protect the experience and integrity of the platform for legitimate developers,… The post..."
 excerpt_vi: ""
-number: 387
+number: 392
 publishDate: "2026-04-11T00:00:00Z"
 ---
 
