@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-13"
 excerpt: "How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working. The post How Drasi used GitHub Copilot to find documentation bugs appeared first on Microsoft Azure Blog..."
 excerpt_vi: ""
-number: 140
+number: 141
 publishDate: "2026-04-13T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-13"
 excerpt: "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 397
+number: 402
 publishDate: "2026-04-13T00:00:00Z"
 ---
 
