@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-14"
 excerpt: "Note: We’ve recently renamed Copilot coding agent to Copilot cloud agent. We will be updating our data schema for all existing coding agent fields to reflect this change in the… The post Copilot..."
 excerpt_vi: ""
-number: 401
+number: 406
 publishDate: "2026-04-14T00:00:00Z"
 ---
 

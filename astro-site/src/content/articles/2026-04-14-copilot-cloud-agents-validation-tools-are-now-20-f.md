@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-14"
 excerpt: "When Copilot cloud agent writes code, it automatically runs GitHub’s security and quality validation tools, including CodeQL, the GitHub Advisory Database, secret scanning, and Copilot code review...."
 excerpt_vi: ""
-number: 402
+number: 407
 publishDate: "2026-04-14T00:00:00Z"
 ---
 

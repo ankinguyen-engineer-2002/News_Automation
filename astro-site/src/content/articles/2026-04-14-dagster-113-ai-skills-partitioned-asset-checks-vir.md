@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-14"
 excerpt: "Dagster 1.13 makes the framework easier to adopt with AI coding skills, partition-aware asset checks, virtual assets for database views, and 20+ new integration components."
 excerpt_vi: ""
-number: 142
+number: 143
 publishDate: "2026-04-14T00:00:00Z"
 ---
 

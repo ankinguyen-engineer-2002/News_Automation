@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-14"
 excerpt: "GitHub Copilot now supports data residency for US and EU regions, ensuring all inference processing and associated data stay within your designated geography. For US government customers, all model..."
 excerpt_vi: ""
-number: 400
+number: 405
 publishDate: "2026-04-14T00:00:00Z"
 ---
 
