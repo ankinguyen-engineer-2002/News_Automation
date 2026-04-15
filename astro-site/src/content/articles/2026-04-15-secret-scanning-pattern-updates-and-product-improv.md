@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-15"
 excerpt: "This week, we’re rolling out several improvements to our detection coverage, APIs, and workflows. These improvements strengthen our continued investment in the developer experience of our secret..."
 excerpt_vi: ""
-number: 406
+number: 412
 publishDate: "2026-04-15T00:00:00Z"
 ---
 
