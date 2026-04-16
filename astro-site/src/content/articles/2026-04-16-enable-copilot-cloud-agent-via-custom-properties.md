@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-16"
 excerpt: "You can now selectively enable GitHub Copilot cloud agent (CCA) access on a per-organization basis. Previously, enterprise admins and AI managers could only enable the agent everywhere, disable it..."
 excerpt_vi: ""
-number: 409
+number: 415
 publishDate: "2026-04-16T00:00:00Z"
 ---
 

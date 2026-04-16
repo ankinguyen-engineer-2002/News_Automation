@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-16"
 excerpt: "Model selection is now available for the Claude and Codex third-party coding agents on github.com. Just like Copilot cloud agent, you can now select a model when kicking off a… The post Model..."
 excerpt_vi: ""
-number: 410
+number: 414
 publishDate: "2026-04-16T00:00:00Z"
 ---
 

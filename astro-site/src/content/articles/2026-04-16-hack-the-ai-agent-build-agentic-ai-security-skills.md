@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-16"
 excerpt: "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their..."
 excerpt_vi: ""
-number: 412
+number: 417
 publishDate: "2026-04-16T00:00:00Z"
 ---
 
