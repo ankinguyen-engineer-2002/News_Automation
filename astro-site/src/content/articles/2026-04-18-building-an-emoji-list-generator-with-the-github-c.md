@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-18"
 excerpt: "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 421
+number: 427
 publishDate: "2026-04-18T00:00:00Z"
 ---
 

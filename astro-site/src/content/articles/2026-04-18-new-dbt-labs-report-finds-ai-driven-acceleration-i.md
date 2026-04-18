@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-18"
 excerpt: "AI is accelerating data workflows, but governance and trust aren't keeping pace, according to a new dbt Labs report."
 excerpt_vi: ""
-number: 139
+number: 144
 publishDate: "2026-04-18T00:00:00Z"
 ---
 

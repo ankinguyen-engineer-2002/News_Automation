@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-18"
 excerpt: "Copilot auto model selection is now generally available in GitHub Copilot CLI for all Copilot plans. With auto, Copilot chooses the most efficient model on your behalf. How it works… The post GitHub..."
 excerpt_vi: ""
-number: 420
+number: 425
 publishDate: "2026-04-18T00:00:00Z"
 ---
 
