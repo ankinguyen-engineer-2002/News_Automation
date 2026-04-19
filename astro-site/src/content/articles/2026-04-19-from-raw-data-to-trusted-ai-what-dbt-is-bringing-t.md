@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-19"
 excerpt: "See how dbt + BigQuery powers trusted, AI-ready analytics. Visit Booth #6606 at Google Cloud Next, April 22–24 in Las Vegas."
 excerpt_vi: ""
-number: 143
+number: 148
 publishDate: "2026-04-19T00:00:00Z"
 ---
 
