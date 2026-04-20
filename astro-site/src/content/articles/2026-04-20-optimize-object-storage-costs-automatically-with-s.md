@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-20"
 excerpt: "By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage. The post Optimize object storage costs automatically with smart tier—now generally..."
 excerpt_vi: ""
-number: 149
+number: 150
 publishDate: "2026-04-20T00:00:00Z"
 ---
 

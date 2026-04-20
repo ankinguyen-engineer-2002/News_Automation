@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-20"
 excerpt: "Two MCPs, one config file. Learn how pairing dbt and Tableau unlocks impact analysis, metric reconciliation, and more."
 excerpt_vi: ""
-number: 147
+number: 152
 publishDate: "2026-04-20T00:00:00Z"
 ---
 
