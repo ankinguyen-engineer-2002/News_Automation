@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-04-21"
 excerpt: "Example images made with Personal Intelligence"
 excerpt_vi: ""
-number: 172
+number: 178
 publishDate: "2026-04-21T00:00:00Z"
 ---
 

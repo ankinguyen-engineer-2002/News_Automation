@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-21"
 excerpt: "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 435
+number: 441
 publishDate: "2026-04-21T00:00:00Z"
 ---
 

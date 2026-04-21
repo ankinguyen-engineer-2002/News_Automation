@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-21"
 excerpt: "As shared in our recent blog post, we’re making the following changes to Copilot plans for individuals as part of our ongoing efforts to ensure service reliability and a sustainable… The post Changes..."
 excerpt_vi: ""
-number: 436
+number: 442
 publishDate: "2026-04-21T00:00:00Z"
 ---
 

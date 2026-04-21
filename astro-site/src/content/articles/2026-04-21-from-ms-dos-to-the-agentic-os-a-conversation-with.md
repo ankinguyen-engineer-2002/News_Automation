@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-21"
 excerpt: "Johann Schleier-Smith sits down with Temporal co-founder and CEO Samar Abbas to trace the arc from MS-DOS to agentic AI and why the hard problems of distributed systems are only getting harder."
 excerpt_vi: ""
-number: 83
+number: 86
 publishDate: "2026-04-21T00:00:00Z"
 ---
 
