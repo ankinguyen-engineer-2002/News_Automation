@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-22"
 excerpt: "What happens when you plug AI into a dbt project and let it do things? A practical guide to building your first dbt agent."
 excerpt_vi: ""
-number: 156
+number: 160
 publishDate: "2026-04-22T00:00:00Z"
 ---
 

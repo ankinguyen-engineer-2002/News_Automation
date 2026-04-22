@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-22"
 excerpt: "OpenAI's new sandbox support ships with a Temporal extension for orchestrating long-lived agents across Daytona, Docker, E2B, and local environments."
 excerpt_vi: ""
-number: 85
+number: 88
 publishDate: "2026-04-22T00:00:00Z"
 ---
 

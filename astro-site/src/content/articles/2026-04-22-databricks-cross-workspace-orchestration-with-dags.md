@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-22"
 excerpt: "Lakeflow Jobs can't see across workspace boundaries. Learn how Dagster unifies multiple Databricks workspaces into a single asset graph with real dependencies."
 excerpt_vi: ""
-number: 147
+number: 148
 publishDate: "2026-04-22T00:00:00Z"
 ---
 
