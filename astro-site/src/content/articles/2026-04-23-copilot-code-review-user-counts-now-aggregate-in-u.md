@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-23"
 excerpt: "Following the launch of Copilot code review active and passive user identification, enterprise and organization usage reports in the Copilot usage metrics API now include aggregated active and..."
 excerpt_vi: ""
-number: 445
+number: 450
 publishDate: "2026-04-23T00:00:00Z"
 ---
 

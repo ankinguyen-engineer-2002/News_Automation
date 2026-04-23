@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-23"
 excerpt: "Since our last update, we’ve continued to invest in making the GitHub Copilot cloud agent for Jira integration more powerful and customizable. These improvements give teams greater control over how…..."
 excerpt_vi: ""
-number: 444
+number: 449
 publishDate: "2026-04-23T00:00:00Z"
 ---
 

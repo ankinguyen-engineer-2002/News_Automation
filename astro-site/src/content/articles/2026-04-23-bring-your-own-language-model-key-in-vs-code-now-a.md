@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-23"
 excerpt: "Copilot Business and Enterprise users can now use bring your own language model key (BYOK) in Visual Studio Code. BYOK lets teams reuse their API keys to access models from… The post Bring your own..."
 excerpt_vi: ""
-number: 446
+number: 451
 publishDate: "2026-04-23T00:00:00Z"
 ---
 
