@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-24"
 excerpt: "The microservices era already solved the problems AI agents face in production. Read this nuanced analysis of EDA, event sourcing, and orchestration for agentic AI."
 excerpt_vi: ""
-number: 93
+number: 98
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

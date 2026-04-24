@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-24"
 excerpt: "Google's agentic IDE is here, and paired with dbt, it might just give you your weekends back. Here's what you need to know."
 excerpt_vi: ""
-number: 165
+number: 169
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

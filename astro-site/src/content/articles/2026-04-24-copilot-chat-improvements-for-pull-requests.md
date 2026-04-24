@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-24"
 excerpt: "GitHub Copilot Chat now provides richer context and new capabilities when you’re working with diffs and pull requests. You can access this functionality by asking a question about a pull… The post..."
 excerpt_vi: ""
-number: 451
+number: 457
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

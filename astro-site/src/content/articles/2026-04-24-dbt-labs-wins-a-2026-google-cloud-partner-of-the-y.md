@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-24"
 excerpt: "dbt Labs recognized for empowering thousands of Google BigQuery users to deliver trusted analytics and AI at scale"
 excerpt_vi: ""
-number: 164
+number: 168
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-24"
 excerpt: "GitHub Copilot Chat in github.com helps you get to the root cause of an error faster when you paste a stack trace. Copilot recognizes stack traces more reliably and will… The post Better debugging..."
 excerpt_vi: ""
-number: 453
+number: 458
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

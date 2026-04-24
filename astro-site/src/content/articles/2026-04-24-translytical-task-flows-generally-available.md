@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-24"
 excerpt: "Translytical task flows take interactive Power BI reports to the next level where users can update records, add annotations, and trigger actions in external systems—all without leaving the report...."
 excerpt_vi: ""
-number: 156
+number: 158
 publishDate: "2026-04-24T00:00:00Z"
 ---
 

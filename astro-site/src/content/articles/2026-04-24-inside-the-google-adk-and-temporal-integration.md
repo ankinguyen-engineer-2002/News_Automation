@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-24"
 excerpt: "Google ADK builds the agent and Temporal makes sure it finishes. Here’s how our integration works under the hood and all it took to make it happen."
 excerpt_vi: ""
-number: 92
+number: 97
 publishDate: "2026-04-24T00:00:00Z"
 ---
 
