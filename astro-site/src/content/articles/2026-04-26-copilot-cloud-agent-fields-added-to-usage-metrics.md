@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-26"
 excerpt: "Following the Copilot coding agent to Copilot cloud agent rename, the Copilot usage metrics API now includes a new used_copilot_cloud_agent field in user-level reports. This boolean field mirrors the..."
 excerpt_vi: ""
-number: 462
+number: 467
 publishDate: "2026-04-26T00:00:00Z"
 ---
 

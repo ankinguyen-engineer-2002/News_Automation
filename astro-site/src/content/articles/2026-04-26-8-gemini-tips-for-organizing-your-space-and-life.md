@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-04-26"
 excerpt: "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live"
 excerpt_vi: ""
-number: 191
+number: 195
 publishDate: "2026-04-26T00:00:00Z"
 ---
 
