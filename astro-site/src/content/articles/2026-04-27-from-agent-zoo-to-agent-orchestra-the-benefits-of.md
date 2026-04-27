@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-27"
 excerpt: "Learn how Temporal bridges the gap between agentic AI demos and production-ready systems — with guardrails, observability, versioning, and cost controls built in."
 excerpt_vi: ""
-number: 105
+number: 110
 publishDate: "2026-04-27T00:00:00Z"
 ---
 
