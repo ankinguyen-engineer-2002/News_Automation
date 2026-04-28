@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-28"
 excerpt: "See how Obie used the dbt Fusion engine and state-aware orchestration to cut costs, speed up pipelines, and scale with confidence."
 excerpt_vi: ""
-number: 178
+number: 181
 publishDate: "2026-04-28T00:00:00Z"
 ---
 

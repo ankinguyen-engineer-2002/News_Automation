@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-28"
 excerpt: "One generic Temporal workflow class can provide infinite healthcare automation. See how XY built a DSL-driven AI agent orchestration platform that scales from prototype to production."
 excerpt_vi: ""
-number: 111
+number: 115
 publishDate: "2026-04-28T00:00:00Z"
 ---
 

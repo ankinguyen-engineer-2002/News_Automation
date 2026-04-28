@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-04-28"
 excerpt: "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
 excerpt_vi: ""
-number: 201
+number: 205
 publishDate: "2026-04-28T00:00:00Z"
 ---
 
