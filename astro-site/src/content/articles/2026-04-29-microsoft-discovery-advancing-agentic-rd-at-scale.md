@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-29"
 excerpt: "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale..."
 excerpt_vi: ""
-number: 174
+number: 176
 publishDate: "2026-04-29T00:00:00Z"
 ---
 

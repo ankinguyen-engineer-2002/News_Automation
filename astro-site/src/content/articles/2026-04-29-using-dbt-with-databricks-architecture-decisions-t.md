@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-04-29"
 excerpt: "The cost of skipping dbt on Databricks compounds quietly. A solution architect explains what to watch for and when to act."
 excerpt_vi: ""
-number: 179
+number: 181
 publishDate: "2026-04-29T00:00:00Z"
 ---
 

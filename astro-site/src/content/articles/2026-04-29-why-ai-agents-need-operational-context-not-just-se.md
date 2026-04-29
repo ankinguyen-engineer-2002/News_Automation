@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-04-29"
 excerpt: "Semantic context tells AI agents what data means. Operational context tells them whether to trust it. Learn how Dagster and Atlan combine both halves of the context layer."
 excerpt_vi: ""
-number: 159
+number: 161
 publishDate: "2026-04-29T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-29"
 excerpt: "Starting today, in our Copilot Student plan, we are removing GPT-5.3-Codex from the model picker. It remains available through auto model selection. Auto model selection is built to match each… The..."
 excerpt_vi: ""
-number: 478
+number: 483
 publishDate: "2026-04-29T00:00:00Z"
 ---
 
