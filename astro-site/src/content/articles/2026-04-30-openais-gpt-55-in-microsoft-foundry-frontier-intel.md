@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-04-30"
 excerpt: "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post..."
 excerpt_vi: ""
-number: 175
+number: 177
 publishDate: "2026-04-30T00:00:00Z"
 ---
 

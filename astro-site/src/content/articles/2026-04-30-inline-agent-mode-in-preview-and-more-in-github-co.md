@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-30"
 excerpt: "This update introduces inline agent mode in preview, enhancements to Next Edit Suggestions, global auto approve, and more flexible controls for terminal commands and file edits. It also includes..."
 excerpt_vi: ""
-number: 484
+number: 489
 publishDate: "2026-04-30T00:00:00Z"
 ---
 

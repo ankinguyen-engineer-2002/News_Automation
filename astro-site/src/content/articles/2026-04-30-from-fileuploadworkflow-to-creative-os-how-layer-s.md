@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-04-30"
 excerpt: "How Layer went from a handful of Temporal Workflows to 50 in production. The architecture, the lessons, and what broke along the way."
 excerpt_vi: ""
-number: 118
+number: 119
 publishDate: "2026-04-30T00:00:00Z"
 ---
 

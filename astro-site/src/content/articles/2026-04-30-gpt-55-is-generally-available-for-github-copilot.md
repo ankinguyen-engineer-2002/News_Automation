@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-04-30"
 excerpt: "GPT-5.5, OpenAI’s latest GPT model, is now rolling out on GitHub Copilot. In our early testing, GPT-5.5 delivers its strongest performance on complex, multi-step agentic coding task and resolves..."
 excerpt_vi: ""
-number: 482
+number: 487
 publishDate: "2026-04-30T00:00:00Z"
 ---
 
