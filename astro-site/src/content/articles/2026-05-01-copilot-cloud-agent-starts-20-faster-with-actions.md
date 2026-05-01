@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-01"
 excerpt: "Copilot cloud agent now starts up over 20% faster, thanks to optimized runner environments built with GitHub Actions custom images. When you assign an issue to Copilot, start a task… The post Copilot..."
 excerpt_vi: ""
-number: 485
+number: 490
 publishDate: "2026-05-01T00:00:00Z"
 ---
 
