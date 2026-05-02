@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-05-02"
 excerpt: "Manage Dagster+ deployments, permissions, and alerting as code with the new Terraform provider. Bring consistency, reviewability, and automation to your data platform."
 excerpt_vi: ""
-number: 163
+number: 164
 publishDate: "2026-05-02T00:00:00Z"
 ---
 

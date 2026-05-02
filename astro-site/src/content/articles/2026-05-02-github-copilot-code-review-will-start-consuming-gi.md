@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-02"
 excerpt: "Developers and engineering teams worldwide use GitHub Copilot for high-quality, agent-powered code reviews on every pull request. We understand that any change is significant to our customers,..."
 excerpt_vi: ""
-number: 492
+number: 497
 publishDate: "2026-05-02T00:00:00Z"
 ---
 
