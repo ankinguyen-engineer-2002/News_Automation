@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-04"
 excerpt: "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape:..."
 excerpt_vi: ""
-number: 181
+number: 183
 publishDate: "2026-05-04T00:00:00Z"
 ---
 
