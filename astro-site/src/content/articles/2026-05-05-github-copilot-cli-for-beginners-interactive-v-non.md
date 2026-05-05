@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-05"
 excerpt: "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 507
+number: 510
 publishDate: "2026-05-05T00:00:00Z"
 ---
 
