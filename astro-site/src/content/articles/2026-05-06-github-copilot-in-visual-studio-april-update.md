@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-06"
 excerpt: "The April 2026 update to Visual Studio centers on agentic workflows: cloud agent sessions launch directly from the IDE, custom agents gain user-level support, and a new Debugger agent validates… The..."
 excerpt_vi: ""
-number: 511
+number: 515
 publishDate: "2026-05-06T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-06"
 excerpt: "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), with the exception of GPT-5.2-Codex in..."
 excerpt_vi: ""
-number: 509
+number: 514
 publishDate: "2026-05-06T00:00:00Z"
 ---
 

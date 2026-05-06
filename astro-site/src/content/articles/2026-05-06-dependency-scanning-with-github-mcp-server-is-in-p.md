@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-06"
 excerpt: "The GitHub MCP Server can now scan your code changes for vulnerable dependencies before you commit or open a pull request. You’ll catch known vulnerabilities while you write code with… The post..."
 excerpt_vi: ""
-number: 510
+number: 516
 publishDate: "2026-05-06T00:00:00Z"
 ---
 

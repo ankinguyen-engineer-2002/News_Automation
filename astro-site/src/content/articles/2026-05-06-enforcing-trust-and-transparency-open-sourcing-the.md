@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-06"
 excerpt: "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key..."
 excerpt_vi: ""
-number: 184
+number: 185
 publishDate: "2026-05-06T00:00:00Z"
 ---
 
