@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-07"
 excerpt: "dbt Developer Agent is now available in Preview—grounded in your dbt project so you ship faster without breaking downstream."
 excerpt_vi: ""
-number: 183
+number: 184
 publishDate: "2026-05-07T00:00:00Z"
 ---
 

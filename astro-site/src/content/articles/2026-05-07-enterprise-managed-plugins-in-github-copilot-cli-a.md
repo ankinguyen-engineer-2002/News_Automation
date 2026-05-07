@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-07"
 excerpt: "Enterprise administrators can now configure and distribute plugins to GitHub Copilot CLI users across their enterprise. Set baseline standards for your enterprise and make them available in every..."
 excerpt_vi: ""
-number: 516
+number: 522
 publishDate: "2026-05-07T00:00:00Z"
 ---
 

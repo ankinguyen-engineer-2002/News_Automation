@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-07"
 excerpt: "GitHub secret scanning in the GitHub MCP (Model Context Protocol) server is now generally available. When you use an MCP-compatible AI coding agent or IDE (like GitHub Copilot CLI or… The post Secret..."
 excerpt_vi: ""
-number: 514
+number: 518
 publishDate: "2026-05-07T00:00:00Z"
 ---
 
