@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-09"
 excerpt: "New Temporal capabilities from Replay 2026, including Serverless Workers, Standalone Activities, our Google ADK integration, and more."
 excerpt_vi: ""
-number: 129
+number: 132
 publishDate: "2026-05-09T00:00:00Z"
 ---
 

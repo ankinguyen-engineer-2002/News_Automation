@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-09"
 excerpt: "We will deprecate Grok Code Fast 1 across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on May 15th: Model Deprecation date… The..."
 excerpt_vi: ""
-number: 526
+number: 533
 publishDate: "2026-05-09T00:00:00Z"
 ---
 
