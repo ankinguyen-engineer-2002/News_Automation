@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-11"
 excerpt: "Deploy Temporal Workers directly to AWS Lambda. Serverless Workers handle invocation, autoscaling, and scale-to-zero, so you can skip the infrastructure setup"
 excerpt_vi: ""
-number: 136
+number: 139
 publishDate: "2026-05-11T00:00:00Z"
 ---
 

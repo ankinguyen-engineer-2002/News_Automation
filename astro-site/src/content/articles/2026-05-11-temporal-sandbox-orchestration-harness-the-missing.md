@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-11"
 excerpt: "Standardize how AI agents in Temporal Workflows orchestrate sandbox compute. New Code Exchange samples cover provisioning, persistence, and cleanup."
 excerpt_vi: ""
-number: 134
+number: 137
 publishDate: "2026-05-11T00:00:00Z"
 ---
 
