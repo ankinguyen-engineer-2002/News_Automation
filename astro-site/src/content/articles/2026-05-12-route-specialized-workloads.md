@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-12"
 excerpt: "Route ML, analytics, and CPU Activities to separate Temporal Task Queues. Cut GPU costs by 60-80% while scaling each Worker pool independently."
 excerpt_vi: ""
-number: 139
+number: 144
 publishDate: "2026-05-12T00:00:00Z"
 ---
 

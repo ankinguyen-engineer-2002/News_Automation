@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-12"
 excerpt: "Rubber Duck, the cross-family review agent in GitHub Copilot CLI, is now available using a Claude-powered critic agent when your session is using a GPT model. For sessions using Claude… The post..."
 excerpt_vi: ""
-number: 539
+number: 544
 publishDate: "2026-05-12T00:00:00Z"
 ---
 
