@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-13"
 excerpt: "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t..."
 excerpt_vi: ""
-number: 547
+number: 550
 publishDate: "2026-05-13T00:00:00Z"
 ---
 

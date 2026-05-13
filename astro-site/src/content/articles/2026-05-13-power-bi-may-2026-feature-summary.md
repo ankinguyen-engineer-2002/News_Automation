@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-13"
 excerpt: "Welcome to the May Power BI update! Power BI continues to evolve with updates that make it easier to explore data, generate insights, and build more polished reports. This month’s release brings..."
 excerpt_vi: ""
-number: 196
+number: 199
 publishDate: "2026-05-13T00:00:00Z"
 ---
 

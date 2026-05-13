@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-13"
 excerpt: "When you delegate a task to Copilot cloud agent, it works in the background in its own development environment powered by GitHub Actions. You can pass secrets and variables to… The post More flexible..."
 excerpt_vi: ""
-number: 544
+number: 549
 publishDate: "2026-05-13T00:00:00Z"
 ---
 

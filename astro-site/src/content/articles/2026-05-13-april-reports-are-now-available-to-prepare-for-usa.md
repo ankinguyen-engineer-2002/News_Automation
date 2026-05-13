@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-13"
 excerpt: "Starting today, you can download your usage report to see how April’s GitHub Copilot activity translates into AI credits. The new billing unit of AI credits is going live on… The post April reports..."
 excerpt_vi: ""
-number: 546
+number: 553
 publishDate: "2026-05-13T00:00:00Z"
 ---
 

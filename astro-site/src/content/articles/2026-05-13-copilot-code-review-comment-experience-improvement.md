@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-13"
 excerpt: "Copilot code review comments are now easier to scan and act on. Available to all users opted into the new pull requests experience, grouped suggestions, severity levels, and an updated… The post..."
 excerpt_vi: ""
-number: 545
+number: 552
 publishDate: "2026-05-13T00:00:00Z"
 ---
 
