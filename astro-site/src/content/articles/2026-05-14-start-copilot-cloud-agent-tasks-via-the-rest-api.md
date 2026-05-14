@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-14"
 excerpt: "Copilot Business and Copilot Enterprise users can programmatically start Copilot cloud agent tasks with the new Agent tasks REST API, available in public preview. Copilot cloud agent works in the…..."
 excerpt_vi: ""
-number: 549
+number: 554
 publishDate: "2026-05-14T00:00:00Z"
 ---
 

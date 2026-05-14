@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-14"
 excerpt: "Welcome to the April Power BI update! Power BI’s April 2026 update is here, bringing continued improvements across Copilot and AI, reporting, visuals, and modeling. This release includes more..."
 excerpt_vi: ""
-number: 199
+number: 201
 publishDate: "2026-05-14T00:00:00Z"
 ---
 

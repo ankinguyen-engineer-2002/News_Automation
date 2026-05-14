@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-14"
 excerpt: "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix..."
 excerpt_vi: ""
-number: 553
+number: 558
 publishDate: "2026-05-14T00:00:00Z"
 ---
 

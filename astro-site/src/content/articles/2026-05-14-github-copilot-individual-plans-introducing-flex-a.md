@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-14"
 excerpt: "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared..."
 excerpt_vi: ""
-number: 551
+number: 556
 publishDate: "2026-05-14T00:00:00Z"
 ---
 
