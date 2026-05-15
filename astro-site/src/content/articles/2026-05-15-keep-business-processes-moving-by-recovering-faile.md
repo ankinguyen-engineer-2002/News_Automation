@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-15"
 excerpt: "Stop restarting broken business processes. See how Temporal Workflows pause on bad data, accept fixes via Signals, and resume without losing progress."
 excerpt_vi: ""
-number: 154
+number: 159
 publishDate: "2026-05-15T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-15"
 excerpt: "This update brings the Copilot CLI agent into JetBrains IDEs, along with a unified sessions view that shows live status for running and queued sessions. It also adds the ask… The post Introducing..."
 excerpt_vi: ""
-number: 558
+number: 561
 publishDate: "2026-05-15T00:00:00Z"
 ---
 

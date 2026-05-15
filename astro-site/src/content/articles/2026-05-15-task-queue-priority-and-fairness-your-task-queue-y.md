@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-15"
 excerpt: "Task Queue Priority and Fairness are GA for all Temporal SDKs, helping teams prioritize critical work and prevent tenant starvation without custom infra."
 excerpt_vi: ""
-number: 152
+number: 157
 publishDate: "2026-05-15T00:00:00Z"
 ---
 
