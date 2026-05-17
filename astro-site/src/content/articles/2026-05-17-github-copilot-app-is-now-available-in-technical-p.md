@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-17"
 excerpt: "The GitHub Copilot app is now in technical preview. It’s a GitHub-native desktop experience to start agentic development from the work in front of you, keep it isolated, steer it… The post GitHub..."
 excerpt_vi: ""
-number: 566
+number: 571
 publishDate: "2026-05-17T00:00:00Z"
 ---
 

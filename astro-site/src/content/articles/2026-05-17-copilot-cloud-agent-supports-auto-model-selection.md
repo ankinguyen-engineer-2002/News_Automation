@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-17"
 excerpt: "Copilot cloud agent now supports Copilot auto model selection. When you select Auto in the model picker, Copilot intelligently selects the best available model based on system health and model… The..."
 excerpt_vi: ""
-number: 567
+number: 572
 publishDate: "2026-05-17T00:00:00Z"
 ---
 
