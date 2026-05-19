@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-19"
 excerpt: "As announced on March 18, 2026, GPT-5.3-Codex is now the base model for all Copilot Business and Copilot Enterprise organizations, replacing GPT-4.1. The base model is used when your organization…..."
 excerpt_vi: ""
-number: 579
+number: 583
 publishDate: "2026-05-19T00:00:00Z"
 ---
 

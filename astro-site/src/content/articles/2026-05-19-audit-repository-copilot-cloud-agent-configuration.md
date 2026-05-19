@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-19"
 excerpt: "You can now programmatically audit a repository’s Copilot cloud agent configuration with the new Get Copilot cloud agent configuration for a repository REST API, available in public preview. The new…..."
 excerpt_vi: ""
-number: 577
+number: 582
 publishDate: "2026-05-19T00:00:00Z"
 ---
 

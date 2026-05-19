@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-19"
 excerpt: "When you delegate a task to Copilot cloud agent, you can pick the model it uses to do its work. Today, we’re expanding the list of supported models to include… The post Copilot cloud agent: Fast,..."
 excerpt_vi: ""
-number: 576
+number: 581
 publishDate: "2026-05-19T00:00:00Z"
 ---
 

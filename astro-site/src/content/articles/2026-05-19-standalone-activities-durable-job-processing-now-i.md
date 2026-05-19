@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-19"
 excerpt: "Temporal Standalone Activities are now in Public Preview, bringing durable job processing, retries, observability, and lifecycle control to Temporal Cloud."
 excerpt_vi: ""
-number: 168
+number: 169
 publishDate: "2026-05-19T00:00:00Z"
 ---
 
