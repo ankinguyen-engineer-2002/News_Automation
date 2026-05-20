@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-20"
 excerpt: "How Bitovi’s team built a customer service AI agent on Temporal and AWS Bedrock, and why durability was never optional."
 excerpt_vi: ""
-number: 169
+number: 173
 publishDate: "2026-05-20T00:00:00Z"
 ---
 

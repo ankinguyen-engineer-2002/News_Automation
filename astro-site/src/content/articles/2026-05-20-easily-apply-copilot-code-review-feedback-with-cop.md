@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-20"
 excerpt: "Copilot code review’s previous Implement suggestion button has now been renamed to Fix with Copilot and updated to support a UI dialog for more control over how suggestions are applied.… The post..."
 excerpt_vi: ""
-number: 581
+number: 587
 publishDate: "2026-05-20T00:00:00Z"
 ---
 

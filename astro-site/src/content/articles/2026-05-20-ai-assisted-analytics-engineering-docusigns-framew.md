@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-20"
 excerpt: "How Docusign reduced dbt unit test authoring from 5 hours to 30 minutes using a structured AI-assisted framework."
 excerpt_vi: ""
-number: 197
+number: 202
 publishDate: "2026-05-20T00:00:00Z"
 ---
 

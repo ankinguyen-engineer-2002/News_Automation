@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-20"
 excerpt: "Gemini 3.5 Flash, Google’s latest Flash-tier model, is now rolling out on GitHub Copilot. In our early testing, Gemini 3.5 Flash delivers near-Pro coding quality at Flash-tier speed and cost… The..."
 excerpt_vi: ""
-number: 583
+number: 588
 publishDate: "2026-05-20T00:00:00Z"
 ---
 
