@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-21"
 excerpt: "A practical look at  how Brooklyn Data’s Fusion Readiness Assessment helps teams plan a migration with confidence."
 excerpt_vi: ""
-number: 201
+number: 207
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

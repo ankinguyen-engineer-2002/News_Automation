@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-21"
 excerpt: "We have updated our available model selection for Copilot Chat on the web to deliver more consistent, high-quality responses. What’s changed While model choice is valuable, we are limiting the… The..."
 excerpt_vi: ""
-number: 590
+number: 595
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

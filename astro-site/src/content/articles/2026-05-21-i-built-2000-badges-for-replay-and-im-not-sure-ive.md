@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-21"
 excerpt: "Temporal's Senior Developer Advocate, Shy Ruparel, built 2,000 interactive electronic badges for Replay. Here's how he pulled it off."
 excerpt_vi: ""
-number: 174
+number: 179
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-21"
 excerpt: "Clean data is just the start. See how dbt's semantic layer, MCP, and agent skills give AI the business context it needs."
 excerpt_vi: ""
-number: 198
+number: 203
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

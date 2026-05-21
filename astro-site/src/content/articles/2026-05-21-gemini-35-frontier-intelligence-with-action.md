@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-05-21"
 excerpt: "Gemini 3.5 text and multi-colored star icon on an abstract blue background."
 excerpt_vi: ""
-number: 261
+number: 266
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

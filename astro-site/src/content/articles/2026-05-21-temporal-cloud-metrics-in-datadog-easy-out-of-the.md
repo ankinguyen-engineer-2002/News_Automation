@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-21"
 excerpt: "Monitor and optimize your Workflows in Temporal Cloud with a new Datadog integration that provides metrics, insights, out-of-the-box dashboards, and proactive alerts"
 excerpt_vi: ""
-number: 176
+number: 180
 publishDate: "2026-05-21T00:00:00Z"
 ---
 

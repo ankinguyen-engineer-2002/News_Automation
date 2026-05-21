@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-21"
 excerpt: "NASDAQ processes up to a trillion messages a day across 26 business lines. Here's why they use dbt and Databricks to do it."
 excerpt_vi: ""
-number: 200
+number: 205
 publishDate: "2026-05-21T00:00:00Z"
 ---
 
