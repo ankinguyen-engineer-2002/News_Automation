@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-22"
 excerpt: "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on..."
 excerpt_vi: ""
-number: 595
+number: 600
 publishDate: "2026-05-22T00:00:00Z"
 ---
 

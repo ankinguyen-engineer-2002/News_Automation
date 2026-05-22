@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-22"
 excerpt: "Author: Kay Unkroth, Principl Program Manager - Outbound Access Protection (OAP) is a workspace-level network security and governance feature that blocks outbound traffic from a workspace by default..."
 excerpt_vi: ""
-number: 213
+number: 218
 publishDate: "2026-05-22T00:00:00Z"
 ---
 

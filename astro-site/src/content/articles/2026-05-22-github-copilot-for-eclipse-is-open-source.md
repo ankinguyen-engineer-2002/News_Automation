@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-22"
 excerpt: "Following our previous updates, GitHub Copilot for Eclipse is open source, with the code available on GitHub under the MIT license. This marks an important milestone for GitHub Copilot in… The post..."
 excerpt_vi: ""
-number: 591
+number: 598
 publishDate: "2026-05-22T00:00:00Z"
 ---
 
