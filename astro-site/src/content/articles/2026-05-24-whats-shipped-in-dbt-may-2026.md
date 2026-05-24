@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-24"
 excerpt: "A roundup of everything we've shipped since January—across agents, Fusion, security, developer experience, dbt Core, and more."
 excerpt_vi: ""
-number: 215
+number: 220
 publishDate: "2026-05-24T00:00:00Z"
 ---
 

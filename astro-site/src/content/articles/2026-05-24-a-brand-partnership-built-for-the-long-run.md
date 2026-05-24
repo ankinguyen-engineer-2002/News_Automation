@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-24"
 excerpt: "Temporal is Crystal Palace FC's front-of-shirt partner. Two institutions built to last: one on the pitch, one in your stack."
 excerpt_vi: ""
-number: 190
+number: 195
 publishDate: "2026-05-24T00:00:00Z"
 ---
 

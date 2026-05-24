@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-24"
 excerpt: "Nasdaq processes up to a trillion messages a day across 26 business lines. Here's why they use dbt and Databricks to do it."
 excerpt_vi: ""
-number: 216
+number: 221
 publishDate: "2026-05-24T00:00:00Z"
 ---
 
