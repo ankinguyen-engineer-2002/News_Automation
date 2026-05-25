@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-25"
 excerpt: "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations..."
 excerpt_vi: ""
-number: 231
+number: 236
 publishDate: "2026-05-25T00:00:00Z"
 ---
 

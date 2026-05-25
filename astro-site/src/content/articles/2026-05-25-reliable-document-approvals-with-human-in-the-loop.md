@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-25"
 excerpt: "Design human-in-the-loop approvals in Temporal. Durable timers enforce SLAs, escalations fire automatically, and every action is auditable."
 excerpt_vi: ""
-number: 194
+number: 199
 publishDate: "2026-05-25T00:00:00Z"
 ---
 

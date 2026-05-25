@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-25"
 excerpt: "Just like humans, autonomous agents need faster feedback loops. Here’s how to develop them."
 excerpt_vi: ""
-number: 222
+number: 227
 publishDate: "2026-05-25T00:00:00Z"
 ---
 
