@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-27"
 excerpt: "Jap Singh joined Temporal and found himself at Replay '26 in his first week. His experience changed his view on the company."
 excerpt_vi: ""
-number: 207
+number: 212
 publishDate: "2026-05-27T00:00:00Z"
 ---
 

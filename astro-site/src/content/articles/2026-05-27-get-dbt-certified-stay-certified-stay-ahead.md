@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-05-27"
 excerpt: "Get dbt certified -- and stay that way. Here's why certification matters for your career and how to earn it."
 excerpt_vi: ""
-number: 229
+number: 231
 publishDate: "2026-05-27T00:00:00Z"
 ---
 

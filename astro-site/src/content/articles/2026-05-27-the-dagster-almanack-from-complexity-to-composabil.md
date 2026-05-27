@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-05-27"
 excerpt: ""
 excerpt_vi: ""
-number: 180
+number: 182
 publishDate: "2026-05-27T00:00:00Z"
 ---
 
