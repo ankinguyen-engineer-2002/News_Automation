@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-05-28"
 excerpt: "Dagster replaced Pyright with Astral’s new Python type checker, ty, and saw CI type checking drop from minutes to seconds. Along the way, ty surfaced real runtime bugs Pyright missed and improved..."
 excerpt_vi: ""
-number: 181
+number: 183
 publishDate: "2026-05-28T00:00:00Z"
 ---
 
