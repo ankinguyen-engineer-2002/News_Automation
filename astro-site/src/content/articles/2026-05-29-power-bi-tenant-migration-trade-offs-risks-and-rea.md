@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-29"
 excerpt: "Author: Winnie Li, Cloud Solution Architect"
 excerpt_vi: ""
-number: 245
+number: 247
 publishDate: "2026-05-29T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-05-29"
 excerpt: "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production..."
 excerpt_vi: ""
-number: 244
+number: 246
 publishDate: "2026-05-29T00:00:00Z"
 ---
 
