@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-30"
 excerpt: "How Coinbase engineers debug Temporal Workflows from their AI editor: a custom MCP server, 10 read-only tools, and 14,000+ calls in a couple of months."
 excerpt_vi: ""
-number: 214
+number: 218
 publishDate: "2026-05-30T00:00:00Z"
 ---
 

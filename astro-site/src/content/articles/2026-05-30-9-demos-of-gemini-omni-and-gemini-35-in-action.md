@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-05-30"
 excerpt: "Gemini Omni & Gemini 3.5 hero"
 excerpt_vi: ""
-number: 291
+number: 294
 publishDate: "2026-05-30T00:00:00Z"
 ---
 
