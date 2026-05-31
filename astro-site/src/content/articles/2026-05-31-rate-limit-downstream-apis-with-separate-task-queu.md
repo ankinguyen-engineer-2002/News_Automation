@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-31"
 excerpt: "Stop hitting 429s on downstream APIs. Use rate-limited Temporal Task Queues to keep Activities under SendGrid, Stripe, and OpenAI quotas."
 excerpt_vi: ""
-number: 221
+number: 225
 publishDate: "2026-05-31T00:00:00Z"
 ---
 

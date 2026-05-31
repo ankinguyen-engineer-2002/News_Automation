@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-05-31"
 excerpt: "Build multiplayer player sessions that survive server crashes. See how to model each player as a durable Actor Workflow in Temporal Python."
 excerpt_vi: ""
-number: 220
+number: 224
 publishDate: "2026-05-31T00:00:00Z"
 ---
 

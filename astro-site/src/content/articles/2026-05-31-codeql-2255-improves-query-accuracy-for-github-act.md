@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-31"
 excerpt: "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.25.5, which includes accuracy improvements..."
 excerpt_vi: ""
-number: 638
+number: 643
 publishDate: "2026-05-31T00:00:00Z"
 ---
 

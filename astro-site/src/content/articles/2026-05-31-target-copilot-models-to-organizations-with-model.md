@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-05-31"
 excerpt: "Enterprise owners now have granular control over which GitHub Copilot models are available to each organization. With targeted model rules, you can allow specific models for specific organizations..."
 excerpt_vi: ""
-number: 640
+number: 645
 publishDate: "2026-05-31T00:00:00Z"
 ---
 
