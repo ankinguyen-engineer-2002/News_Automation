@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-01"
 excerpt: "Copilot Memory now includes improved memory deletion, adds a repository-level off switch, and brings further memory controls into the Copilot CLI. Copilot Memory is in public preview and available..."
 excerpt_vi: ""
-number: 644
+number: 649
 publishDate: "2026-06-01T00:00:00Z"
 ---
 
