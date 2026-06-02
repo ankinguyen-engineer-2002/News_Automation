@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-06-02"
 excerpt: "Snowflake powers modern data platforms, but orchestration still matters. Learn how Dagster complements Snowflake with SQL-native assets, Dynamic Table lineage, virtual assets, downstream automation,..."
 excerpt_vi: ""
-number: 187
+number: 188
 publishDate: "2026-06-02T00:00:00Z"
 ---
 

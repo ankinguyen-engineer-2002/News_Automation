@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-02"
 excerpt: "Learn how to build a resilient platform control plane with Temporal using the Entity Workflow pattern: message handling, Continue-as-New, and compensation."
 excerpt_vi: ""
-number: 226
+number: 229
 publishDate: "2026-06-02T00:00:00Z"
 ---
 

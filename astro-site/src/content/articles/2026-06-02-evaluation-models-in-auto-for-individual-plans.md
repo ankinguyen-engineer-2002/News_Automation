@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-02"
 excerpt: "GitHub Copilot offers access to evaluation models for individual non-enterprise users, and these models may be served in Copilot auto model selection. To disable use of evaluation models through..."
 excerpt_vi: ""
-number: 648
+number: 653
 publishDate: "2026-06-02T00:00:00Z"
 ---
 

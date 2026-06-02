@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-02"
 excerpt: "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post..."
 excerpt_vi: ""
-number: 247
+number: 248
 publishDate: "2026-06-02T00:00:00Z"
 ---
 

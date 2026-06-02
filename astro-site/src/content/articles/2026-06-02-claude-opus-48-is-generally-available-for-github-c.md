@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-02"
 excerpt: "Claude Opus 4.8, Anthropic’s latest Opus model, is now available in GitHub Copilot. In our early testing, Opus 4.8 demonstrates a clear step forward in code understanding and generation across… The..."
 excerpt_vi: ""
-number: 647
+number: 652
 publishDate: "2026-06-02T00:00:00Z"
 ---
 

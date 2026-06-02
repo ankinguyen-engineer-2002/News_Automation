@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-02"
 excerpt: "As announced in our recent blog post, usage-based billing for GitHub Copilot is now live for all users and Copilot code review consumes GitHub Actions minutes, in addition to GitHub… The post Updates..."
 excerpt_vi: ""
-number: 646
+number: 651
 publishDate: "2026-06-02T00:00:00Z"
 ---
 
