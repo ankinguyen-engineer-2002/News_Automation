@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-03"
 excerpt: "How groundcover rebuilt their alert Dispatch Center on self-hosted Temporal — two-level Workflows, deterministic IDs as routing, and at-least-once delivery."
 excerpt_vi: ""
-number: 230
+number: 233
 publishDate: "2026-06-03T00:00:00Z"
 ---
 

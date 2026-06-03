@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-03"
 excerpt: "Copilot code review adapts to your team’s tools and standards and scales its depth to the complexity of each change. Today we’re shipping two public previews: Agent skills and MCP… The post Shape..."
 excerpt_vi: ""
-number: 652
+number: 657
 publishDate: "2026-06-03T00:00:00Z"
 ---
 

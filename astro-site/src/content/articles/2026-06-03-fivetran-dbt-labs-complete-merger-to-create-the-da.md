@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-03"
 excerpt: "Fivetran and dbt Labs are now one company, focused on building the data foundation for the agentic AI era."
 excerpt_vi: ""
-number: 238
+number: 242
 publishDate: "2026-06-03T00:00:00Z"
 ---
 
