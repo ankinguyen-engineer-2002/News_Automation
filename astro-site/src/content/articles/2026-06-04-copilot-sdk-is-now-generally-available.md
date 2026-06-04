@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-04"
 excerpt: "The GitHub Copilot SDK is now generally available. You can embed GitHub Copilot’s agentic engine into your own applications, services, and developer tools with a stable API and production-ready..."
 excerpt_vi: ""
-number: 660
+number: 665
 publishDate: "2026-06-04T00:00:00Z"
 ---
 

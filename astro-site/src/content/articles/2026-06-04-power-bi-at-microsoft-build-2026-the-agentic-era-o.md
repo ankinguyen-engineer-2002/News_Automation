@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-04"
 excerpt: "Microsoft Build 2026 brings the next generation of intelligent analytics to Power BI—where agents do the building, apps deliver insights everywhere, and the platform gets more powerful for every user."
 excerpt_vi: ""
-number: 255
+number: 260
 publishDate: "2026-06-04T00:00:00Z"
 ---
 
