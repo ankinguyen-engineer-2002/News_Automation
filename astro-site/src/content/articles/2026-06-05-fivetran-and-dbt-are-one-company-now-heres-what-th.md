@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-05"
 excerpt: "Fivetran and dbt Labs are officially one company to deliver data infrastructure for agents you trust."
 excerpt_vi: ""
-number: 245
+number: 249
 publishDate: "2026-06-05T00:00:00Z"
 ---
 
