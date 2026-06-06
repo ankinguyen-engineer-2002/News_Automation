@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-06"
 excerpt: "dbt State, dbt Wizard, dbt Core v2.0, and the Fivetran merger"
 excerpt_vi: ""
-number: 251
+number: 255
 publishDate: "2026-06-06T00:00:00Z"
 ---
 

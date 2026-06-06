@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-06"
 excerpt: "Copilot in web modeling (Preview) in the Power BI service, is an AI-powered assistant helping you analyze and improve your semantic models using natural language so you can spend less time on manual..."
 excerpt_vi: ""
-number: 264
+number: 269
 publishDate: "2026-06-06T00:00:00Z"
 ---
 

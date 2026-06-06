@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-06"
 excerpt: "dbt Labs wins two Snowflake Partner honors: Data Integration Product Partner of the Year and Snowflake’s CoCo Adoption Award"
 excerpt_vi: ""
-number: 248
+number: 252
 publishDate: "2026-06-06T00:00:00Z"
 ---
 
