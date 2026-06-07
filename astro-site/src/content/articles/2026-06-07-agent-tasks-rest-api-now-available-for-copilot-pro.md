@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-07"
 excerpt: "Copilot Pro, Pro+, and Max users can now programmatically start and track Copilot cloud agent tasks with the Agent tasks REST API, available in public preview. Copilot cloud agent works… The post..."
 excerpt_vi: ""
-number: 676
+number: 681
 publishDate: "2026-06-07T00:00:00Z"
 ---
 

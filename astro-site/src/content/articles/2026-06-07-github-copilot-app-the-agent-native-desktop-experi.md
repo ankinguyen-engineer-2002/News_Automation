@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-07"
 excerpt: "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared..."
 excerpt_vi: ""
-number: 675
+number: 680
 publishDate: "2026-06-07T00:00:00Z"
 ---
 

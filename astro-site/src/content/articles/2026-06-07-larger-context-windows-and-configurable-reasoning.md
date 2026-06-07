@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-07"
 excerpt: "GitHub Copilot now supports larger context windows and configurable reasoning levels to help you tackle deeper, more complex work. Leverage one-million-token context windows A one-million-token..."
 excerpt_vi: ""
-number: 677
+number: 682
 publishDate: "2026-06-07T00:00:00Z"
 ---
 
