@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-08"
 excerpt: "When a GitHub Actions job fails, Copilot Pro, Pro+, and Max subscribers can now ask Copilot cloud agent to fix it in one click. Click the Fix with Copilot button… The post Fix with Copilot for..."
 excerpt_vi: ""
-number: 679
+number: 684
 publishDate: "2026-06-08T00:00:00Z"
 ---
 

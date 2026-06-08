@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-08"
 excerpt: "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post..."
 excerpt_vi: ""
-number: 277
+number: 282
 publishDate: "2026-06-08T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-08"
 excerpt: "DAX user-defined functions are now production-ready based on community feedback and internal validation. Their adoption during preview shows that DAX UDFs are quickly becoming a mainstay of Power BI..."
 excerpt_vi: ""
-number: 275
+number: 280
 publishDate: "2026-06-08T00:00:00Z"
 ---
 

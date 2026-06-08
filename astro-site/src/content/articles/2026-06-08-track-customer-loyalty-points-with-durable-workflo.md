@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-08"
 excerpt: "Track loyalty points with durable Entity Workflows in Temporal. See how to handle accruals, tier upgrades, and redemptions for each customer."
 excerpt_vi: ""
-number: 246
+number: 248
 publishDate: "2026-06-08T00:00:00Z"
 ---
 
