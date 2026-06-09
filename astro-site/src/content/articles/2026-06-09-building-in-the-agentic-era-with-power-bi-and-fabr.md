@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-09"
 excerpt: "Microsoft Build 2026 marks a major shift in how developers build data experiences with AI agents. Today we're announcing two capabilities that bring agentic analytics to the forefront: Agent Skills..."
 excerpt_vi: ""
-number: 279
+number: 284
 publishDate: "2026-06-09T00:00:00Z"
 ---
 
