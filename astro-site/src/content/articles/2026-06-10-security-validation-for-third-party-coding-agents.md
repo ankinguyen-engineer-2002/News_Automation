@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-10"
 excerpt: "Security validation for third-party coding agents is now generally available. GitHub supports third-party coding agents (including Claude and OpenAI Codex) that work directly within your repositories..."
 excerpt_vi: ""
-number: 692
+number: 697
 publishDate: "2026-06-10T00:00:00Z"
 ---
 
