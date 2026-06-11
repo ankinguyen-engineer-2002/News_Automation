@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-11"
 excerpt: "Coverwatch runs its AI-powered insurance workflows on Temporal, keeping agents, broker review, and carrier submissions durable through outages."
 excerpt_vi: ""
-number: 251
+number: 253
 publishDate: "2026-06-11T00:00:00Z"
 ---
 

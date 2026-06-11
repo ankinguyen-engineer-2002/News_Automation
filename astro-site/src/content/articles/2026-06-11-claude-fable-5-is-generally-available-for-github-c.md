@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-11"
 excerpt: "Claude Fable 5 from Anthropic is now available in GitHub Copilot, the first model in Anthropic’s Mythos class, designed for long-horizon, autonomous coding and knowledge-work tasks. Unlike other..."
 excerpt_vi: ""
-number: 696
+number: 701
 publishDate: "2026-06-11T00:00:00Z"
 ---
 
