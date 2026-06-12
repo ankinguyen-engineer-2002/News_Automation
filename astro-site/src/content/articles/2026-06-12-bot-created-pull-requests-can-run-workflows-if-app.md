@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-12"
 excerpt: "Pull requests created by the github-actions[bot] are now able to run your CI/CD workflows with user approval. Requiring approval is a security measure to ensure generated code does not automatically…..."
 excerpt_vi: ""
-number: 702
+number: 709
 publishDate: "2026-06-12T00:00:00Z"
 ---
 

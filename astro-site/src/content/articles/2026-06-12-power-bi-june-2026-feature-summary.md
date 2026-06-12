@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-12"
 excerpt: "This month, we’re continuing to focus on making every day work a little easier—whether that’s building reports, modeling data, or just getting answers faster. You’ll see progress across Copilot and..."
 excerpt_vi: ""
-number: 296
+number: 299
 publishDate: "2026-06-12T00:00:00Z"
 ---
 

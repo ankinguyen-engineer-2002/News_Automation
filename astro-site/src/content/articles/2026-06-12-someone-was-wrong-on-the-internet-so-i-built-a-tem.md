@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-12"
 excerpt: "How Shy Ruparel built a Temporal Docker Desktop extension by identifying a gap and making it available for the community"
 excerpt_vi: ""
-number: 254
+number: 258
 publishDate: "2026-06-12T00:00:00Z"
 ---
 

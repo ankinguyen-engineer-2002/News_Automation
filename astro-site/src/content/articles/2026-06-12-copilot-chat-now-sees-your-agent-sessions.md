@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-12"
 excerpt: "We’ve improved the handoff experience between Copilot Chat and Copilot cloud agent on the web. We’ve also enabled new functionality which allows you to search and query past agent sessions… The post..."
 excerpt_vi: ""
-number: 704
+number: 708
 publishDate: "2026-06-12T00:00:00Z"
 ---
 
