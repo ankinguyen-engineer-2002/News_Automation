@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-13"
 excerpt: "AI powered Power BI reporting skills is a collection of multiple skills that enables AI agents to automate report creation, from designing pages to publishing to Fabric. Now available through the..."
 excerpt_vi: ""
-number: 297
+number: 300
 publishDate: "2026-06-13T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-13"
 excerpt: "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How..."
 excerpt_vi: ""
-number: 707
+number: 710
 publishDate: "2026-06-13T00:00:00Z"
 ---
 

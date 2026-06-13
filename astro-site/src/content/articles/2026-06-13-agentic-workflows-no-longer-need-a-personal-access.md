@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-13"
 excerpt: "You can now use GitHub Agentic Workflows with GitHub Actions’s built-in GITHUB_TOKEN. This means that you no longer need to create and store a personal access token (PAT), eliminating the… The post..."
 excerpt_vi: ""
-number: 709
+number: 712
 publishDate: "2026-06-13T00:00:00Z"
 ---
 

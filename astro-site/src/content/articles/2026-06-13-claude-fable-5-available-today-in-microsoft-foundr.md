@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-13"
 excerpt: "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in..."
 excerpt_vi: ""
-number: 298
+number: 301
 publishDate: "2026-06-13T00:00:00Z"
 ---
 
