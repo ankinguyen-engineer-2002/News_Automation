@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-14"
 excerpt: "Four teams built a production AI deep research agent using Temporal, Neo4j, Auth0, and Redpanda, revealing the infrastructure beneath every great AI agent."
 excerpt_vi: ""
-number: 260
+number: 264
 publishDate: "2026-06-14T00:00:00Z"
 ---
 
