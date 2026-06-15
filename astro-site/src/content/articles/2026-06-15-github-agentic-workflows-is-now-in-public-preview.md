@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-15"
 excerpt: "GitHub Agentic Workflows is now in public preview. With agentic workflows, you can automate reasoning-based tasks like issue triage, CI failure analysis, and documentation updates by leveraging..."
 excerpt_vi: ""
-number: 716
+number: 721
 publishDate: "2026-06-15T00:00:00Z"
 ---
 

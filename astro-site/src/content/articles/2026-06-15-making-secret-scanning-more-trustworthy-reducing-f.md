@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-15"
 excerpt: "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy:..."
 excerpt_vi: ""
-number: 719
+number: 724
 publishDate: "2026-06-15T00:00:00Z"
 ---
 
