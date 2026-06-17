@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-17"
 excerpt: "This guide details a reusable, durable distributed lock for Temporal Workflows that doesn't rely on an external database, central limiter, or any shared state."
 excerpt_vi: ""
-number: 273
+number: 277
 publishDate: "2026-06-17T00:00:00Z"
 ---
 

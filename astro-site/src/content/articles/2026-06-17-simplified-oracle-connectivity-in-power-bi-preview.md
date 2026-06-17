@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-17"
 excerpt: "Connecting Power BI to Oracle has historically meant extra provider installations and data gateway deployment — even for cloud-hosted databases. Two new Preview capabilities change that. Power BI..."
 excerpt_vi: ""
-number: 312
+number: 315
 publishDate: "2026-06-17T00:00:00Z"
 ---
 

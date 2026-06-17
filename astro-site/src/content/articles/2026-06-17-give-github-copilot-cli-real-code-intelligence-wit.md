@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-17"
 excerpt: "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language..."
 excerpt_vi: ""
-number: 729
+number: 734
 publishDate: "2026-06-17T00:00:00Z"
 ---
 
