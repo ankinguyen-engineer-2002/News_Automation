@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-18"
 excerpt: "The GitHub Copilot app is now generally available for macOS, Windows, and Linux. It’s the desktop home for agent-driven development, built natively on GitHub. Download the GitHub Copilot app to… The..."
 excerpt_vi: ""
-number: 731
+number: 737
 publishDate: "2026-06-18T00:00:00Z"
 ---
 

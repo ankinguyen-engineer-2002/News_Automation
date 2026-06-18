@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-18"
 excerpt: "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The..."
 excerpt_vi: ""
-number: 734
+number: 738
 publishDate: "2026-06-18T00:00:00Z"
 ---
 

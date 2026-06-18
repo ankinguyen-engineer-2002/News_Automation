@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-18"
 excerpt: "GitHub agent finder is now available. Instead of hand-wiring which MCP servers, skills, canvases, agents, and tools each agent should use—and filling your context window in the process—GitHub Copilot..."
 excerpt_vi: ""
-number: 730
+number: 735
 publishDate: "2026-06-18T00:00:00Z"
 ---
 

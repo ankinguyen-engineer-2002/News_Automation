@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-18"
 excerpt: "Workspace outbound access protection (OAP) is a workspace-level control in Microsoft Fabric that lets you constrain where the data inside a workspace can flow. With this preview, OAP support now..."
 excerpt_vi: ""
-number: 315
+number: 320
 publishDate: "2026-06-18T00:00:00Z"
 ---
 

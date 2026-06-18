@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-18"
 excerpt: "Analytics engineers are already doing context engineering. Here's how your dbt project becomes context for AI."
 excerpt_vi: ""
-number: 268
+number: 272
 publishDate: "2026-06-18T00:00:00Z"
 ---
 

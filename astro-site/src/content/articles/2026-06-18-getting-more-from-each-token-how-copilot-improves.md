@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-18"
 excerpt: "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing..."
 excerpt_vi: ""
-number: 732
+number: 739
 publishDate: "2026-06-18T00:00:00Z"
 ---
 
