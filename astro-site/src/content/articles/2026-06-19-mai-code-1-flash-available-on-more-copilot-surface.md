@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-19"
 excerpt: "MAI‑Code‑1‑Flash, Microsoft’s purpose‑built small coding model, is now available across additional GitHub Copilot surfaces. MAI‑Code‑1‑Flash can now be used in: Copilot CLI GitHub Copilot app Copilot..."
 excerpt_vi: ""
-number: 739
+number: 745
 publishDate: "2026-06-19T00:00:00Z"
 ---
 

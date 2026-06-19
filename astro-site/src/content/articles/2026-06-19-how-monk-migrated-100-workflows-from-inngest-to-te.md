@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-19"
 excerpt: "Monk migrated 100+ live workflows from Inngest to Temporal with one reversible PR at a time all while avoiding freezes and rewrites. Here's how."
 excerpt_vi: ""
-number: 279
+number: 282
 publishDate: "2026-06-19T00:00:00Z"
 ---
 

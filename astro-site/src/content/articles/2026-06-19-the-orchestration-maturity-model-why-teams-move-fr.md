@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-06-19"
 excerpt: "Most orchestration systems answer questions about jobs, but organizations need answers about data. This post introduces the Orchestration Maturity Model and explains why enterprises adopt Dagster to..."
 excerpt_vi: ""
-number: 218
+number: 219
 publishDate: "2026-06-19T00:00:00Z"
 ---
 
