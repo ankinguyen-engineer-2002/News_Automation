@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-20"
 excerpt: "Announcing general availability of org apps in Power BI and Fabric, including one of the most requested capabilities: audiences."
 excerpt_vi: ""
-number: 326
+number: 331
 publishDate: "2026-06-20T00:00:00Z"
 ---
 

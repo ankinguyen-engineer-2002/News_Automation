@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-20"
 excerpt: "Searching for pull requests using author: now shows pull requests opened by Copilot cloud agent on the user’s behalf. For example, searching with author:@me on github.com/pulls will return your own…..."
 excerpt_vi: ""
-number: 745
+number: 750
 publishDate: "2026-06-20T00:00:00Z"
 ---
 
