@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-21"
 excerpt: "AI agents can run your pipelines. But who decides what \"correct\" looks like? The transformation layer does, and that layer is dbt."
 excerpt_vi: ""
-number: 277
+number: 281
 publishDate: "2026-06-21T00:00:00Z"
 ---
 

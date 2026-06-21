@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-21"
 excerpt: "dbt migrations underdeliver when teams rebuild legacy patterns in a new tool. Here's how to start fresh instead."
 excerpt_vi: ""
-number: 279
+number: 283
 publishDate: "2026-06-21T00:00:00Z"
 ---
 

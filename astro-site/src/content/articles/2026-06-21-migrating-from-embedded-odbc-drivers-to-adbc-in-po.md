@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-21"
 excerpt: "If you use connectors like Databricks, Snowflake, or BigQuery in Power BI or Fabric, there’s an important change coming. Microsoft is moving from embedded ODBC drivers to ADBC, which affects how..."
 excerpt_vi: ""
-number: 328
+number: 333
 publishDate: "2026-06-21T00:00:00Z"
 ---
 

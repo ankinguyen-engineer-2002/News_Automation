@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-21"
 excerpt: "Workflow Streams brings durable interactivity to Temporal. You get stream agent reasoning, tool calls, and status updates to any UI."
 excerpt_vi: ""
-number: 283
+number: 286
 publishDate: "2026-06-21T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-21"
 excerpt: "Author: Katie Murray, Senior Program Manager - Power BI continues to evolve with updates that make it easier to explore data, generate insights, and build more polished reports. This month’s release..."
 excerpt_vi: ""
-number: 332
+number: 337
 publishDate: "2026-06-21T00:00:00Z"
 ---
 
