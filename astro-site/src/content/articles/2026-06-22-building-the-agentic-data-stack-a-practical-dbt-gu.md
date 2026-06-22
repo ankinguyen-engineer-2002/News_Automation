@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-22"
 excerpt: "AI builds data infrastructure fast. Here's how to make your dbt project ready to support agents without it falling over."
 excerpt_vi: ""
-number: 282
+number: 286
 publishDate: "2026-06-22T00:00:00Z"
 ---
 
