@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-23"
 excerpt: "Almog Baku, co-founder and CEO of Kelet AI built an AI that diagnoses failing AI agents in production. Here's how he did it and why it needed durable workflows."
 excerpt_vi: ""
-number: 290
+number: 292
 publishDate: "2026-06-23T00:00:00Z"
 ---
 
