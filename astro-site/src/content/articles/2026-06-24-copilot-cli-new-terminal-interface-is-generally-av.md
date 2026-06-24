@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-24"
 excerpt: "The redesigned terminal interface for GitHub Copilot CLI that we previewed at Microsoft Build 2026 is now generally available. You get a tabbed layout for working with GitHub directly from… The post..."
 excerpt_vi: ""
-number: 765
+number: 770
 publishDate: "2026-06-24T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-24"
 excerpt: "When enabling Microsoft Entra ID single sign-on (SSo) for Starburst (Preview) report viewers querying semantic models in DirectQuery mode authenticate to Starburst with their own Entra ID identity,..."
 excerpt_vi: ""
-number: 345
+number: 351
 publishDate: "2026-06-24T00:00:00Z"
 ---
 

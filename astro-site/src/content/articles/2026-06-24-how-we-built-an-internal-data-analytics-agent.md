@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-24"
 excerpt: "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an..."
 excerpt_vi: ""
-number: 763
+number: 767
 publishDate: "2026-06-24T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-24"
 excerpt: "The GitHub Copilot app now supports bring your own key (BYOK), so you can run agent sessions against your own model providers, including OpenAI, Azure OpenAI, Microsoft Foundry, Anthropic, LM… The..."
 excerpt_vi: ""
-number: 762
+number: 768
 publishDate: "2026-06-24T00:00:00Z"
 ---
 
