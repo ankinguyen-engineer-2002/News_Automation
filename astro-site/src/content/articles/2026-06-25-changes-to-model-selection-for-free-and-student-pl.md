@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-25"
 excerpt: "Copilot Free and Student plans will now use Copilot auto model selection as the default and only model selection experience. Auto dynamically selects the best model for each task, removing… The post..."
 excerpt_vi: ""
-number: 769
+number: 774
 publishDate: "2026-06-25T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-25"
 excerpt: "This update adds support for organization and enterprise agents from GitHub, lets you queue and steer messages in Copilot CLI sessions, introduces a new agent debug logs summary view, and… The post..."
 excerpt_vi: ""
-number: 766
+number: 771
 publishDate: "2026-06-25T00:00:00Z"
 ---
 

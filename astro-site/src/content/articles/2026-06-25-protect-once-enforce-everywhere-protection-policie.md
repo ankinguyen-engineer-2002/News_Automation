@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-25"
 excerpt: "How to use sensitivity labels and Protection Policies to secure your Power BI estate — and why it matters more than ever in the age of AI."
 excerpt_vi: ""
-number: 352
+number: 356
 publishDate: "2026-06-25T00:00:00Z"
 ---
 
