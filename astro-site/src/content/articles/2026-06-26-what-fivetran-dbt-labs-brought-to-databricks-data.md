@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-06-26"
 excerpt: "See what Fivetran + dbt Labs shared at Databricks Data + AI Summit: dbt Wizard, dbt State, and dbt Core v2.0, plus what's next."
 excerpt_vi: ""
-number: 291
+number: 292
 publishDate: "2026-06-26T00:00:00Z"
 ---
 

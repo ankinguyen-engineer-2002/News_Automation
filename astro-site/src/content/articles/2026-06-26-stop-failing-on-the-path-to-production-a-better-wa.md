@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-26"
 excerpt: "Agentic platforms fail when teams ignore the path to production. Learn how Temporal helps teams build durable, visible, secure agents."
 excerpt_vi: ""
-number: 295
+number: 300
 publishDate: "2026-06-26T00:00:00Z"
 ---
 

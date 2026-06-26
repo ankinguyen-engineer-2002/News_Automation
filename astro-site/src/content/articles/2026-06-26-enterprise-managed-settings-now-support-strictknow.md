@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-26"
 excerpt: "Enterprises can now control which plugins their users can install in GitHub Copilot CLI and VS Code. This setting is now available in public preview. Add strictKnownMarketplaces to your..."
 excerpt_vi: ""
-number: 773
+number: 780
 publishDate: "2026-06-26T00:00:00Z"
 ---
 
