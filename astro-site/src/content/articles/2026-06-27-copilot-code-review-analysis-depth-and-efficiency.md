@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-27"
 excerpt: "Copilot code review now uses the built-in file exploration tools available in the Copilot CLI and SDK, significantly improving review cost efficiency with no change to your existing workflow. If… The..."
 excerpt_vi: ""
-number: 781
+number: 786
 publishDate: "2026-06-27T00:00:00Z"
 ---
 

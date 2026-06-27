@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-27"
 excerpt: "Building on the AI adoption phase cohorts added to the Copilot usage metrics API, organization and enterprise reports now report the total number of pull requests merged by each adoption… The post..."
 excerpt_vi: ""
-number: 777
+number: 783
 publishDate: "2026-06-27T00:00:00Z"
 ---
 

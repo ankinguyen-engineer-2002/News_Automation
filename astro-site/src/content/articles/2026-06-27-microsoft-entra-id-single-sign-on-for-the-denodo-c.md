@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-27"
 excerpt: "When you configure a Denodo data connection for Entra ID SSO, users querying a semantic model in DirectQuery mode are authenticated to Denodo with their own Microsoft Entra ID identity."
 excerpt_vi: ""
-number: 357
+number: 360
 publishDate: "2026-06-27T00:00:00Z"
 ---
 

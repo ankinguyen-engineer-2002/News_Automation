@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-27"
 excerpt: "See how Temporal used Workflows and Activities to run Replay registration, from payments and coupons to long-lived ticket state and check-in."
 excerpt_vi: ""
-number: 304
+number: 309
 publishDate: "2026-06-27T00:00:00Z"
 ---
 

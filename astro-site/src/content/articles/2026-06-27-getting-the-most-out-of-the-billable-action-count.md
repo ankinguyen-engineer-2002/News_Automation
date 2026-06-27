@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-27"
 excerpt: "Use temporal_cloud_v1_billable_action_count to analyze Temporal Cloud costs, debug Workflow behavior, forecast usage, and build better alerts."
 excerpt_vi: ""
-number: 301
+number: 306
 publishDate: "2026-06-27T00:00:00Z"
 ---
 

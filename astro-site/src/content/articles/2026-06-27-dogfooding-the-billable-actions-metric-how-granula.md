@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-27"
 excerpt: "See how Temporal uses the Billable Actions metric internally to validate metering, troubleshoot discrepancies, and improve cost observability."
 excerpt_vi: ""
-number: 303
+number: 308
 publishDate: "2026-06-27T00:00:00Z"
 ---
 
