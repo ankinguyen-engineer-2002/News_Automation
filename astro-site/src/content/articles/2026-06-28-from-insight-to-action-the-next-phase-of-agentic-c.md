@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-06-28"
 excerpt: "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The post From insight to action: The next phase..."
 excerpt_vi: ""
-number: 362
+number: 365
 publishDate: "2026-06-28T00:00:00Z"
 ---
 

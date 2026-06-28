@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-28"
 excerpt: "GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post..."
 excerpt_vi: ""
-number: 785
+number: 790
 publishDate: "2026-06-28T00:00:00Z"
 ---
 

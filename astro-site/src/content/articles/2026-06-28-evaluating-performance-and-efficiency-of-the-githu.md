@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-28"
 excerpt: "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The..."
 excerpt_vi: ""
-number: 782
+number: 787
 publishDate: "2026-06-28T00:00:00Z"
 ---
 
