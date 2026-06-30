@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-06-30"
 excerpt: "MAI-Code-1-Flash, Microsoft AI’s in-house coding model, is now generally available for GitHub Copilot Business and Copilot Enterprise, building on its recent expansion across Copilot surfaces...."
 excerpt_vi: ""
-number: 796
+number: 801
 publishDate: "2026-06-30T00:00:00Z"
 ---
 

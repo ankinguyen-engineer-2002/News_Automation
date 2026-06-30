@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-06-30"
 excerpt: "Learn how the Temporal Cloud Billing API and Billable Action Count metric give teams clearer cost attribution, usage trends, and optimization signals."
 excerpt_vi: ""
-number: 316
+number: 320
 publishDate: "2026-06-30T00:00:00Z"
 ---
 
