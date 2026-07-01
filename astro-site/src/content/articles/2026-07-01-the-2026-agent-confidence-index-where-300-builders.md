@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-01"
 excerpt: "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment..."
 excerpt_vi: ""
-number: 374
+number: 377
 publishDate: "2026-07-01T00:00:00Z"
 ---
 

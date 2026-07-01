@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-01"
 excerpt: "Today, JetBrains and GitHub are announcing a deeper integration between JetBrains AI Assistant and GitHub Copilot. Millions of developers already rely on the GitHub Copilot plugin as their AI pair…..."
 excerpt_vi: ""
-number: 798
+number: 803
 publishDate: "2026-07-01T00:00:00Z"
 ---
 

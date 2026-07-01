@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-01"
 excerpt: "You can now use branch rulesets to block pull requests from merging when test coverage drops below thresholds you set. You can set a minimum coverage percentage, a maximum allowed… The post GitHub..."
 excerpt_vi: ""
-number: 801
+number: 806
 publishDate: "2026-07-01T00:00:00Z"
 ---
 

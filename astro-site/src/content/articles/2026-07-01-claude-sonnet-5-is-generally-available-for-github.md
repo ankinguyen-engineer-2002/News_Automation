@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-01"
 excerpt: "Claude Sonnet 5 is Anthropic’s latest Sonnet-class model, now available in GitHub Copilot. It brings strong coding performance to everyday development and agentic workflows, giving developers a new..."
 excerpt_vi: ""
-number: 797
+number: 802
 publishDate: "2026-07-01T00:00:00Z"
 ---
 
