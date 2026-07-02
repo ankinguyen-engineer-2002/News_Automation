@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-02"
 excerpt: "Timers and timeouts look similar in Temporal but solve different problems. Learn how each one works and how to choose the right tool for durable waiting."
 excerpt_vi: ""
-number: 325
+number: 327
 publishDate: "2026-07-02T00:00:00Z"
 ---
 

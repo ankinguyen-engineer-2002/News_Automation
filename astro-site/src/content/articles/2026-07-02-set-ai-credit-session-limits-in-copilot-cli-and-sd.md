@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-02"
 excerpt: "You can now set AI credit session limits in Copilot CLI and the GitHub Copilot SDK to cap the amount an agent spends in a session. This is especially useful… The post Set AI credit session limits in..."
 excerpt_vi: ""
-number: 802
+number: 807
 publishDate: "2026-07-02T00:00:00Z"
 ---
 

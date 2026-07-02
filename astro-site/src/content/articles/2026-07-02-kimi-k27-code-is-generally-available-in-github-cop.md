@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-02"
 excerpt: "Kimi K2.7 Code, an open-weight model, is now generally available in GitHub Copilot. This is the first open-weight model offered as a selectable option in the Copilot model picker, giving… The post..."
 excerpt_vi: ""
-number: 805
+number: 811
 publishDate: "2026-07-02T00:00:00Z"
 ---
 
