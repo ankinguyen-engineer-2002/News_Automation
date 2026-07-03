@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-03"
 excerpt: "We will deprecate Gemini 2.5 Pro and Gemini 3 Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on July 31st,… The post..."
 excerpt_vi: ""
-number: 808
+number: 813
 publishDate: "2026-07-03T00:00:00Z"
 ---
 

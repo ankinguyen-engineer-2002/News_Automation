@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-03"
 excerpt: "You can now run GitHub Copilot CLI in GitHub Actions using the built-in GITHUB_TOKEN. This means that you no longer need to create and store a personal access token (PAT),… The post Copilot CLI no..."
 excerpt_vi: ""
-number: 810
+number: 815
 publishDate: "2026-07-03T00:00:00Z"
 ---
 

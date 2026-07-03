@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-03"
 excerpt: "Highlights from June include new AI capabilities, major releases, community-built projects, and practical guidance from teams running Temporal at scale."
 excerpt_vi: ""
-number: 326
+number: 328
 publishDate: "2026-07-03T00:00:00Z"
 ---
 

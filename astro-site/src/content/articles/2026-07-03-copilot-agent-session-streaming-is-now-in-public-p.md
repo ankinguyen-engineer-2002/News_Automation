@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-03"
 excerpt: "GitHub Enterprise Cloud customers with enterprise managed users can now access GitHub Copilot agent session data across all Copilot clients, including: Cloud agents operating on github.com and data..."
 excerpt_vi: ""
-number: 811
+number: 816
 publishDate: "2026-07-03T00:00:00Z"
 ---
 
