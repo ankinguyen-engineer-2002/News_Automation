@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-04"
 excerpt: "Power BI Desktop Bridge (Preview) Power BI Desktop Bridge introduces a new way of working, allowing external applications and agents to interact directly with Power BI Desktop! What is Power BI..."
 excerpt_vi: ""
-number: 384
+number: 389
 publishDate: "2026-07-04T00:00:00Z"
 ---
 
