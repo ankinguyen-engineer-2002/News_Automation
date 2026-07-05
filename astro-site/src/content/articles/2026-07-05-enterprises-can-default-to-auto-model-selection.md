@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-05"
 excerpt: "Enterprise administrators can now set model to auto in the enterprise managed-settings.json to make Copilot auto model selection the default for new conversations. Add auto to..."
 excerpt_vi: ""
-number: 822
+number: 827
 publishDate: "2026-07-05T00:00:00Z"
 ---
 

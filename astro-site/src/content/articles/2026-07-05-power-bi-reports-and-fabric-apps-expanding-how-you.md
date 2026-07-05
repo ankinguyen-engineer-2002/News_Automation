@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-05"
 excerpt: "Power BI reports continue to help analysts build secure, governed BI experiences on semantic models, while Fabric Apps expands what developers can create from the same trusted data."
 excerpt_vi: ""
-number: 387
+number: 392
 publishDate: "2026-07-05T00:00:00Z"
 ---
 
