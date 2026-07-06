@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-06"
 excerpt: "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post..."
 excerpt_vi: ""
-number: 395
+number: 400
 publishDate: "2026-07-06T00:00:00Z"
 ---
 

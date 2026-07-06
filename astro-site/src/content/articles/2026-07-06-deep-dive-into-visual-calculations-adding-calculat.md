@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-06"
 excerpt: "Visual calculations (Generally Available) in Power BI, making it easier to add DAX calculations directly to the visual where they’re used."
 excerpt_vi: ""
-number: 393
+number: 398
 publishDate: "2026-07-06T00:00:00Z"
 ---
 
