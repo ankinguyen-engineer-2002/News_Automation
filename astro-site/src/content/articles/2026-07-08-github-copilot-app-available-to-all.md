@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-08"
 excerpt: "The GitHub Copilot app is now available on every Copilot plan. Sign in with your GitHub account to start agent-driven development from your desktop. Available on macOS, Windows, and Linux… The post..."
 excerpt_vi: ""
-number: 835
+number: 840
 publishDate: "2026-07-08T00:00:00Z"
 ---
 

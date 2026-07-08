@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-08"
 excerpt: "We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post..."
 excerpt_vi: ""
-number: 837
+number: 842
 publishDate: "2026-07-08T00:00:00Z"
 ---
 

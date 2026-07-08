@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-07-08"
 excerpt: "Managed agents feature bundle launch"
 excerpt_vi: ""
-number: 417
+number: 419
 publishDate: "2026-07-08T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-08"
 excerpt: "Sherlocks AI on how Temporal Cloud runs durable AI agent investigations, infra scans, Knowledge Graph updates, and event ingestion for SRE teams."
 excerpt_vi: ""
-number: 334
+number: 335
 publishDate: "2026-07-08T00:00:00Z"
 ---
 
