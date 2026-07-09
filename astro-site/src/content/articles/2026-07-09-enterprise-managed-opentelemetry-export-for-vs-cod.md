@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-09"
 excerpt: "Organizations can now mandate where GitHub Copilot sends OpenTelemetry (OTel) data, so telemetry flows to an approved collector without each developer setting OTEL_* environment variables. The..."
 excerpt_vi: ""
-number: 841
+number: 847
 publishDate: "2026-07-09T00:00:00Z"
 ---
 

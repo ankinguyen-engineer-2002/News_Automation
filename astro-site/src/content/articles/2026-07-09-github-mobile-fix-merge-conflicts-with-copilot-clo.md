@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-09"
 excerpt: "GitHub Mobile now supports fixing pull request merge conflicts with Copilot cloud agent, making it easier to unblock pull requests while you’re on the go. When a pull request has… The post GitHub..."
 excerpt_vi: ""
-number: 838
+number: 843
 publishDate: "2026-07-09T00:00:00Z"
 ---
 

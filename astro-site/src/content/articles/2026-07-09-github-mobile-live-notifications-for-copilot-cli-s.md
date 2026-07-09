@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-09"
 excerpt: "Live coding agent notifications on GitHub Mobile now support remote Copilot CLI sessions, making it easier to stay connected to agent work that starts outside of GitHub Mobile. When a… The post..."
 excerpt_vi: ""
-number: 839
+number: 844
 publishDate: "2026-07-09T00:00:00Z"
 ---
 
