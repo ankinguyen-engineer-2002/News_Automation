@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-10"
 excerpt: "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6..."
 excerpt_vi: ""
-number: 844
+number: 850
 publishDate: "2026-07-10T00:00:00Z"
 ---
 
