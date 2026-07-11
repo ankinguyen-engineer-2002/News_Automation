@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-07-11"
 excerpt: "Budgets aren't growing, but the work is. See how dbt customers recouped 58.7 FTEs in capacity, worth $1.75M a year."
 excerpt_vi: ""
-number: 302
+number: 304
 publishDate: "2026-07-11T00:00:00Z"
 ---
 
