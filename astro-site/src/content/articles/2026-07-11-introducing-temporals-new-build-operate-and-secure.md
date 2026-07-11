@@ -1,0 +1,14 @@
+---
+title: "Introducing Temporal's new Build, Operate, and Secure org, led by Preeti Somal"
+title_vi: ""
+source: "Temporal Blog"
+url: "https://temporal.io/blog/introducing-temporals-build-operate-secure-org-preeti-somal"
+topic: "automation"
+date: "2026-07-11"
+excerpt: "Temporal announces a new Build, Operate, and, Secure org led by EVP Preeti Somal, uniting Engineering, Product, and Design under one charter."
+excerpt_vi: ""
+number: 342
+publishDate: "2026-07-11T00:00:00Z"
+---
+
+Temporal announces a new Build, Operate, and, Secure org led by EVP Preeti Somal, uniting Engineering, Product, and Design under one charter.
