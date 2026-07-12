@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-12"
 excerpt: "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub..."
 excerpt_vi: ""
-number: 858
+number: 863
 publishDate: "2026-07-12T00:00:00Z"
 ---
 

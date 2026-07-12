@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-12"
 excerpt: "How teams run Temporal workers as an Encore service to get durable workflows, typed APIs, and infrastructure provisioned from the same code."
 excerpt_vi: ""
-number: 347
+number: 351
 publishDate: "2026-07-12T00:00:00Z"
 ---
 
