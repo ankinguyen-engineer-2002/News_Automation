@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-14"
 excerpt: "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production..."
 excerpt_vi: ""
-number: 404
+number: 405
 publishDate: "2026-07-14T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-14"
 excerpt: "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with..."
 excerpt_vi: ""
-number: 867
+number: 872
 publishDate: "2026-07-14T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-07-14"
 excerpt: "Integral Ad Science used MCP to connect AI agents to dbt and Databricks, turning hours of dashboard debugging into minutes."
 excerpt_vi: ""
-number: 307
+number: 309
 publishDate: "2026-07-14T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-14"
 excerpt: "Rapidflare explains how it uses Temporal to run durable, observable document ingestion pipelines for technical sales Agents at million-document scale."
 excerpt_vi: ""
-number: 352
+number: 355
 publishDate: "2026-07-14T00:00:00Z"
 ---
 

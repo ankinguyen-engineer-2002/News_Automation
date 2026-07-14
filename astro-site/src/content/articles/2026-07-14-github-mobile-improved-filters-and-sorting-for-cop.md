@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-14"
 excerpt: "GitHub Mobile now includes improved filters and sorting for Copilot sessions, making it easier to find the right session as your session list grows. You can now narrow your session… The post GitHub..."
 excerpt_vi: ""
-number: 869
+number: 874
 publishDate: "2026-07-14T00:00:00Z"
 ---
 
