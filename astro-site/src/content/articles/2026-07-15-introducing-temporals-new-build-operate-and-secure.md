@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-15"
 excerpt: "Temporal announces a new Build, Operate, and, Secure org led by EVP Preeti Somal, uniting Engineering, Product, and Design under one charter."
 excerpt_vi: ""
-number: 356
+number: 359
 publishDate: "2026-07-15T00:00:00Z"
 ---
 
