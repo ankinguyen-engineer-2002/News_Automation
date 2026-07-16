@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-16"
 excerpt: "GitHub code scanning now surfaces AI-powered security detections directly on pull requests, expanding vulnerability coverage to languages and frameworks not currently supported by CodeQL. These..."
 excerpt_vi: ""
-number: 878
+number: 883
 publishDate: "2026-07-16T00:00:00Z"
 ---
 
