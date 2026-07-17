@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-17"
 excerpt: "This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved..."
 excerpt_vi: ""
-number: 882
+number: 887
 publishDate: "2026-07-17T00:00:00Z"
 ---
 

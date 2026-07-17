@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-17"
 excerpt: "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code..."
 excerpt_vi: ""
-number: 880
+number: 885
 publishDate: "2026-07-17T00:00:00Z"
 ---
 

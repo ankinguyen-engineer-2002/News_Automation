@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-17"
 excerpt: "You can now run a security review on your in-flight code changes directly from the GitHub Copilot app. The /security-review slash command is shipping in public preview, bringing the same… The post..."
 excerpt_vi: ""
-number: 884
+number: 889
 publishDate: "2026-07-17T00:00:00Z"
 ---
 
