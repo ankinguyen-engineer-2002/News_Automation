@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-18"
 excerpt: "The Copilot usage metrics API now reports the GitHub Copilot app usage in the enterprise and organization 1-day and 28-day reports. This gives enterprise and organization admins visibility into the…..."
 excerpt_vi: ""
-number: 887
+number: 893
 publishDate: "2026-07-18T00:00:00Z"
 ---
 
