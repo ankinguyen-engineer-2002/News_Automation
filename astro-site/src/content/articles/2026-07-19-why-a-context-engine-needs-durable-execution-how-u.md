@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-19"
 excerpt: "See how Unblocked replaced bespoke ingestion orchestration with Temporal to run 1 million durable, observable AI context Workflows every day."
 excerpt_vi: ""
-number: 368
+number: 371
 publishDate: "2026-07-19T00:00:00Z"
 ---
 

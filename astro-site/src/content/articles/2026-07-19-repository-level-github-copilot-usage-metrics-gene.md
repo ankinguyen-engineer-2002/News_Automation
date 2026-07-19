@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-19"
 excerpt: "The Copilot usage metrics REST API now reports repository-level activity. Two new endpoints return a daily, per-repository breakdown of pull request activity for Copilot coding agent and Copilot code..."
 excerpt_vi: ""
-number: 890
+number: 895
 publishDate: "2026-07-19T00:00:00Z"
 ---
 
