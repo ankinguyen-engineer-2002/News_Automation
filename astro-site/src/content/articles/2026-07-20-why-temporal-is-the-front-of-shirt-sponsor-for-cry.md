@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-20"
 excerpt: "Temporal and Crystal Palace are teaming up, uniting fan and developer communities built on a loyalty that's earned, not manufactured."
 excerpt_vi: ""
-number: 370
+number: 373
 publishDate: "2026-07-20T00:00:00Z"
 ---
 

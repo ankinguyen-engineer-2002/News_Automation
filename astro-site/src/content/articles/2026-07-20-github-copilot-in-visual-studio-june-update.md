@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-20"
 excerpt: "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual..."
 excerpt_vi: ""
-number: 897
+number: 902
 publishDate: "2026-07-20T00:00:00Z"
 ---
 
