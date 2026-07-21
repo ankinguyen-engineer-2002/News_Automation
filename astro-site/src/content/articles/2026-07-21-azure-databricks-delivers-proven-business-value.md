@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-07-21"
 excerpt: "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your..."
 excerpt_vi: ""
-number: 411
+number: 412
 publishDate: "2026-07-21T00:00:00Z"
 ---
 
