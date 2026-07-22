@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-22"
 excerpt: "LangGraph agents now run on Temporal: automatic crash recovery, free human-in-the-loop waits, and full observability via new LangSmith integration."
 excerpt_vi: ""
-number: 374
+number: 377
 publishDate: "2026-07-22T00:00:00Z"
 ---
 

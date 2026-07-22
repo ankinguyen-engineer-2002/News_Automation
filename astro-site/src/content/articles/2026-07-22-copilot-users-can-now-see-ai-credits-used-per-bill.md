@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-22"
 excerpt: "Copilot Business and Copilot Enterprise users can now see how many AI credits they’ve used this billing cycle, even without an individual budget. Find this on your GitHub Copilot usage… The post..."
 excerpt_vi: ""
-number: 907
+number: 912
 publishDate: "2026-07-22T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-07-22"
 excerpt: "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
 excerpt_vi: ""
-number: 455
+number: 457
 publishDate: "2026-07-22T00:00:00Z"
 ---
 
