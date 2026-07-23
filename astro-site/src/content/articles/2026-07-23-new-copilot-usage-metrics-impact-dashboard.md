@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-23"
 excerpt: "We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is…..."
 excerpt_vi: ""
-number: 913
+number: 918
 publishDate: "2026-07-23T00:00:00Z"
 ---
 
