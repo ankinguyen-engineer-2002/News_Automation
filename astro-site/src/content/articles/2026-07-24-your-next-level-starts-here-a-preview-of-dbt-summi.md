@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-07-24"
 excerpt: "Preview dbt Summit 2026 sessions by role: hands-on labs and breakouts for analytics engineers, data leaders, and execs."
 excerpt_vi: ""
-number: 316
+number: 318
 publishDate: "2026-07-24T00:00:00Z"
 ---
 
