@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-25"
 excerpt: "How to justify Temporal for a regulated data pipeline: the requirements, the naive approach, and why Durable Execution wins on resilience and auditability."
 excerpt_vi: ""
-number: 381
+number: 383
 publishDate: "2026-07-25T00:00:00Z"
 ---
 

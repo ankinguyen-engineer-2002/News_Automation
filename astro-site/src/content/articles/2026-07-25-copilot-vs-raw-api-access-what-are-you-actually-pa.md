@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-25"
 excerpt: "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually..."
 excerpt_vi: ""
-number: 923
+number: 928
 publishDate: "2026-07-25T00:00:00Z"
 ---
 
