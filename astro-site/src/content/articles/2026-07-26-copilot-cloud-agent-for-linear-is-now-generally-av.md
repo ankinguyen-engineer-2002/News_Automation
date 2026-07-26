@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-26"
 excerpt: "You can now assign issues in Linear to Copilot cloud agent, our asynchronous, autonomous background agent. When you assign a Linear issue to Copilot, it will: Analyze the issue contents… The post..."
 excerpt_vi: ""
-number: 927
+number: 932
 publishDate: "2026-07-26T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-26"
 excerpt: "Now when a GitHub Actions check fails on your pull request, you can ask Copilot coding agent to investigate and directly fix the problem from GitHub Mobile. From the failed… The post GitHub Mobile:..."
 excerpt_vi: ""
-number: 924
+number: 929
 publishDate: "2026-07-26T00:00:00Z"
 ---
 

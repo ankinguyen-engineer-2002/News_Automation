@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-26"
 excerpt: "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and..."
 excerpt_vi: ""
-number: 926
+number: 931
 publishDate: "2026-07-26T00:00:00Z"
 ---
 
