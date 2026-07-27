@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-27"
 excerpt: "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair."
 excerpt_vi: ""
-number: 386
+number: 388
 publishDate: "2026-07-27T00:00:00Z"
 ---
 
