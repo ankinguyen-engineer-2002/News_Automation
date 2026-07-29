@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-29"
 excerpt: "Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public..."
 excerpt_vi: ""
-number: 942
+number: 948
 publishDate: "2026-07-29T00:00:00Z"
 ---
 

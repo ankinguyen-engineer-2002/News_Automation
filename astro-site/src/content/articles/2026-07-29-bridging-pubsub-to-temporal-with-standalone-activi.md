@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-07-29"
 excerpt: "How a Temporal Standalone Activity bridges Pub/Sub to Durable Execution, keeping your event handler thin."
 excerpt_vi: ""
-number: 388
+number: 390
 publishDate: "2026-07-29T00:00:00Z"
 ---
 

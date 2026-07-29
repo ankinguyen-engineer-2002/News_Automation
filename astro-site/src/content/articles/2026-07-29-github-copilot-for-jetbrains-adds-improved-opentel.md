@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-29"
 excerpt: "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post..."
 excerpt_vi: ""
-number: 940
+number: 945
 publishDate: "2026-07-29T00:00:00Z"
 ---
 

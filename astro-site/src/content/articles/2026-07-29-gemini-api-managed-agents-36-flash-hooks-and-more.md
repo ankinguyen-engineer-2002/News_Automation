@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-07-29"
 excerpt: "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
 excerpt_vi: ""
-number: 458
+number: 460
 publishDate: "2026-07-29T00:00:00Z"
 ---
 
