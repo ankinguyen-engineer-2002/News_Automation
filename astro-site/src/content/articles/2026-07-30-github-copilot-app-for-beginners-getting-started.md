@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-30"
 excerpt: "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started..."
 excerpt_vi: ""
-number: 948
+number: 953
 publishDate: "2026-07-30T00:00:00Z"
 ---
 
