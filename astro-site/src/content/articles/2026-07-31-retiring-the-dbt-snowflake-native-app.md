@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-07-31"
 excerpt: "The dbt Snowflake Native App retires in November 2026. Here's what it means for you."
 excerpt_vi: ""
-number: 330
+number: 331
 publishDate: "2026-07-31T00:00:00Z"
 ---
 

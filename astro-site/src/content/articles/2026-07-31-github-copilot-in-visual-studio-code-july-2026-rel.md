@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-07-31"
 excerpt: "This changelog covers VS Code v1.127 through v1.131, shipped throughout July 2026. These releases improve how you work with agents, review changes, use chat, and navigate VS Code. They also… The post..."
 excerpt_vi: ""
-number: 953
+number: 959
 publishDate: "2026-07-31T00:00:00Z"
 ---
 
