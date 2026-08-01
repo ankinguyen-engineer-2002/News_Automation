@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-01"
 excerpt: "Temporal now supports Serverless Workers on Google Cloud Run, autoscaling Worker Pools for you so you never manage infrastructure or pay for idle compute."
 excerpt_vi: ""
-number: 393
+number: 395
 publishDate: "2026-08-01T00:00:00Z"
 ---
 
