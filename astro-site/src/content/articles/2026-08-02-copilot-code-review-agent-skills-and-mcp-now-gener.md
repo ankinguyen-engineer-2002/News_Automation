@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-02"
 excerpt: "Copilot code review support for agent skills and MCP servers is now generally available for all Copilot Pro, Pro+, Business, and Enterprise users. Previously announced in public preview, these..."
 excerpt_vi: ""
-number: 963
+number: 968
 publishDate: "2026-08-02T00:00:00Z"
 ---
 
