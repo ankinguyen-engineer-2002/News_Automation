@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-05"
 excerpt: "When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the… The post Customize the reasoning level..."
 excerpt_vi: ""
-number: 979
+number: 982
 publishDate: "2026-08-05T00:00:00Z"
 ---
 

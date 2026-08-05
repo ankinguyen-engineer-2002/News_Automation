@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-05"
 excerpt: "We’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings. The app helped… The post..."
 excerpt_vi: ""
-number: 977
+number: 984
 publishDate: "2026-08-05T00:00:00Z"
 ---
 
