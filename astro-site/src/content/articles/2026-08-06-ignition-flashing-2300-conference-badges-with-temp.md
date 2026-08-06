@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-06"
 excerpt: "How Temporal powered Ignition, the workflow system that flashed 2,300 conference badges in two days using durable execution and retries."
 excerpt_vi: ""
-number: 407
+number: 411
 publishDate: "2026-08-06T00:00:00Z"
 ---
 

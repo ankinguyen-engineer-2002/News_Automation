@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-06"
 excerpt: "You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post..."
 excerpt_vi: ""
-number: 983
+number: 988
 publishDate: "2026-08-06T00:00:00Z"
 ---
 

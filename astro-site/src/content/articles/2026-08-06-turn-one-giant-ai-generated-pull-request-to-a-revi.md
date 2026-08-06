@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-06"
 excerpt: "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request..."
 excerpt_vi: ""
-number: 985
+number: 990
 publishDate: "2026-08-06T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-06"
 excerpt: "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first..."
 excerpt_vi: ""
-number: 986
+number: 991
 publishDate: "2026-08-06T00:00:00Z"
 ---
 
