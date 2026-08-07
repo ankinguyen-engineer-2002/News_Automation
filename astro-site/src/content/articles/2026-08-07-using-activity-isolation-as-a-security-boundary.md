@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-07"
 excerpt: "How keeping PII scan, classification, and storage inside one Temporal Activity stops raw data from ever crossing a boundary."
 excerpt_vi: ""
-number: 409
+number: 414
 publishDate: "2026-08-07T00:00:00Z"
 ---
 

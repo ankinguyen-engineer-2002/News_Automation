@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-07"
 excerpt: "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub..."
 excerpt_vi: ""
-number: 991
+number: 996
 publishDate: "2026-08-07T00:00:00Z"
 ---
 

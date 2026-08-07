@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-07"
 excerpt: "HeyGen replaced a brittle job-queue system with Temporal, coordinating millions of daily workflow runs across a multi-cloud GPU fleet."
 excerpt_vi: ""
-number: 410
+number: 415
 publishDate: "2026-08-07T00:00:00Z"
 ---
 

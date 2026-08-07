@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-07"
 excerpt: "Running a multi-agent delivery fleet on Google ADK and LangGraph, and what it takes to make the human in the loop durable."
 excerpt_vi: ""
-number: 412
+number: 417
 publishDate: "2026-08-07T00:00:00Z"
 ---
 
