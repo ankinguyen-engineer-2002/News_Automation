@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-08"
 excerpt: "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two… The post Copilot..."
 excerpt_vi: ""
-number: 994
+number: 1000
 publishDate: "2026-08-08T00:00:00Z"
 ---
 

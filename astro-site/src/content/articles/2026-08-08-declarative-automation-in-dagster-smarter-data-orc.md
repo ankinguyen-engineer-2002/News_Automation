@@ -7,7 +7,7 @@ topic: "analytics-engineering"
 date: "2026-08-08"
 excerpt: "Learn how Dagster's Declarative Automation simplifies data orchestration by defining desired asset state instead of managing schedules, sensors, and custom triggers."
 excerpt_vi: ""
-number: 250
+number: 251
 publishDate: "2026-08-08T00:00:00Z"
 ---
 

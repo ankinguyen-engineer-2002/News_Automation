@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-08"
 excerpt: "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a… The post Copilot code review..."
 excerpt_vi: ""
-number: 995
+number: 1001
 publishDate: "2026-08-08T00:00:00Z"
 ---
 

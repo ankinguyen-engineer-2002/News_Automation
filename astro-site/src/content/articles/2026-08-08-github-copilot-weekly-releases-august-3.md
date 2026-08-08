@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-08"
 excerpt: "This week’s updates across GitHub Copilot in the desktop app, CLI, and VS Code help you resume and organize work, review changes, and ask questions without losing context. GitHub Copilot… The post..."
 excerpt_vi: ""
-number: 993
+number: 998
 publishDate: "2026-08-08T00:00:00Z"
 ---
 
