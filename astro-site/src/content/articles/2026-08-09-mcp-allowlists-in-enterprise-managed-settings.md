@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-09"
 excerpt: "Enterprise owners can now centrally control which Model Context Protocol (MCP) servers GitHub Copilot clients are allowed to run by using the new allowedMcpServers and deniedMcpServers keys in..."
 excerpt_vi: ""
-number: 999
+number: 1004
 publishDate: "2026-08-09T00:00:00Z"
 ---
 

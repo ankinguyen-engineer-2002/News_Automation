@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-09"
 excerpt: "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now… The post Copilot..."
 excerpt_vi: ""
-number: 998
+number: 1003
 publishDate: "2026-08-09T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-09"
 excerpt: "How to durably reach a firewalled edge site with no inbound ports: an egress-only proxy that hot-reloads config over a single outbound Temporal connection."
 excerpt_vi: ""
-number: 421
+number: 426
 publishDate: "2026-08-09T00:00:00Z"
 ---
 
