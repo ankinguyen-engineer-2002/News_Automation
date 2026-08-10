@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-10"
 excerpt: "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub..."
 excerpt_vi: ""
-number: 1005
+number: 1010
 publishDate: "2026-08-10T00:00:00Z"
 ---
 

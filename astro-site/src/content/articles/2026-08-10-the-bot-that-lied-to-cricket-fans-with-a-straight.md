@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-10"
 excerpt: "How a WhatsApp bot for San Francisco Unicorns cricket fans lied about a live score at 3 AM, and what durable execution with Temporal taught us about trust."
 excerpt_vi: ""
-number: 428
+number: 433
 publishDate: "2026-08-10T00:00:00Z"
 ---
 
