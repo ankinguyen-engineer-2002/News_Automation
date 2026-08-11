@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-11"
 excerpt: "First in a series on the shift from modeling data for dashboards to modeling context for agents. We start with our own Gong data."
 excerpt_vi: ""
-number: 336
+number: 338
 publishDate: "2026-08-11T00:00:00Z"
 ---
 

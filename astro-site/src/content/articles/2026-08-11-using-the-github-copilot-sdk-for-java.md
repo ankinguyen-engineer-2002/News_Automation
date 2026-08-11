@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-11"
 excerpt: "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared..."
 excerpt_vi: ""
-number: 1009
+number: 1014
 publishDate: "2026-08-11T00:00:00Z"
 ---
 

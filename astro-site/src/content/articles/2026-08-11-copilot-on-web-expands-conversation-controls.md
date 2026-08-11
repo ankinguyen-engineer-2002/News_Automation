@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-11"
 excerpt: "We’ve made improvements to Copilot Chat on github.com that make it easier to use. These include easier access to your recent conversations in chat, the ability to minimize the chat… The post Copilot..."
 excerpt_vi: ""
-number: 1010
+number: 1015
 publishDate: "2026-08-11T00:00:00Z"
 ---
 
