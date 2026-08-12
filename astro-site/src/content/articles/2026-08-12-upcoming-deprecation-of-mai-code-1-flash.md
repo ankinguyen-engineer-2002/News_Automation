@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-12"
 excerpt: "With the launch of MAI-Code-1.1-Flash, we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026: Model Deprecation date Suggested alternative MAI-Code-1-Flash..."
 excerpt_vi: ""
-number: 1015
+number: 1020
 publishDate: "2026-08-12T00:00:00Z"
 ---
 

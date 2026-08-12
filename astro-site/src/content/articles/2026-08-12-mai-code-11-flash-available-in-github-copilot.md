@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-12"
 excerpt: "MAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers..."
 excerpt_vi: ""
-number: 1017
+number: 1022
 publishDate: "2026-08-12T00:00:00Z"
 ---
 

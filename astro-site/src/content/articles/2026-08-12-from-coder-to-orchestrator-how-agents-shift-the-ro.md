@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-12"
 excerpt: "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From..."
 excerpt_vi: ""
-number: 1016
+number: 1021
 publishDate: "2026-08-12T00:00:00Z"
 ---
 
