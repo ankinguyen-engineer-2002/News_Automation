@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-13"
 excerpt: "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are..."
 excerpt_vi: ""
-number: 1020
+number: 1026
 publishDate: "2026-08-13T00:00:00Z"
 ---
 

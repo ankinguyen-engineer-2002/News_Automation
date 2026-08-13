@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-13"
 excerpt: "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic..."
 excerpt_vi: ""
-number: 419
+number: 420
 publishDate: "2026-08-13T00:00:00Z"
 ---
 
