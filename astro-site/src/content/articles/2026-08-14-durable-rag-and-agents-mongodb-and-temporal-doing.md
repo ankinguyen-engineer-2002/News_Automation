@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-14"
 excerpt: "Why MongoDB Atlas and Temporal are better together for AI: one data platform, one durable execution layer, for RAG and agents in prod."
 excerpt_vi: ""
-number: 438
+number: 442
 publishDate: "2026-08-14T00:00:00Z"
 ---
 
