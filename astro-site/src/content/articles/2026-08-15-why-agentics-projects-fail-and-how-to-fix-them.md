@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-15"
 excerpt: "Why do some AI deployments yield great successes while so many still crash and burn? The answer is in the data."
 excerpt_vi: ""
-number: 342
+number: 345
 publishDate: "2026-08-15T00:00:00Z"
 ---
 
