@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-16"
 excerpt: "The dbt Summit 2026 keynotes and the product sessions behind them."
 excerpt_vi: ""
-number: 347
+number: 350
 publishDate: "2026-08-16T00:00:00Z"
 ---
 

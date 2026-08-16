@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-16"
 excerpt: "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across..."
 excerpt_vi: ""
-number: 1038
+number: 1043
 publishDate: "2026-08-16T00:00:00Z"
 ---
 
