@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-17"
 excerpt: "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by..."
 excerpt_vi: ""
-number: 423
+number: 425
 publishDate: "2026-08-17T00:00:00Z"
 ---
 

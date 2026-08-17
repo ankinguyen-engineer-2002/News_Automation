@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-17"
 excerpt: "Learn how to build a durable, PII-conscious data pipeline with Temporal using on-prem embeddings, idempotent Activities, external vector storage, and retries."
 excerpt_vi: ""
-number: 451
+number: 455
 publishDate: "2026-08-17T00:00:00Z"
 ---
 

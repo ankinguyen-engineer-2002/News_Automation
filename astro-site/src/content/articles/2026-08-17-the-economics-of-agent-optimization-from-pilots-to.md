@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-17"
 excerpt: "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From..."
 excerpt_vi: ""
-number: 424
+number: 426
 publishDate: "2026-08-17T00:00:00Z"
 ---
 

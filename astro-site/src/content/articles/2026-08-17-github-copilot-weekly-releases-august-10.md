@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-17"
 excerpt: "From new models and portable plugins to smoother agent workflows, this week’s updates make GitHub Copilot more flexible across editors, the command line, and the Copilot app. GitHub Copilot, general…..."
 excerpt_vi: ""
-number: 1041
+number: 1046
 publishDate: "2026-08-17T00:00:00Z"
 ---
 

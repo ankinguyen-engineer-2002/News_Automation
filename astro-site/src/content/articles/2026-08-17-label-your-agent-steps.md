@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-17"
 excerpt: "Learn how to label Activities, Workflows, and Timers in Temporal to make agent execution easier to scan, debug, and understand in the Temporal UI."
 excerpt_vi: ""
-number: 452
+number: 456
 publishDate: "2026-08-17T00:00:00Z"
 ---
 

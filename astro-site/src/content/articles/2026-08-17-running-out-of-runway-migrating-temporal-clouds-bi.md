@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-17"
 excerpt: "How Temporal Cloud migrated its billing store to ClickHouse, gaining years of headroom, cutting steady-state costs by about 70%, and improving data freshness."
 excerpt_vi: ""
-number: 453
+number: 457
 publishDate: "2026-08-17T00:00:00Z"
 ---
 
