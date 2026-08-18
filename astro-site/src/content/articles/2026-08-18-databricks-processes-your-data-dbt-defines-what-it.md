@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-18"
 excerpt: "Your compute platform and your transformation logic are two separate decisions. Most executives approve them as one."
 excerpt_vi: ""
-number: 351
+number: 356
 publishDate: "2026-08-18T00:00:00Z"
 ---
 

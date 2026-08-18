@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-18"
 excerpt: "One of the most common questions I hear from customers as they move to an allocation-based billing model is: \"What levers do I actually have if I want to control how many resources my workloads..."
 excerpt_vi: ""
-number: 425
+number: 427
 publishDate: "2026-08-18T00:00:00Z"
 ---
 
