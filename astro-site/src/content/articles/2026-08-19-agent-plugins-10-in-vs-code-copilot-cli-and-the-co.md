@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-19"
 excerpt: "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins..."
 excerpt_vi: ""
-number: 1054
+number: 1059
 publishDate: "2026-08-19T00:00:00Z"
 ---
 

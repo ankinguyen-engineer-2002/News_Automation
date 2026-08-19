@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-19"
 excerpt: "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed… The post..."
 excerpt_vi: ""
-number: 1052
+number: 1057
 publishDate: "2026-08-19T00:00:00Z"
 ---
 

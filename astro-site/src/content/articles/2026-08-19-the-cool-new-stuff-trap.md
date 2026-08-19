@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-19"
 excerpt: "Shy Ruparel tried an AI agent to turn STL files into editable CAD. What worked was less glamorous: generate candidates, measure them, and validate."
 excerpt_vi: ""
-number: 458
+number: 460
 publishDate: "2026-08-19T00:00:00Z"
 ---
 
