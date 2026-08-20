@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-20"
 excerpt: "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which..."
 excerpt_vi: ""
-number: 1056
+number: 1064
 publishDate: "2026-08-20T00:00:00Z"
 ---
 

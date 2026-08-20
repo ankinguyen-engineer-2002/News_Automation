@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-20"
 excerpt: "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls..."
 excerpt_vi: ""
-number: 1058
+number: 1061
 publishDate: "2026-08-20T00:00:00Z"
 ---
 

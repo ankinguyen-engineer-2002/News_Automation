@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-08-20"
 excerpt: "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
 excerpt_vi: ""
-number: 509
+number: 513
 publishDate: "2026-08-20T00:00:00Z"
 ---
 

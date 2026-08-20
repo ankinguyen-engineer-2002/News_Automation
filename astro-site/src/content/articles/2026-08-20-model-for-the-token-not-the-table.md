@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-20"
 excerpt: "We were burning through Gong's API to feed AI. Modeling the transcripts in the warehouse with dbt cut token costs 20x."
 excerpt_vi: ""
-number: 362
+number: 367
 publishDate: "2026-08-20T00:00:00Z"
 ---
 
