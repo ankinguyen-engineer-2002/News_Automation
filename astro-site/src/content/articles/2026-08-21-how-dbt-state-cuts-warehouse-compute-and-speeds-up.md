@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-21"
 excerpt: "How Fanatics cut warehouse compute by only rebuilding what's changed"
 excerpt_vi: ""
-number: 371
+number: 376
 publishDate: "2026-08-21T00:00:00Z"
 ---
 

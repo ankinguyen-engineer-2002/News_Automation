@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-21"
 excerpt: "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The..."
 excerpt_vi: ""
-number: 1063
+number: 1068
 publishDate: "2026-08-21T00:00:00Z"
 ---
 
