@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-22"
 excerpt: "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post..."
 excerpt_vi: ""
-number: 1067
+number: 1072
 publishDate: "2026-08-22T00:00:00Z"
 ---
 

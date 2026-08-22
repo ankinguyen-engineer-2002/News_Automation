@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-08-22"
 excerpt: "dbt Core v1.12: what's new and how to upgrade."
 excerpt_vi: ""
-number: 374
+number: 377
 publishDate: "2026-08-22T00:00:00Z"
 ---
 

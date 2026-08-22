@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-22"
 excerpt: "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to… The post Windows..."
 excerpt_vi: ""
-number: 1070
+number: 1075
 publishDate: "2026-08-22T00:00:00Z"
 ---
 
