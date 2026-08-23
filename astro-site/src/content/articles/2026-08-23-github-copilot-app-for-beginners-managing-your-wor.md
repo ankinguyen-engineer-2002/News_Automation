@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-23"
 excerpt: "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared..."
 excerpt_vi: ""
-number: 1073
+number: 1078
 publishDate: "2026-08-23T00:00:00Z"
 ---
 

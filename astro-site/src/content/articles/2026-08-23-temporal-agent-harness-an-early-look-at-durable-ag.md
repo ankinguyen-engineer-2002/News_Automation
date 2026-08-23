@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-23"
 excerpt: "Temporal's new Agent Harness brings durable execution, tool-call approvals, and typed interfaces to production AI agents. An early look."
 excerpt_vi: ""
-number: 466
+number: 469
 publishDate: "2026-08-23T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-23"
 excerpt: "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new..."
 excerpt_vi: ""
-number: 1071
+number: 1076
 publishDate: "2026-08-23T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-08-23"
 excerpt: ""
 excerpt_vi: ""
-number: 468
+number: 471
 publishDate: "2026-08-23T00:00:00Z"
 ---
 

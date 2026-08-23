@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-23"
 excerpt: "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic..."
 excerpt_vi: ""
-number: 1074
+number: 1079
 publishDate: "2026-08-23T00:00:00Z"
 ---
 
