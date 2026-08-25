@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-25"
 excerpt: "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through..."
 excerpt_vi: ""
-number: 443
+number: 448
 publishDate: "2026-08-25T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-25"
 excerpt: "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain. The invisible thing behind every..."
 excerpt_vi: ""
-number: 442
+number: 447
 publishDate: "2026-08-25T00:00:00Z"
 ---
 
