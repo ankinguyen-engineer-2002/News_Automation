@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-26"
 excerpt: "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of..."
 excerpt_vi: ""
-number: 448
+number: 452
 publishDate: "2026-08-26T00:00:00Z"
 ---
 

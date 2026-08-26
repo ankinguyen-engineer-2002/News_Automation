@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-26"
 excerpt: "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog ."
 excerpt_vi: ""
-number: 1087
+number: 1094
 publishDate: "2026-08-26T00:00:00Z"
 ---
 
