@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-27"
 excerpt: "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to..."
 excerpt_vi: ""
-number: 449
+number: 453
 publishDate: "2026-08-27T00:00:00Z"
 ---
 

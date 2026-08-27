@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-27"
 excerpt: "GitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on. The new Customize tab in the GitHub Copilot app brings MCP… The post GitHub Copilot..."
 excerpt_vi: ""
-number: 1091
+number: 1096
 publishDate: "2026-08-27T00:00:00Z"
 ---
 
