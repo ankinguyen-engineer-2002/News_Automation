@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-08-28"
 excerpt: "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing..."
 excerpt_vi: ""
-number: 454
+number: 458
 publishDate: "2026-08-28T00:00:00Z"
 ---
 
