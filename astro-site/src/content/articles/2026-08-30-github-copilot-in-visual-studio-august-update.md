@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-30"
 excerpt: "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s… The post..."
 excerpt_vi: ""
-number: 1109
+number: 1114
 publishDate: "2026-08-30T00:00:00Z"
 ---
 
