@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-31"
 excerpt: "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request..."
 excerpt_vi: ""
-number: 1116
+number: 1121
 publishDate: "2026-08-31T00:00:00Z"
 ---
 

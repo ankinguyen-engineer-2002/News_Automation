@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-08-31"
 excerpt: "This week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE. GitHub Copilot in… The post GitHub Copilot..."
 excerpt_vi: ""
-number: 1118
+number: 1123
 publishDate: "2026-08-31T00:00:00Z"
 ---
 
