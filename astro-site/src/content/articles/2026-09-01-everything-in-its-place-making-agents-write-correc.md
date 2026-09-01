@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-01"
 excerpt: "The tools and habits I've found that lead to stable, production-ready Temporal applications."
 excerpt_vi: ""
-number: 487
+number: 491
 publishDate: "2026-09-01T00:00:00Z"
 ---
 

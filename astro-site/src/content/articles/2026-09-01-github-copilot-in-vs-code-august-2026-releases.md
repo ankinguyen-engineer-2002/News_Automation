@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-01"
 excerpt: "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent..."
 excerpt_vi: ""
-number: 1119
+number: 1124
 publishDate: "2026-09-01T00:00:00Z"
 ---
 

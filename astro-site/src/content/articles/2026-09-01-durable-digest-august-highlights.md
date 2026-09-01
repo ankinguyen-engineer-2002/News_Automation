@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-01"
 excerpt: "Highlights this month include new ways to run Workers without managing infrastructure, organize Temporal Cloud resources and build more durable AI applications."
 excerpt_vi: ""
-number: 488
+number: 492
 publishDate: "2026-09-01T00:00:00Z"
 ---
 

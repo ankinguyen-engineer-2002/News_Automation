@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-01"
 excerpt: "Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large… The..."
 excerpt_vi: ""
-number: 1121
+number: 1126
 publishDate: "2026-09-01T00:00:00Z"
 ---
 
