@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-02"
 excerpt: "Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes. The post The Economics of Agent Optimization: Four ways to lower the cost appeared..."
 excerpt_vi: ""
-number: 467
+number: 468
 publishDate: "2026-09-02T00:00:00Z"
 ---
 

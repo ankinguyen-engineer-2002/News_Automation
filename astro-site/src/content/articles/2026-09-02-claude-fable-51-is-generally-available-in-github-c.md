@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-02"
 excerpt: "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work..."
 excerpt_vi: ""
-number: 1124
+number: 1129
 publishDate: "2026-09-02T00:00:00Z"
 ---
 

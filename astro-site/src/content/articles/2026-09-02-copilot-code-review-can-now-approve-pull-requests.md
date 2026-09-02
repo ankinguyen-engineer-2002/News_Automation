@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-02"
 excerpt: "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off… The post Copilot code review can now..."
 excerpt_vi: ""
-number: 1125
+number: 1133
 publishDate: "2026-09-02T00:00:00Z"
 ---
 
