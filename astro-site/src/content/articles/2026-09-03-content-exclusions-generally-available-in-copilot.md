@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-03"
 excerpt: "The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators. Copilot won’t use excluded files as context,..."
 excerpt_vi: ""
-number: 1132
+number: 1137
 publishDate: "2026-09-03T00:00:00Z"
 ---
 
