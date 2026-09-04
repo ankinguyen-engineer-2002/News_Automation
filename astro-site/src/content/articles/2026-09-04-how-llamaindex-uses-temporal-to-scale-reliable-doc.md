@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-04"
 excerpt: "Learn how LlamaIndex moved from RabbitMQ to Temporal to make LlamaParse more durable, improve concurrency, and process tens of millions of pages per day."
 excerpt_vi: ""
-number: 503
+number: 508
 publishDate: "2026-09-04T00:00:00Z"
 ---
 

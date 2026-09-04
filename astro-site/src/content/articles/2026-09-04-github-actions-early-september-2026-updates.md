@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-04"
 excerpt: "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when… The..."
 excerpt_vi: ""
-number: 1137
+number: 1142
 publishDate: "2026-09-04T00:00:00Z"
 ---
 

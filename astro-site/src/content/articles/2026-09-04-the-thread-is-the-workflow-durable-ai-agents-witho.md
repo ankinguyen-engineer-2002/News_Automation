@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-04"
 excerpt: "Learn how Temporal Workflows can make LangGraph-based AI agents durable, preserving threads and checkpoints across crashes without changing agent code."
 excerpt_vi: ""
-number: 499
+number: 504
 publishDate: "2026-09-04T00:00:00Z"
 ---
 

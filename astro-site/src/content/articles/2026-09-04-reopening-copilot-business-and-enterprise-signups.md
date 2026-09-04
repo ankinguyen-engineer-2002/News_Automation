@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-04"
 excerpt: "We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started… The post..."
 excerpt_vi: ""
-number: 1138
+number: 1143
 publishDate: "2026-09-04T00:00:00Z"
 ---
 
