@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-05"
 excerpt: "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent..."
 excerpt_vi: ""
-number: 477
+number: 481
 publishDate: "2026-09-05T00:00:00Z"
 ---
 

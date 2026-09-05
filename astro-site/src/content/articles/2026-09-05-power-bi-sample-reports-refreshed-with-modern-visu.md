@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-05"
 excerpt: "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more..."
 excerpt_vi: ""
-number: 476
+number: 479
 publishDate: "2026-09-05T00:00:00Z"
 ---
 

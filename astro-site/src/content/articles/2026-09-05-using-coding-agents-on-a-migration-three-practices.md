@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-05"
 excerpt: "Three lessons from using coding agents during a ClickHouse migration, from cleanup automation to writing durable instructions that stay useful over time."
 excerpt_vi: ""
-number: 508
+number: 513
 publishDate: "2026-09-05T00:00:00Z"
 ---
 

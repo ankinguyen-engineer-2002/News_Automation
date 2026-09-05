@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-05"
 excerpt: "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents..."
 excerpt_vi: ""
-number: 1141
+number: 1146
 publishDate: "2026-09-05T00:00:00Z"
 ---
 
