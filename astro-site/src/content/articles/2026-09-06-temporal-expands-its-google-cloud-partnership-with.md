@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-06"
 excerpt: "Temporal expands its Google Cloud partnership with Gemini integration, durable execution, and pay-as-you-go pricing on Google Cloud Marketplace."
 excerpt_vi: ""
-number: 510
+number: 515
 publishDate: "2026-09-06T00:00:00Z"
 ---
 

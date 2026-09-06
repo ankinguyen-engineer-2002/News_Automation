@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-06"
 excerpt: "Learn how Temporal can orchestrate end-to-end test suites so failed tests retry independently, preserving progress without restarting the entire CI job."
 excerpt_vi: ""
-number: 512
+number: 517
 publishDate: "2026-09-06T00:00:00Z"
 ---
 

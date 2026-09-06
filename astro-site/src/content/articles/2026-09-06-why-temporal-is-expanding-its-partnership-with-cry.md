@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-06"
 excerpt: "Temporal is extending its Crystal Palace partnership to Palace Women, uniting to fight the access gap in football alongside the one in tech."
 excerpt_vi: ""
-number: 511
+number: 516
 publishDate: "2026-09-06T00:00:00Z"
 ---
 
