@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-07"
 excerpt: "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated..."
 excerpt_vi: ""
-number: 1153
+number: 1158
 publishDate: "2026-09-07T00:00:00Z"
 ---
 
