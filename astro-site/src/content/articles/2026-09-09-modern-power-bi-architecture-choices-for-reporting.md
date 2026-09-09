@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-09"
 excerpt: "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to..."
 excerpt_vi: ""
-number: 492
+number: 496
 publishDate: "2026-09-09T00:00:00Z"
 ---
 

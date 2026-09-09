@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-09"
 excerpt: "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal..."
 excerpt_vi: ""
-number: 1160
+number: 1165
 publishDate: "2026-09-09T00:00:00Z"
 ---
 

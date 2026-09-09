@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-09"
 excerpt: "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming..."
 excerpt_vi: ""
-number: 494
+number: 498
 publishDate: "2026-09-09T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-09"
 excerpt: "This update brings support for enterprise-managed sandbox policies, cross-file cursor jumps for next edit suggestions, global project context in chat, enterprise policy diagnostics, and a new..."
 excerpt_vi: ""
-number: 1161
+number: 1166
 publishDate: "2026-09-09T00:00:00Z"
 ---
 
