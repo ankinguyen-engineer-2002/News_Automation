@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-10"
 excerpt: "Learn to migrate Temporal Workers from dedicated infrastructure to AWS Lambda with Serverless Workers, with guidance on deployment, versioning, and testing."
 excerpt_vi: ""
-number: 529
+number: 532
 publishDate: "2026-09-10T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-10"
 excerpt: "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…..."
 excerpt_vi: ""
-number: 1166
+number: 1170
 publishDate: "2026-09-10T00:00:00Z"
 ---
 

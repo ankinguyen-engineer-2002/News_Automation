@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-10"
 excerpt: "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt...."
 excerpt_vi: ""
-number: 1165
+number: 1171
 publishDate: "2026-09-10T00:00:00Z"
 ---
 
