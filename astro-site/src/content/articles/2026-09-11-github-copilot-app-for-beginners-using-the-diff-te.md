@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-11"
 excerpt: "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot..."
 excerpt_vi: ""
-number: 1171
+number: 1176
 publishDate: "2026-09-11T00:00:00Z"
 ---
 

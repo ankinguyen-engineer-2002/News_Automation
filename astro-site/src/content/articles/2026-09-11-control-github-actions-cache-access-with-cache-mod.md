@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-11"
 excerpt: "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub..."
 excerpt_vi: ""
-number: 1174
+number: 1179
 publishDate: "2026-09-11T00:00:00Z"
 ---
 

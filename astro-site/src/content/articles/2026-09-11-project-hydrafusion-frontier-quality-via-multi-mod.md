@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-11"
 excerpt: "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research..."
 excerpt_vi: ""
-number: 1175
+number: 1180
 publishDate: "2026-09-11T00:00:00Z"
 ---
 
