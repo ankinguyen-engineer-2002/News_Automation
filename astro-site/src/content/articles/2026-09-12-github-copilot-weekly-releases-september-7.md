@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-12"
 excerpt: "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio..."
 excerpt_vi: ""
-number: 1179
+number: 1183
 publishDate: "2026-09-12T00:00:00Z"
 ---
 

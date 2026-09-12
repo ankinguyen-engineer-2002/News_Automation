@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-09-12"
 excerpt: "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
 excerpt_vi: ""
-number: 567
+number: 568
 publishDate: "2026-09-12T00:00:00Z"
 ---
 
