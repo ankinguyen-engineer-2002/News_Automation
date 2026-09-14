@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-14"
 excerpt: "This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run..."
 excerpt_vi: ""
-number: 508
+number: 511
 publishDate: "2026-09-14T00:00:00Z"
 ---
 

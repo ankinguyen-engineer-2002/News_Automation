@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-14"
 excerpt: "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post..."
 excerpt_vi: ""
-number: 1190
+number: 1195
 publishDate: "2026-09-14T00:00:00Z"
 ---
 
