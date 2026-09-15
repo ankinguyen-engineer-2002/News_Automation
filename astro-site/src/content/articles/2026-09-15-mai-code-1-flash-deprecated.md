@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-15"
 excerpt: "We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) today, September 10, 2026. Model..."
 excerpt_vi: ""
-number: 1194
+number: 1199
 publishDate: "2026-09-15T00:00:00Z"
 ---
 

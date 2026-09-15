@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-15"
 excerpt: "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for… The..."
 excerpt_vi: ""
-number: 1195
+number: 1200
 publishDate: "2026-09-15T00:00:00Z"
 ---
 

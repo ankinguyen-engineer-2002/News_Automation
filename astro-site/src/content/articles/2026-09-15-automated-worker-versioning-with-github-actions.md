@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-15"
 excerpt: "Learn how to automate Temporal Worker Versioning in CI/CD with GitHub Actions and Worker Controller for safer rollouts, traffic ramping, and rollbacks."
 excerpt_vi: ""
-number: 541
+number: 546
 publishDate: "2026-09-15T00:00:00Z"
 ---
 

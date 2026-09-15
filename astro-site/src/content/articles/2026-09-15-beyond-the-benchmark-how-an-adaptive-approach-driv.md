@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-15"
 excerpt: "For research and development (R&D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple..."
 excerpt_vi: ""
-number: 512
+number: 515
 publishDate: "2026-09-15T00:00:00Z"
 ---
 
