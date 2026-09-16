@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-16"
 excerpt: "In December, we announced the retirement of Power BI Q&A , our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to..."
 excerpt_vi: ""
-number: 513
+number: 515
 publishDate: "2026-09-16T00:00:00Z"
 ---
 

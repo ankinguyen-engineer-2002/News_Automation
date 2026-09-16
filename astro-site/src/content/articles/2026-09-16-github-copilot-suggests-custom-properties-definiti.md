@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-16"
 excerpt: "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot… The..."
 excerpt_vi: ""
-number: 1199
+number: 1204
 publishDate: "2026-09-16T00:00:00Z"
 ---
 
