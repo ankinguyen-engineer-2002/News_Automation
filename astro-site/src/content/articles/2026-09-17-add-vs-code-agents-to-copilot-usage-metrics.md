@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-17"
 excerpt: "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and..."
 excerpt_vi: ""
-number: 1204
+number: 1208
 publishDate: "2026-09-17T00:00:00Z"
 ---
 

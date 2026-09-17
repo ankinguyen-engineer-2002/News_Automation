@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-17"
 excerpt: "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to… The post Copilot..."
 excerpt_vi: ""
-number: 1202
+number: 1209
 publishDate: "2026-09-17T00:00:00Z"
 ---
 

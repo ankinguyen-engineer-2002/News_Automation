@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-17"
 excerpt: "AI is raising the bar for reliability. See why Temporal's $550M Series E, backed by Lightspeed and others, is built to meet that demand."
 excerpt_vi: ""
-number: 553
+number: 557
 publishDate: "2026-09-17T00:00:00Z"
 ---
 
