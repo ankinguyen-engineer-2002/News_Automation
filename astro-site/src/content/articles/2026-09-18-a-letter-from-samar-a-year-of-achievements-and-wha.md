@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-18"
 excerpt: "Temporal CEO Samar Abbas on a year of record growth, the Series E raise, and why Durable Execution is now core infrastructure for reliable AI agents."
 excerpt_vi: ""
-number: 554
+number: 558
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

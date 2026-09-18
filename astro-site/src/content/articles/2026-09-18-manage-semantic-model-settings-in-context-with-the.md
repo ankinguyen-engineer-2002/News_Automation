@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-18"
 excerpt: "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings..."
 excerpt_vi: ""
-number: 517
+number: 518
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

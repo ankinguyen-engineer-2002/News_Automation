@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-09-18"
 excerpt: "Every product announced at dbt Summit, from dbt v2 and dbt State to dbt Wizard and dbt Charts, and why each one matters."
 excerpt_vi: ""
-number: 388
+number: 392
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-18"
 excerpt: "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26..."
 excerpt_vi: ""
-number: 1209
+number: 1214
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

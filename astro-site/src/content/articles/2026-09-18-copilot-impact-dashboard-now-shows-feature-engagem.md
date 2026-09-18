@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-18"
 excerpt: "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need..."
 excerpt_vi: ""
-number: 1207
+number: 1213
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

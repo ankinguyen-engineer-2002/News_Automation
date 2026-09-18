@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-18"
 excerpt: "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you..."
 excerpt_vi: ""
-number: 1210
+number: 1215
 publishDate: "2026-09-18T00:00:00Z"
 ---
 

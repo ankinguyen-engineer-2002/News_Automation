@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-18"
 excerpt: "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields..."
 excerpt_vi: ""
-number: 1206
+number: 1211
 publishDate: "2026-09-18T00:00:00Z"
 ---
 
