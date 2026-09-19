@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-19"
 excerpt: "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in… The post..."
 excerpt_vi: ""
-number: 1212
+number: 1217
 publishDate: "2026-09-19T00:00:00Z"
 ---
 

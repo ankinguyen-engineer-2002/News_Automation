@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-19"
 excerpt: "Start building on Temporal Cloud with no base monthly fee, usage-based pricing, and Developer Support that scales with your application."
 excerpt_vi: ""
-number: 560
+number: 564
 publishDate: "2026-09-19T00:00:00Z"
 ---
 

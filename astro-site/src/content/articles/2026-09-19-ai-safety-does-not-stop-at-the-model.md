@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-19"
 excerpt: "Auditing what an agent did is only half the job. Companies also have to control what agents may do, and make those limits hold when systems fail."
 excerpt_vi: ""
-number: 559
+number: 563
 publishDate: "2026-09-19T00:00:00Z"
 ---
 
