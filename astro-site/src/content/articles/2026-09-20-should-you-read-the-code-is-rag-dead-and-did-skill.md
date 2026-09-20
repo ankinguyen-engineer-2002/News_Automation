@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-20"
 excerpt: "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub..."
 excerpt_vi: ""
-number: 1218
+number: 1223
 publishDate: "2026-09-20T00:00:00Z"
 ---
 

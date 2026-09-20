@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-20"
 excerpt: "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to..."
 excerpt_vi: ""
-number: 1219
+number: 1224
 publishDate: "2026-09-20T00:00:00Z"
 ---
 
