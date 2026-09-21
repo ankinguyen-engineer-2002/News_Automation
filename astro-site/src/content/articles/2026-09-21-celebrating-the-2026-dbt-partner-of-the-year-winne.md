@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-09-21"
 excerpt: "Meet the 2026 dbt Labs Partner of the Year winners: phData, Snowflake, Cívica, Datum Studio, and 66degrees."
 excerpt_vi: ""
-number: 399
+number: 403
 publishDate: "2026-09-21T00:00:00Z"
 ---
 

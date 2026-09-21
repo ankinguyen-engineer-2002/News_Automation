@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-09-21"
 excerpt: "dbt v2, dbt State are GA and Fivetran + dbt Labs debuts Fivetran Context Layer, dbt Charts and a new open lakehouse vision"
 excerpt_vi: ""
-number: 398
+number: 402
 publishDate: "2026-09-21T00:00:00Z"
 ---
 
