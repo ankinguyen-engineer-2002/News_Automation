@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-23"
 excerpt: "Temporal Standalone Activities give background jobs a durable record from submission to outcome, with built-in retries, visibility, and lifecycle control."
 excerpt_vi: ""
-number: 572
+number: 574
 publishDate: "2026-09-23T00:00:00Z"
 ---
 

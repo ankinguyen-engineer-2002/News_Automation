@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-23"
 excerpt: "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the… The post..."
 excerpt_vi: ""
-number: 1236
+number: 1241
 publishDate: "2026-09-23T00:00:00Z"
 ---
 

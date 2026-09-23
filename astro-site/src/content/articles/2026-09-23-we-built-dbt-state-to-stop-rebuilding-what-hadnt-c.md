@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-09-23"
 excerpt: "dbt State is now generally available everywhere you run dbt. See how it cuts compute costs and speeds up development."
 excerpt_vi: ""
-number: 408
+number: 411
 publishDate: "2026-09-23T00:00:00Z"
 ---
 

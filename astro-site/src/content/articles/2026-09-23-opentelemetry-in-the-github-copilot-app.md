@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-23"
 excerpt: "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open..."
 excerpt_vi: ""
-number: 1234
+number: 1239
 publishDate: "2026-09-23T00:00:00Z"
 ---
 
