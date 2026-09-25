@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-25"
 excerpt: "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days,..."
 excerpt_vi: ""
-number: 1247
+number: 1252
 publishDate: "2026-09-25T00:00:00Z"
 ---
 
