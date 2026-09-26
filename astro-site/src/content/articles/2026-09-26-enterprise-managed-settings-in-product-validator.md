@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-26"
 excerpt: "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors..."
 excerpt_vi: ""
-number: 1254
+number: 1259
 publishDate: "2026-09-26T00:00:00Z"
 ---
 
