@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-27"
 excerpt: "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent..."
 excerpt_vi: ""
-number: 1259
+number: 1264
 publishDate: "2026-09-27T00:00:00Z"
 ---
 

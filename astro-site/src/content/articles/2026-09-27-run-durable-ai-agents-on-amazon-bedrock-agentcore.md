@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-09-27"
 excerpt: "Learn how Temporal Serverless Workers and Amazon Bedrock AgentCore combine Durable Execution with elastic compute for scalable, production-ready AI agents."
 excerpt_vi: ""
-number: 579
+number: 581
 publishDate: "2026-09-27T00:00:00Z"
 ---
 
