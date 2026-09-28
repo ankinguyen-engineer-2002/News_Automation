@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-28"
 excerpt: "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The..."
 excerpt_vi: ""
-number: 1262
+number: 1267
 publishDate: "2026-09-28T00:00:00Z"
 ---
 

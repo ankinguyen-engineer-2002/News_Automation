@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-28"
 excerpt: "AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information,..."
 excerpt_vi: ""
-number: 540
+number: 544
 publishDate: "2026-09-28T00:00:00Z"
 ---
 

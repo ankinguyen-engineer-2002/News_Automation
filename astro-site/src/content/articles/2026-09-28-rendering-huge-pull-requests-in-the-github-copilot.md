@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-28"
 excerpt: "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app..."
 excerpt_vi: ""
-number: 1265
+number: 1270
 publishDate: "2026-09-28T00:00:00Z"
 ---
 
