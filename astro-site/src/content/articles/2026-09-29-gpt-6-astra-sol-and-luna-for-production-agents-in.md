@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-29"
 excerpt: "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks. The post GPT-6 Astra, Sol, and Luna: For..."
 excerpt_vi: ""
-number: 543
+number: 548
 publishDate: "2026-09-29T00:00:00Z"
 ---
 

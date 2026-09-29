@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-29"
 excerpt: "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it. The post Ship agents faster with..."
 excerpt_vi: ""
-number: 544
+number: 549
 publishDate: "2026-09-29T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-29"
 excerpt: "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement..."
 excerpt_vi: ""
-number: 1270
+number: 1275
 publishDate: "2026-09-29T00:00:00Z"
 ---
 

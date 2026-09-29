@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-09-29"
 excerpt: "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post..."
 excerpt_vi: ""
-number: 1269
+number: 1274
 publishDate: "2026-09-29T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-29"
 excerpt: "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software. The post Designing agent-first platforms: What changes when..."
 excerpt_vi: ""
-number: 545
+number: 550
 publishDate: "2026-09-29T00:00:00Z"
 ---
 
