@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-09-30"
 excerpt: "Analytics teams have always modeled data for BI. Context engineering models data for agents, starting with semantic search."
 excerpt_vi: ""
-number: 414
+number: 415
 publishDate: "2026-09-30T00:00:00Z"
 ---
 

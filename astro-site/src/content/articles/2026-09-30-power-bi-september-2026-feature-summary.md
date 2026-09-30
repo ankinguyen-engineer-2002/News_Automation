@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-09-30"
 excerpt: "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot..."
 excerpt_vi: ""
-number: 548
+number: 553
 publishDate: "2026-09-30T00:00:00Z"
 ---
 
