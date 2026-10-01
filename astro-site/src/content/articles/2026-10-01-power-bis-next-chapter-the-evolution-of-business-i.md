@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-01"
 excerpt: "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements..."
 excerpt_vi: ""
-number: 552
+number: 557
 publishDate: "2026-10-01T00:00:00Z"
 ---
 

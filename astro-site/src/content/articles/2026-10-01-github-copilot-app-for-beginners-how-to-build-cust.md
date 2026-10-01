@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-01"
 excerpt: "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The..."
 excerpt_vi: ""
-number: 1277
+number: 1283
 publishDate: "2026-10-01T00:00:00Z"
 ---
 

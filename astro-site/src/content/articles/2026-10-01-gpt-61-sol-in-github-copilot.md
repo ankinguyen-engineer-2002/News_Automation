@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-01"
 excerpt: "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post..."
 excerpt_vi: ""
-number: 1276
+number: 1281
 publishDate: "2026-10-01T00:00:00Z"
 ---
 
