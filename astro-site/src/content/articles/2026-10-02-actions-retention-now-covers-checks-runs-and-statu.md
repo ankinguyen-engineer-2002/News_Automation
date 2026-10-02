@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-02"
 excerpt: "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are… The..."
 excerpt_vi: ""
-number: 1287
+number: 1292
 publishDate: "2026-10-02T00:00:00Z"
 ---
 

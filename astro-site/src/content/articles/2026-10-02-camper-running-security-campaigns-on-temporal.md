@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-02"
 excerpt: "See how Temporal uses Camper to orchestrate security campaigns across repositories, connecting findings, fixes, reviews, retries, and campaign state."
 excerpt_vi: ""
-number: 582
+number: 583
 publishDate: "2026-10-02T00:00:00Z"
 ---
 
