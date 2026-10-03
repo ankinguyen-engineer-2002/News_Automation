@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-03"
 excerpt: "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default… The post Copilot code review:..."
 excerpt_vi: ""
-number: 1289
+number: 1294
 publishDate: "2026-10-03T00:00:00Z"
 ---
 

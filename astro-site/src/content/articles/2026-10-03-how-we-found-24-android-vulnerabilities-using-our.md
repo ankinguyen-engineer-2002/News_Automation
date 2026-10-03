@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-03"
 excerpt: "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android..."
 excerpt_vi: ""
-number: 1291
+number: 1296
 publishDate: "2026-10-03T00:00:00Z"
 ---
 

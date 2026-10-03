@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-03"
 excerpt: "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…..."
 excerpt_vi: ""
-number: 1288
+number: 1293
 publishDate: "2026-10-03T00:00:00Z"
 ---
 
