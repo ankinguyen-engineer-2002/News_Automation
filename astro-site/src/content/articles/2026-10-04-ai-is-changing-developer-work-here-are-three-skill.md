@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-04"
 excerpt: "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen...."
 excerpt_vi: ""
-number: 1294
+number: 1299
 publishDate: "2026-10-04T00:00:00Z"
 ---
 
