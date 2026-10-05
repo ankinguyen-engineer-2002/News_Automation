@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-05"
 excerpt: "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI. The post FabCon and SQLCon 2026 in Barcelona: Building the..."
 excerpt_vi: ""
-number: 571
+number: 575
 publishDate: "2026-10-05T00:00:00Z"
 ---
 
