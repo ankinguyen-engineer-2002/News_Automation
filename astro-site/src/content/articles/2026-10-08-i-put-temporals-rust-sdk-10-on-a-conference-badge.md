@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-08"
 excerpt: "How Temporal's Rust SDK 1.0 ran on an ESP32-S3 conference badge: four compatibility patches, a trivia game, and the sleep bug that surprised a booth."
 excerpt_vi: ""
-number: 594
+number: 596
 publishDate: "2026-10-08T00:00:00Z"
 ---
 

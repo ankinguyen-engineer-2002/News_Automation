@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-08"
 excerpt: "Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure… The post..."
 excerpt_vi: ""
-number: 1316
+number: 1321
 publishDate: "2026-10-08T00:00:00Z"
 ---
 
