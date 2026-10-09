@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-09"
 excerpt: "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to..."
 excerpt_vi: ""
-number: 1324
+number: 1329
 publishDate: "2026-10-09T00:00:00Z"
 ---
 
