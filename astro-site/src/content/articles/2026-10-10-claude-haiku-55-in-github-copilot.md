@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-10"
 excerpt: "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In..."
 excerpt_vi: ""
-number: 1328
+number: 1333
 publishDate: "2026-10-10T00:00:00Z"
 ---
 

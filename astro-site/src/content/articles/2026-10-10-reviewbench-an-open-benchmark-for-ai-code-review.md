@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-10"
 excerpt: "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The..."
 excerpt_vi: ""
-number: 1331
+number: 1336
 publishDate: "2026-10-10T00:00:00Z"
 ---
 

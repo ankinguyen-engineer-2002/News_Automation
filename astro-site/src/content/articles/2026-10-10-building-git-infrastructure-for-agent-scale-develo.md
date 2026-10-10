@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-10"
 excerpt: "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development..."
 excerpt_vi: ""
-number: 1330
+number: 1335
 publishDate: "2026-10-10T00:00:00Z"
 ---
 

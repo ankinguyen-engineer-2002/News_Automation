@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-10"
 excerpt: "Experts from Oso security have joined Temporal to make authorization a native part of how AI agents run, so access holds through crashes and retries."
 excerpt_vi: ""
-number: 599
+number: 602
 publishDate: "2026-10-10T00:00:00Z"
 ---
 
