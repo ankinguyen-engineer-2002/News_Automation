@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-11"
 excerpt: "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…..."
 excerpt_vi: ""
-number: 1334
+number: 1339
 publishDate: "2026-10-11T00:00:00Z"
 ---
 

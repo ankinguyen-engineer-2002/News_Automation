@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-11"
 excerpt: "Learn how dbt State lets you reuse what hasn’t changed and cut data spend."
 excerpt_vi: ""
-number: 423
+number: 425
 publishDate: "2026-10-11T00:00:00Z"
 ---
 
