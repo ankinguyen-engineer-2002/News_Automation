@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-13"
 excerpt: "When a machine dies mid-command, the Pi coding agent keeps going. See how pi-temporal uses Temporal Workers and Durable Execution to recover agent turns."
 excerpt_vi: ""
-number: 606
+number: 607
 publishDate: "2026-10-13T00:00:00Z"
 ---
 

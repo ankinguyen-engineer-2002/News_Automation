@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-13"
 excerpt: "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The..."
 excerpt_vi: ""
-number: 1345
+number: 1352
 publishDate: "2026-10-13T00:00:00Z"
 ---
 

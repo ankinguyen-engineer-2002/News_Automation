@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-13"
 excerpt: "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post..."
 excerpt_vi: ""
-number: 1344
+number: 1349
 publishDate: "2026-10-13T00:00:00Z"
 ---
 
