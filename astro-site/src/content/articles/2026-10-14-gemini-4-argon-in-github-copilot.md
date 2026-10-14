@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-14"
 excerpt: "Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon… The..."
 excerpt_vi: ""
-number: 1349
+number: 1353
 publishDate: "2026-10-14T00:00:00Z"
 ---
 

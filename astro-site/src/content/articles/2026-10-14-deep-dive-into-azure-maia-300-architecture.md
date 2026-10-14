@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-14"
 excerpt: "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog ."
 excerpt_vi: ""
-number: 583
+number: 585
 publishDate: "2026-10-14T00:00:00Z"
 ---
 
