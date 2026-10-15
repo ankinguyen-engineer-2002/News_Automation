@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-15"
 excerpt: "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum..."
 excerpt_vi: ""
-number: 1358
+number: 1363
 publishDate: "2026-10-15T00:00:00Z"
 ---
 

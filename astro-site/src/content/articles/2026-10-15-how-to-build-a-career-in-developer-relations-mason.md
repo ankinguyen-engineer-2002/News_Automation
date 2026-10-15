@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-15"
 excerpt: "Mason Egger started teaching at 19. From band director plans to PyTexas Foundation president, see how a Temporal Solutions Architect is still a teacher."
 excerpt_vi: ""
-number: 613
+number: 615
 publishDate: "2026-10-15T00:00:00Z"
 ---
 

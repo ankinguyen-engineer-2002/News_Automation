@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-15"
 excerpt: "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and..."
 excerpt_vi: ""
-number: 1356
+number: 1361
 publishDate: "2026-10-15T00:00:00Z"
 ---
 

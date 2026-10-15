@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-15"
 excerpt: "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move..."
 excerpt_vi: ""
-number: 1357
+number: 1362
 publishDate: "2026-10-15T00:00:00Z"
 ---
 
