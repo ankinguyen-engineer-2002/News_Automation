@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-16"
 excerpt: "dbt now supports Amazon Redshift data sharing: write across databases, isolate dev and CI, and run faster without copying data."
 excerpt_vi: ""
-number: 429
+number: 430
 publishDate: "2026-10-16T00:00:00Z"
 ---
 
