@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-17"
 excerpt: "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about..."
 excerpt_vi: ""
-number: 1364
+number: 1369
 publishDate: "2026-10-17T00:00:00Z"
 ---
 

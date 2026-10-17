@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-17"
 excerpt: "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The..."
 excerpt_vi: ""
-number: 1368
+number: 1373
 publishDate: "2026-10-17T00:00:00Z"
 ---
 
