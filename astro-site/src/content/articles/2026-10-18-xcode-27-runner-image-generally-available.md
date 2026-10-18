@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-18"
 excerpt: "You can now use the generally available Xcode 27 runner image to build and test your Apple applications in GitHub Actions. Previously in public preview, this GitHub-hosted image runs on… The post..."
 excerpt_vi: ""
-number: 1372
+number: 1377
 publishDate: "2026-10-18T00:00:00Z"
 ---
 

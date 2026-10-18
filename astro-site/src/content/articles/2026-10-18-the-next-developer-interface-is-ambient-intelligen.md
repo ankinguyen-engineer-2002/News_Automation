@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-18"
 excerpt: "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer..."
 excerpt_vi: ""
-number: 1371
+number: 1376
 publishDate: "2026-10-18T00:00:00Z"
 ---
 
