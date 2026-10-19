@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-19"
 excerpt: "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation. What’s new..."
 excerpt_vi: ""
-number: 599
+number: 604
 publishDate: "2026-10-19T00:00:00Z"
 ---
 

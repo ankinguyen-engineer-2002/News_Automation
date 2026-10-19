@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-19"
 excerpt: "See how AWS and Temporal are deepening their partnership to bring durable execution to production AI agents across Strands, AgentCore, and Lambda."
 excerpt_vi: ""
-number: 620
+number: 622
 publishDate: "2026-10-19T00:00:00Z"
 ---
 
