@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-20"
 excerpt: "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now… The post..."
 excerpt_vi: ""
-number: 1381
+number: 1387
 publishDate: "2026-10-20T00:00:00Z"
 ---
 
