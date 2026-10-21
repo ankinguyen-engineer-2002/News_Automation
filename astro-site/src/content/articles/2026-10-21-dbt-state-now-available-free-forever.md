@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-21"
 excerpt: "dbt State is now free forever for self-hosted dbt users. Get a monthly allowance, no card needed, and skip unchanged models."
 excerpt_vi: ""
-number: 431
+number: 433
 publishDate: "2026-10-21T00:00:00Z"
 ---
 

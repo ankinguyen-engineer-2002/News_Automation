@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-21"
 excerpt: "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't..."
 excerpt_vi: ""
-number: 610
+number: 615
 publishDate: "2026-10-21T00:00:00Z"
 ---
 

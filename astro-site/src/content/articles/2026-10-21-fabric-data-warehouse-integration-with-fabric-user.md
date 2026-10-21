@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-21"
 excerpt: "Microsoft Fabric Data Warehouse now integrates with Fabric User Data Functions in preview, so you can extend T-SQL with custom Python logic without building separate applications or pipelines. Use..."
 excerpt_vi: ""
-number: 612
+number: 617
 publishDate: "2026-10-21T00:00:00Z"
 ---
 

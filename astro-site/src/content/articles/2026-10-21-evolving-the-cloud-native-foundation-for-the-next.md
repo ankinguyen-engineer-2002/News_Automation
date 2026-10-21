@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-10-21"
 excerpt: "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next..."
 excerpt_vi: ""
-number: 613
+number: 618
 publishDate: "2026-10-21T00:00:00Z"
 ---
 

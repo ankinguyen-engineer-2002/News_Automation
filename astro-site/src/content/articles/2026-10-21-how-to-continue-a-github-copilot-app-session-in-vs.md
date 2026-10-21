@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-21"
 excerpt: "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in..."
 excerpt_vi: ""
-number: 1384
+number: 1389
 publishDate: "2026-10-21T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-21"
 excerpt: "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem..."
 excerpt_vi: ""
-number: 1387
+number: 1392
 publishDate: "2026-10-21T00:00:00Z"
 ---
 
