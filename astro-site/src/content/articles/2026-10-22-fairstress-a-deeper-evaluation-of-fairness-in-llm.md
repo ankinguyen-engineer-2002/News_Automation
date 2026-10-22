@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-10-22"
 excerpt: ""
 excerpt_vi: ""
-number: 644
+number: 645
 publishDate: "2026-10-22T00:00:00Z"
 ---
 
