@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-24"
 excerpt: "Six months in, our first 30 dbt Champions show how encouragement, Big Projects, and finding your people help a community grow."
 excerpt_vi: ""
-number: 437
+number: 439
 publishDate: "2026-10-24T00:00:00Z"
 ---
 

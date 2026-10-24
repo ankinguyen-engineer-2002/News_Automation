@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-24"
 excerpt: "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The..."
 excerpt_vi: ""
-number: 1402
+number: 1410
 publishDate: "2026-10-24T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-24"
 excerpt: "A conversation with Frank Hidalgo, former CTO of StackAI, now part of Asana and Hien Phan: how Temporal cut indexing failures from 20% to below 0.1%."
 excerpt_vi: ""
-number: 631
+number: 633
 publishDate: "2026-10-24T00:00:00Z"
 ---
 
