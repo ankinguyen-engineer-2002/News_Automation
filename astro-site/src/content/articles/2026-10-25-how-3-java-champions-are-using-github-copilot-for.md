@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-25"
 excerpt: "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot..."
 excerpt_vi: ""
-number: 1411
+number: 1416
 publishDate: "2026-10-25T00:00:00Z"
 ---
 
