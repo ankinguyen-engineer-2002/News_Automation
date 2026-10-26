@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-26"
 excerpt: "Follow Melanie Warrick’s path from film school to AI and developer advocacy at Temporal, shaped by curiosity, storytelling, and a drive to keep learning."
 excerpt_vi: ""
-number: 634
+number: 637
 publishDate: "2026-10-26T00:00:00Z"
 ---
 

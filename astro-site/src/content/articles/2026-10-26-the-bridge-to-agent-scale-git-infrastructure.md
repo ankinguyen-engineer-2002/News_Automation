@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-26"
 excerpt: "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge..."
 excerpt_vi: ""
-number: 1413
+number: 1418
 publishDate: "2026-10-26T00:00:00Z"
 ---
 

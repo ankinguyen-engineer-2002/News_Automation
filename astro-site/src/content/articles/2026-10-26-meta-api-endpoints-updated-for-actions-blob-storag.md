@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-26"
 excerpt: "We’re adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If… The post Meta..."
 excerpt_vi: ""
-number: 1415
+number: 1420
 publishDate: "2026-10-26T00:00:00Z"
 ---
 
