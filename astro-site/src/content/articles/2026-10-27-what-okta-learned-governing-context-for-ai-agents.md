@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-27"
 excerpt: "Okta rebuilt how it governs context for AI agents, using dbt as the single source of truth."
 excerpt_vi: ""
-number: 451
+number: 456
 publishDate: "2026-10-27T00:00:00Z"
 ---
 

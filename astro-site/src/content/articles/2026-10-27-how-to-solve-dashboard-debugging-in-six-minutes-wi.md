@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-27"
 excerpt: "An AI agent used dbt lineage from inside the BI layer to answer three data mysteries in the time it takes to get coffee."
 excerpt_vi: ""
-number: 449
+number: 454
 publishDate: "2026-10-27T00:00:00Z"
 ---
 

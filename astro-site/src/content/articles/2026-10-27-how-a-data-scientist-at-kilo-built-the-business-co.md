@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-27"
 excerpt: "How a data scientist built an AI context layer for organizational knowledge a dbt project alone can't hold."
 excerpt_vi: ""
-number: 452
+number: 457
 publishDate: "2026-10-27T00:00:00Z"
 ---
 

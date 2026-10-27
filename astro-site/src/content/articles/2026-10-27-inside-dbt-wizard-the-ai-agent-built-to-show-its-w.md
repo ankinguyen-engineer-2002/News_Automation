@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-27"
 excerpt: "dbt Wizard's designer and engineering lead show how the agent validates its own work before code ever reaches production."
 excerpt_vi: ""
-number: 450
+number: 455
 publishDate: "2026-10-27T00:00:00Z"
 ---
 
