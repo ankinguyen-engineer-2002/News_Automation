@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-28"
 excerpt: "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make..."
 excerpt_vi: ""
-number: 1422
+number: 1429
 publishDate: "2026-10-28T00:00:00Z"
 ---
 

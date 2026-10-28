@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-28"
 excerpt: "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The..."
 excerpt_vi: ""
-number: 1426
+number: 1431
 publishDate: "2026-10-28T00:00:00Z"
 ---
 

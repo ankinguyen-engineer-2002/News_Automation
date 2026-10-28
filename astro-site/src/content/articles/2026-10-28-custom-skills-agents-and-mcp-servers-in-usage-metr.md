@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-28"
 excerpt: "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them..."
 excerpt_vi: ""
-number: 1424
+number: 1428
 publishDate: "2026-10-28T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-28"
 excerpt: "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1..."
 excerpt_vi: ""
-number: 1423
+number: 1427
 publishDate: "2026-10-28T00:00:00Z"
 ---
 
