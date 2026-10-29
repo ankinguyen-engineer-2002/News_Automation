@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-29"
 excerpt: "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The..."
 excerpt_vi: ""
-number: 1429
+number: 1434
 publishDate: "2026-10-29T00:00:00Z"
 ---
 

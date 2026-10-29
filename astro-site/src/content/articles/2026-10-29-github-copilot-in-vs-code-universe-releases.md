@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-29"
 excerpt: "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code,..."
 excerpt_vi: ""
-number: 1427
+number: 1432
 publishDate: "2026-10-29T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-29"
 excerpt: "Changes across Snowflake, dbt, and DuckDB made Apache Iceberg simple enough for a small team to set up in an afternoon."
 excerpt_vi: ""
-number: 461
+number: 466
 publishDate: "2026-10-29T00:00:00Z"
 ---
 
