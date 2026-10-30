@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-30"
 excerpt: "Temporal Proxy centralizes payload encryption with keys you control, so Temporal Cloud can’t read sensitive data and teams skip custom encryption libraries."
 excerpt_vi: ""
-number: 659
+number: 664
 publishDate: "2026-10-30T00:00:00Z"
 ---
 

@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-10-30"
 excerpt: "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository… The post GitHub..."
 excerpt_vi: ""
-number: 1435
+number: 1440
 publishDate: "2026-10-30T00:00:00Z"
 ---
 
