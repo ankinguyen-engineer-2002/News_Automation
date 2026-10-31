@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-10-31"
 excerpt: "Google Cloud on wiring BigQuery's AI SQL functions into dbt pipelines, from sentiment scoring to LLM-generated product briefings."
 excerpt_vi: ""
-number: 468
+number: 473
 publishDate: "2026-10-31T00:00:00Z"
 ---
 

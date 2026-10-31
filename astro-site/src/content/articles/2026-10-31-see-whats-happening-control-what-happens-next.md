@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-10-31"
 excerpt: "Learn how Temporal’s production controls help you find stalled Workflows, pause execution, adjust Activity settings, and recover from production issues."
 excerpt_vi: ""
-number: 663
+number: 668
 publishDate: "2026-10-31T00:00:00Z"
 ---
 
