@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-11-01"
 excerpt: "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on..."
 excerpt_vi: ""
-number: 636
+number: 638
 publishDate: "2026-11-01T00:00:00Z"
 ---
 

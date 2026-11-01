@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-11-01"
 excerpt: "Ecolab and Datafold used an AI migration agent to rebuild a decade of tangled Snowflake logic as clean, documented dbt models."
 excerpt_vi: ""
-number: 474
+number: 479
 publishDate: "2026-11-01T00:00:00Z"
 ---
 

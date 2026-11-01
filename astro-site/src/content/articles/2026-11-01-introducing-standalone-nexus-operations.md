@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-01"
 excerpt: "Standalone Nexus Operations lets apps and agents call durable Nexus services directly through the Temporal SDK, with retries and tracking built in."
 excerpt_vi: ""
-number: 667
+number: 672
 publishDate: "2026-11-01T00:00:00Z"
 ---
 

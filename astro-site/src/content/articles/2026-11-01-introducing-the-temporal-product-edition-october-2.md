@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-01"
 excerpt: "Temporal’s first Product Edition delivers five launches in five days, from Nexus and Proxy to Serverless Workers and Labs, for durable apps and agents."
 excerpt_vi: ""
-number: 666
+number: 671
 publishDate: "2026-11-01T00:00:00Z"
 ---
 
