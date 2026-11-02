@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-02"
 excerpt: "Temporal’s SVP of People speaks on the messy middle between growth phases, and how mental models and manager investment help people grow with the company."
 excerpt_vi: ""
-number: 673
+number: 679
 publishDate: "2026-11-02T00:00:00Z"
 ---
 

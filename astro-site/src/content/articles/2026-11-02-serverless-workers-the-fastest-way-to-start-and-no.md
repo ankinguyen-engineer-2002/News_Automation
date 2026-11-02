@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-02"
 excerpt: "Temporal Serverless Workers pair Durable Execution with on-demand compute on AWS Lambda and Google Cloud Run, so jobs and AI apps scale up and down to zero."
 excerpt_vi: ""
-number: 672
+number: 677
 publishDate: "2026-11-02T00:00:00Z"
 ---
 
