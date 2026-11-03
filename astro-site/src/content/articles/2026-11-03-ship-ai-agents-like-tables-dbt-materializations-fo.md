@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-11-03"
 excerpt: "Under Armour turned Snowflake AI agents into dbt models, giving every agent the same review and CI process as every table."
 excerpt_vi: ""
-number: 485
+number: 490
 publishDate: "2026-11-03T00:00:00Z"
 ---
 

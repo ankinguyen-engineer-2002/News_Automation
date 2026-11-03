@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-03"
 excerpt: "Temporal integrations for Google ADK, OpenAI Agents SDK, AWS Strands, LangGraph, and more are GA. Here to add Durable Execution to your agents."
 excerpt_vi: ""
-number: 676
+number: 679
 publishDate: "2026-11-03T00:00:00Z"
 ---
 

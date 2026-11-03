@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-03"
 excerpt: "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security..."
 excerpt_vi: ""
-number: 1455
+number: 1462
 publishDate: "2026-11-03T00:00:00Z"
 ---
 

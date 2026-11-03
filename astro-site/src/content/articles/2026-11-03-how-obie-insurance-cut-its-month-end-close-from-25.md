@@ -7,7 +7,7 @@ topic: "data-platform"
 date: "2026-11-03"
 excerpt: "Obie Insurance rebuilt on dbt and Apache Iceberg, cutting a critical monthly process from over 25 hours to 2 hours."
 excerpt_vi: ""
-number: 487
+number: 492
 publishDate: "2026-11-03T00:00:00Z"
 ---
 
