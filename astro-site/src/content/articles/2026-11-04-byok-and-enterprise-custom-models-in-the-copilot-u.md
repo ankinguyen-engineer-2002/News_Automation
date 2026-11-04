@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-04"
 excerpt: "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and..."
 excerpt_vi: ""
-number: 1462
+number: 1467
 publishDate: "2026-11-04T00:00:00Z"
 ---
 
