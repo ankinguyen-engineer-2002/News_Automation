@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-05"
 excerpt: "See how Temporal preserves progress across failures in Kubernetes analysis and AI agent Workflows, while keeping retries and recovery explicit."
 excerpt_vi: ""
-number: 683
+number: 686
 publishDate: "2026-11-05T00:00:00Z"
 ---
 

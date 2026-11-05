@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-05"
 excerpt: "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub..."
 excerpt_vi: ""
-number: 1469
+number: 1474
 publishDate: "2026-11-05T00:00:00Z"
 ---
 

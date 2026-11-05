@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-05"
 excerpt: "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting..."
 excerpt_vi: ""
-number: 1468
+number: 1473
 publishDate: "2026-11-05T00:00:00Z"
 ---
 
