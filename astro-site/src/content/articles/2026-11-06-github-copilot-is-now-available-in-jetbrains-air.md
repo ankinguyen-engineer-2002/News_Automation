@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-06"
 excerpt: "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your… The post..."
 excerpt_vi: ""
-number: 1475
+number: 1478
 publishDate: "2026-11-06T00:00:00Z"
 ---
 

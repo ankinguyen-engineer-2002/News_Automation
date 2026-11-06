@@ -7,7 +7,7 @@ topic: "ai-agents"
 date: "2026-11-06"
 excerpt: "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
 excerpt_vi: ""
-number: 663
+number: 665
 publishDate: "2026-11-06T00:00:00Z"
 ---
 

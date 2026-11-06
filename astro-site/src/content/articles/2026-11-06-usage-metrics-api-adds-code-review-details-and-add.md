@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-06"
 excerpt: "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports..."
 excerpt_vi: ""
-number: 1473
+number: 1479
 publishDate: "2026-11-06T00:00:00Z"
 ---
 

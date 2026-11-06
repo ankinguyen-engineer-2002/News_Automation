@@ -7,7 +7,7 @@ topic: "automation"
 date: "2026-11-06"
 excerpt: "Explore October’s product updates and practical examples of building reliable applications with Temporal."
 excerpt_vi: ""
-number: 688
+number: 691
 publishDate: "2026-11-06T00:00:00Z"
 ---
 

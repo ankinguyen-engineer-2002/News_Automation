@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-11-06"
 excerpt: "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including..."
 excerpt_vi: ""
-number: 644
+number: 647
 publishDate: "2026-11-06T00:00:00Z"
 ---
 
