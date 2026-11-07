@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-07"
 excerpt: "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post..."
 excerpt_vi: ""
-number: 1478
+number: 1483
 publishDate: "2026-11-07T00:00:00Z"
 ---
 

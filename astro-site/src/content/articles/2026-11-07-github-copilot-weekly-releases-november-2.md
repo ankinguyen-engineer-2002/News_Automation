@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-07"
 excerpt: "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post..."
 excerpt_vi: ""
-number: 1480
+number: 1485
 publishDate: "2026-11-07T00:00:00Z"
 ---
 

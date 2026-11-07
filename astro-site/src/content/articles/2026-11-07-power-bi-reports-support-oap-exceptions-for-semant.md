@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-11-07"
 excerpt: "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports , launched in June, required a report in an..."
 excerpt_vi: ""
-number: 646
+number: 650
 publishDate: "2026-11-07T00:00:00Z"
 ---
 

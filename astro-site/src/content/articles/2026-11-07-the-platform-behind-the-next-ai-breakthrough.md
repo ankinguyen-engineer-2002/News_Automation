@@ -7,7 +7,7 @@ topic: "microsoft"
 date: "2026-11-07"
 excerpt: "The next frontier of AI is coming into focus as agents take on longer, more strategic work. The post The Platform Behind the Next AI Breakthrough appeared first on Microsoft Azure Blog ."
 excerpt_vi: ""
-number: 649
+number: 652
 publishDate: "2026-11-07T00:00:00Z"
 ---
 

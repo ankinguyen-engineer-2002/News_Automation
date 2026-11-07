@@ -7,7 +7,7 @@ topic: "github"
 date: "2026-11-07"
 excerpt: "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more..."
 excerpt_vi: ""
-number: 1481
+number: 1487
 publishDate: "2026-11-07T00:00:00Z"
 ---
 
